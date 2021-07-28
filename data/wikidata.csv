@@ -1,19 +1,21 @@
 wdid,name,wdLabel,gender,dob,dobPrecision,source,pid,position,psid
-Q4590497,Abid Raja,Abid Raja,male,1975-11-05T00:00:00Z,11,,Q6866085,Minister of Culture,Q4590497-8e5d5212-473c-1321-b9cf-65320c08d619
-Q457128,Bent Høie,Bent Høie,male,1971-05-04T00:00:00Z,11,,Q6866170,Norwegian Minister of Health and Care Services,Q457128-b0ccecfe-4e93-0b2e-16c4-4ce2625692ea
-Q17113366,Dag Inge Ulstein,Dag Inge Ulstein,male,1980-12-04T00:00:00Z,11,,Q4574171,Minister of International Development,Q17113366-5d9f50d5-4ea1-9cdb-7bde-d9aed7a9d0d5
-Q291644,Erna Solberg,Erna Solberg,female,1961-02-24T00:00:00Z,11,,Q2334076,Prime Minister of Norway,Q291644-d189c02c-4023-cb04-efe9-16ea251ba476
+Q4590497,Abid Raja,Abid Raja,male,1975-11-05T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q6866085,Minister of Culture and Equality,Q4590497-8e5d5212-473c-1321-b9cf-65320c08d619
+Q457128,Bent Høie,Bent Høie,male,1971-05-04T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q6866170,Minister of Health and Care services,Q457128-b0ccecfe-4e93-0b2e-16c4-4ce2625692ea
+Q17113366,Dag-Inge Ulstein,Dag Inge Ulstein,male,1980-12-04T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q4574171,Minister of International Development,Q17113366-5d9f50d5-4ea1-9cdb-7bde-d9aed7a9d0d5
+Q291644,Erna Solberg,Erna Solberg,female,1961-02-24T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q2334076,Prime Minister,Q291644-d189c02c-4023-cb04-efe9-16ea251ba476
 Q1799849,Frank Bakke-Jensen,Frank Bakke-Jensen,male,1965-03-08T00:00:00Z,11,,Q1225156,Minister of Defence,Q1799849-fa94fa52-4e9a-e99a-e3b9-7151297abefd
-Q5620064,Guri Melby,Guri Melby,female,1981-02-03T00:00:00Z,11,,Q22981866,Minister of Education and Research,Q5620064-fcdd7c44-4766-5250-c7b0-ef66ece241f8
-Q1770992,Ine Marie Eriksen Søreide,Ine Marie Eriksen Søreide,female,1976-05-02T00:00:00Z,11,,Q18018541,Foreign Minister of Norway,Q1770992-66d27a89-4259-3ceb-345a-c1b7d0a6f655
+Q5620064,Guri Melby,Guri Melby,female,1981-02-03T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q22981866,Minister of Education and Integration,Q5620064-fcdd7c44-4766-5250-c7b0-ef66ece241f8
+Q4567725,Henrik Asheim,Henrik Asheim,male,1983-08-21T00:00:00Z,11,,Q57338069,Minister of Research and Higher Education,Q4567725-e3fbd1fa-480c-c6ff-ebb2-a42b49e62007
+Q1770992,Ine Eriksen Søreide,Ine Marie Eriksen Søreide,female,1976-05-02T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q18018541,Minister of Foreign Affairs,Q1770992-66d27a89-4259-3ceb-345a-c1b7d0a6f655
 Q15079451,Iselin Nybø,Iselin Nybø,female,1981-05-14T00:00:00Z,11,,Q56489714,Minister of Trade and Industry,Q15079451-f0a553e4-4158-fa14-4d40-8c4c976df2ec
-Q156553,Jan Tore Sanner,Jan Tore Sanner,male,1965-05-06T00:00:00Z,11,,Q3734685,Minister of Finance of Norway,Q156553-88b3b60b-44f8-ce0e-4858-478de068c9f0
+Q156553,Jan Tore Sanner,Jan Tore Sanner,male,1965-05-06T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q3734685,Minister of Finance,Q156553-88b3b60b-44f8-ce0e-4858-478de068c9f0
 Q4573115,Kjell Ingolf Ropstad,Kjell Ingolf Ropstad,male,1985-06-01T00:00:00Z,11,,Q14436783,Minister of Children and Families,Q4573115-4efe8867-4d86-aeeb-9916-6961c2e4549c
-Q1350399,Knut Arild Hareide,Knut Arild Hareide,male,1972-11-23T00:00:00Z,11,,Q6514745,Minister of Transport and Communications,Q1350399-5f5d6b31-449a-cc9e-a867-e79a9e77857e
+Q1350399,Knut Arild Hareide,Knut Arild Hareide,male,1972-11-23T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q6514745,Minister of Transport,Q1350399-5f5d6b31-449a-cc9e-a867-e79a9e77857e
+Q6514654,Linda Hofstad Helleland,Linda Hofstad Helleland,female,1977-08-26T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q83547927,Minister of Regional Development and Digitalisation,Q6514654-306986b8-494d-985c-0841-0403efdf6f44
 Q6515796,Monica Mæland,Monica Mæland,female,1968-02-06T00:00:00Z,11,,Q1769706,Minister of Justice and Public Security,Q6515796-3cfe78e1-4a09-b304-aec8-f092bea9c0d3
-Q4569595,Nikolai Astrup,Nikolai Astrup,male,1978-06-12T00:00:00Z,11,,Q3437006,Minister of Local Government and Regional Development,Q4569595-2a7691b0-426e-3508-68a0-1d0335719a70
+Q4569595,Nikolai Astrup,Nikolai Astrup,male,1978-06-12T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q3437006,Minister of Local Government and Modernisation,Q4569595-2a7691b0-426e-3508-68a0-1d0335719a70
 Q7077317,Odd Emil Ingebrigtsen,Odd Emil Ingebrigtsen,male,1964-10-08T00:00:00Z,11,,Q17010253,Minister of Fisheries and Seafood,Q7077317-f1b314e4-4a77-8ad0-9532-2eab3da6a719
-Q11212577,Olaug Bollestad,Olaug Bollestad,female,1961-11-04T00:00:00Z,11,,Q11992117,Minister of Agriculture and Food,Q11212577-091b9124-4059-8b7a-2981-ab47af09a0ad
-Q1766708,Sveinung Rotevatn,Sveinung Rotevatn,male,1987-05-15T00:00:00Z,11,,Q3356730,Minister of Climate and the Environment,Q1766708-fa1d9dd5-4756-c91e-f64a-73581f256674
+Q11212577,Olaug Vervik Bollestad,Olaug Bollestad,female,1961-11-04T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q11992117,Minister of Agriculture and Food,Q11212577-091b9124-4059-8b7a-2981-ab47af09a0ad
+Q1766708,Sveinung Rotevatn,Sveinung Rotevatn,male,1987-05-15T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q3356730,Minister of Climate and Environment,Q1766708-fa1d9dd5-4756-c91e-f64a-73581f256674
 Q12006405,Tina Bru,Tina Bru,female,1986-04-18T00:00:00Z,11,,Q6866276,Minister of Petroleum and Energy,Q12006405-89824b53-4876-a1bd-8f2e-457dfbc7976d
-Q329487,Torbjørn Røe Isaksen,Torbjørn Røe Isaksen,male,1978-07-28T00:00:00Z,11,,Q11984312,Minister of Labour and Social Inclusion,Q329487-befb6da6-495d-1788-a23d-1dc97788a226
+Q329487,Torbjørn Røe Isaksen,Torbjørn Røe Isaksen,male,1978-07-28T00:00:00Z,11,https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/,Q11984312,Minister of Labour and Social Affairs,Q329487-befb6da6-495d-1788-a23d-1dc97788a226
