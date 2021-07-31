@@ -1,6 +1,15 @@
 {
-    "cabinet": "Q15020889",
-    "lang":    "en",
-    "agent":   "every-politican-scrapers/norway-cabinet",
-    "source_match": "regjeringen.no/en/the-government/solberg"
+    "cabinet": {
+      "id": "Q15020889",
+      "start": "2013-10-16"
+    },
+    "source": {
+        "url":   "https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/",
+        "title": "Members of the Government - regjeringen.no",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/norway-cabinet"
 }
