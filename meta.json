@@ -1,7 +1,12 @@
 {
+    "jurisdiction": {
+      "name": "Norway",
+      "id": "Q20"
+    },
     "cabinet": {
       "id": "Q15020889",
-      "start": "2013-10-16"
+      "start": "2013-10-16",
+      "parent": "Q1770849"
     },
     "source": {
         "url":   "https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/",
