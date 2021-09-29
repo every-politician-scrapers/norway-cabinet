@@ -10,7 +10,7 @@
     <title>Members of the Government - regjeringen.no</title>
 
 <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
-<link href="/Frontend/dist-web/css/main.bundle.css?v=6KsLfpnwj2GDoNGLAfISixWWygTaUAYIVITh316fQ5I1" rel="stylesheet"/>
+<link href="/Frontend/dist-web/css/main.bundle.css?v=Q-juKr_YbKtQvq7xn4pzbQlaAqXF1iViPIYtyqF515s1" rel="stylesheet"/>
 
 
 
@@ -273,13 +273,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             <label for="quickSearch" class="visuallyhidden">
                 Search
             </label>
-            <input type="search" name="term" placeholder="Search"
+            <input type="text" 
+                   name="term" 
+                   placeholder="Search"
                    class="quickSearch autocomplete"
                    id="quickSearch"
                    role="combobox"
                    data-form-id="topNavigationSearchForm"
                    data-search-suggest="1"
-                   data-autocomplete-source="/en/api/autosuggestapi/search/?q=" 
+                   data-autocomplete-source="//api/autosuggestapi/search/?q=" 
                    aria-expanded="false"
                    aria-owns="topnav-search-suggest"
                    aria-autocomplete="list"
@@ -289,7 +291,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <p class="legend">Selected links</p>
                 <ul class="search-suggest-list" data-search-suggest-list></ul>
             </div>
-            <button class="searchSubmit">
+            <button type="submit" class="searchSubmit">
                 Search
             </button>
         </div>
@@ -883,7 +885,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-    <ul class="content-list ">
+    <ul class="content-list " data-nav="link-list">
 
 <!--  -->
 
@@ -1697,9 +1699,10 @@ Appointed: 13/03/2020
     </div>
 
     <div class="content-col-1 article-sidebar">
-        
+        <!--  -->
 
 
+<!--  -->
 
         
 <!--  -->
@@ -1757,7 +1760,7 @@ Appointed: 13/03/2020
 </footer>
 
 
-    <script src="/Frontend/dist-web/js/main.bundle.js?v=4rmb-6dr26vAM8OSKzg9MWS2bMZafN77cmScd11m7VY1"></script>
+    <script src="/Frontend/dist-web/js/main.bundle.js?v=3uhbxQmceXGIQEQWhTd74wPFeE3IRseVPN11Dp1KbBs1"></script>
 
 
 
