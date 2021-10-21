@@ -7,12 +7,17 @@ require 'pry'
 class MemberList
   # details for an individual member
   class Member < Scraped::HTML
+    # Where the name in the header bar is different from the main list
+    REMAP = {
+      'Trygve Magnus Slagsvold Vedum (Centre Party)' => 'Trygve Slagsvold Vedum (Centre Party)',
+    }.freeze
+
     field :name do
-      name_and_party.split('(').first.tidy
+      header_data.split('(').first.tidy
     end
 
     field :position do
-      name_and_position.sub(name_and_party, '').tidy
+      name_and_position.sub(header_data, '').tidy
     end
 
     private
@@ -21,17 +26,23 @@ class MemberList
       noko.css('p.exerpts').text
     end
 
+    # There's no separator here, but we can subtract out the name+party
+    # from the header-bar list to be left with the position.
+    # Unfortunately, sometimes the names differ between the two lists!
     def name_and_position
       noko.css('h2').text.tidy
     end
 
-    def name_and_party
+    def header_data
       all_ministers.find { |minister| name_and_position.include? minister }
     end
 
-    # These are in the header bar, along with ministries
+    # From the header bar we can get a list of all minister+party names
+    # (but only with their ministries, but not the actual position)
     def all_ministers
-      noko.xpath('//.').css('li a.dep-minister').map(&:text).map(&:tidy)
+      noko.xpath('//.').css('li a.dep-minister').map(&:text).map(&:tidy).map do |data|
+        REMAP.fetch(data, data)
+      end
     end
   end
 
