@@ -1,0 +1,18 @@
+ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,isa,isaLabel,parent,parentLabel,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
+,Q10976842,Q10976842,,,,,,,,,Q1770849,Government of Norway,,,,,,,,,,
+,Q10976878,Q10976878,,,,,,,,,Q1770849,Government of Norway,,,,,,,,,,
+,Q10976959,Q10976959,,,,,,,,,Q1770849,Government of Norway,,,,,,,,,,
+,Q358758,Administrative Council,1940-01-01,9,1940-01-01,9,,,1940-01-01,9,Q1770849,Government of Norway,,,,,,,,,,
+,Q3356337,Nordli's Cabinet,1976-01-15,11,,,1981-02-04,11,,,Q640506,cabinet,,,Q1773495,Bratteli's Second Cabinet,Q3111951,Brundtland's First Cabinet,Q1773495,Bratteli's Second Cabinet,Q3111951,Brundtland's First Cabinet
+,Q3111951,Brundtland's First Cabinet,1981-02-04,11,,,1981-10-14,11,,,Q640506,cabinet,,,Q3356337,Nordli's Cabinet,Q2065969,Willoch's First Cabinet,Q3356337,Nordli's Cabinet,Q2065969,Willoch's First Cabinet
+,Q2065969,Willoch's First Cabinet,1981-10-14,11,,,1986-05-09,11,,,Q640506,cabinet,,,Q3111951,Brundtland's First Cabinet,Q3111952,Brundtland's Second Cabinet,Q3111951,Brundtland's First Cabinet,Q6523430,Willoch's Second Cabinet
+,Q6523430,Willoch's Second Cabinet,1983-01-01,9,1983-01-01,9,1986-01-01,9,,,Q640506,cabinet,,,,,,,Q2065969,Willoch's First Cabinet,Q3111952,Brundtland's Second Cabinet
+,Q3111952,Brundtland's Second Cabinet,1986-05-09,11,,,1989-10-16,11,,,Q640506,cabinet,,,Q2065969,Willoch's First Cabinet,Q2065356,Syse's Cabinet,Q6523430,Willoch's Second Cabinet,Q2065356,Syse's Cabinet
+,Q2065356,Syse's Cabinet,1989-10-16,11,,,1990-11-03,11,,,Q640506,cabinet,,,Q3111952,Brundtland's Second Cabinet,Q2121276,Brundtland's Third Cabinet,Q3111952,Brundtland's Second Cabinet,Q2121276,Brundtland's Third Cabinet
+,Q2121276,Brundtland's Third Cabinet,1990-11-03,11,,,1996-10-25,11,,,Q640506,cabinet,,,Q2065356,Syse's Cabinet,Q3112161,Jagland's Cabinet,Q2065356,Syse's Cabinet,Q3112161,Jagland's Cabinet
+,Q3112161,Jagland's Cabinet,1996-10-25,11,,,1997-10-17,11,,,Q640506,cabinet,,,Q2121276,Brundtland's Third Cabinet,Q3111940,Bondevik's First Cabinet,Q2121276,Brundtland's Third Cabinet,Q3111940,Bondevik's First Cabinet
+,Q3111940,Bondevik's First Cabinet,1997-10-17,11,,,2000-03-17,11,,,Q640506,cabinet,,,Q3112161,Jagland's Cabinet,Q2065336,Stoltenberg's First Cabinet,Q3112161,Jagland's Cabinet,Q2065336,Stoltenberg's First Cabinet
+,Q2065336,Stoltenberg's First Cabinet,2000-03-17,11,,,2001-10-19,11,,,Q640506,cabinet,,,Q3111940,Bondevik's First Cabinet,Q2063848,Bondevik's Second Cabinet,Q3111940,Bondevik's First Cabinet,Q2063848,Bondevik's Second Cabinet
+,Q2063848,Bondevik's Second Cabinet,2001-10-19,11,,,2005-10-17,11,,,Q640506,cabinet,,,Q2065336,Stoltenberg's First Cabinet,Q1194915,Stoltenberg's Second Cabinet,Q2065336,Stoltenberg's First Cabinet,Q1194915,Stoltenberg's Second Cabinet
+,Q1194915,Stoltenberg's Second Cabinet,2005-10-17,11,,,2013-10-16,11,,,Q640506,cabinet,,,Q2063848,Bondevik's Second Cabinet,Q15020889,Solberg's Cabinet,Q2063848,Bondevik's Second Cabinet,Q15020889,Solberg's Cabinet
+,Q15020889,Solberg's Cabinet,2013-10-16,11,,,2021-10-14,11,,,Q1770849,Government of Norway,,,Q1194915,Stoltenberg's Second Cabinet,Q108870524,Støre's Cabinet,Q1194915,Stoltenberg's Second Cabinet,Q108870524,Støre's Cabinet
