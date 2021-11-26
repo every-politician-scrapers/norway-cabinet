@@ -654,6 +654,15 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Anno (reality show)",
+          "lt": "Anno",
+          "lan1": "no",
+          "text1": "Anno",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "title": "Anno-vinner: – Har blitt ekstremt god på pokerfjes",

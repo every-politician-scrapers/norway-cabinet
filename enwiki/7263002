@@ -130,6 +130,15 @@
               }
             ]
           },
+          "successor": {
+            "text": "Masud Gharahkhani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Masud Gharahkhani"
+              }
+            ]
+          },
           "office2": {
             "text": "First Vice President of the Storting",
             "links": [
@@ -508,6 +517,12 @@
           "sentences": [
             {
               "text": "After the Oslo police launched an investigation into the breach of rules from multiple MPs, Hansen announced that she would resign as president of the Storting, also assuming that she was one of the said MPs. She formally resigned on 23 November."
+            },
+            {
+              "text": "The police later confirmed that Hansen was not a suspect in their investigation."
+            },
+            {
+              "text": "Her lawyer, John Christian Elden, stated that the selection of a new President of the Storting should be postponed, and that Hansen had resigned on wrong premises."
             }
           ]
         }
@@ -579,6 +594,16 @@
           "publisher": "ABC Nyheter",
           "date": "23 November 2021",
           "accessdate": "23 November 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vg.no/nyheter/i/eE6zpM/elden-mener-valget-av-ny-stortingspresident-maa-utsettes",
+          "title": "Elden: Mener valget av ny stortingspresident må utsettes",
+          "publisher": "Verdens Gang",
+          "date": "24 November 2021",
+          "accessdate": "25 November 2021",
           "language": "Norwegian",
           "template": "citation",
           "type": "web"
@@ -681,7 +706,7 @@
           "before": "Tone W. Trøen",
           "title": "President of the Storting",
           "years": "October &ndash; November 2021",
-          "after": "TBD",
+          "after": "Masud Gharahkhani",
           "template": "succession box"
         },
         {

@@ -734,6 +734,11 @@
           "amount": "7.1M",
           "template": "currency",
           "code": "usd"
+        },
+        {
+          "text": "Paul Edvart Støre",
+          "lan1": "no",
+          "template": "ill"
         }
       ],
       "references": [

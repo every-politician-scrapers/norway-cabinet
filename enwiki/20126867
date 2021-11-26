@@ -405,7 +405,7 @@
           "url": "http://www.abcnyheter.no/nyheter/2012/09/21/hadia-tajik-29-blir-den-yngste-ministeren-noensinne",
           "url-status": "dead",
           "access-date": "21 September 2012",
-          "archive-url": "https://archive.is/20130222173001/http://www.abcnyheter.no/nyheter/2012/09/21/hadia-tajik-29-blir-den-yngste-ministeren-noensinne",
+          "archive-url": "https://archive.today/20130222173001/http://www.abcnyheter.no/nyheter/2012/09/21/hadia-tajik-29-blir-den-yngste-ministeren-noensinne",
           "archive-date": "22 February 2013",
           "template": "citation",
           "type": "news"
@@ -447,9 +447,11 @@
               "text": "Hadia Tajik was born on 18 July 1983 in the village of Bjørheimsbygd in Strand, Rogaland, to Mohammad Sarwar Tajik (born 1947) and Safia Qazalbash (born 1948), emigrants from Pakistan in the early 1970s.",
               "links": [
                 {
-                  "text": "Bjørheimsbygd",
-                  "type": "internal",
-                  "page": ":no:Bjørheimsbygd"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "no"
+                  }
                 },
                 {
                   "text": "Strand",
