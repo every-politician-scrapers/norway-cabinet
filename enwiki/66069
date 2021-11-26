@@ -1996,8 +1996,7 @@
               "url": "https://wikipedia.org/wiki/Special:Redirect/file/Royal_Monogram_of_King_Harald_V_of_Norway.svg",
               "caption": {}
             }
-          ],
-          "pos": "Arms"
+          ]
         }
       ]
     },
@@ -3636,6 +3635,16 @@
           "sentences": []
         }
       ],
+      "templates": [
+        {
+          "text": "2",
+          "template": "sup"
+        },
+        {
+          "text": "2",
+          "template": "sup"
+        }
+      ],
       "lists": [
         [
           {
@@ -3668,7 +3677,7 @@
             ]
           },
           {
-            "text": "A 230,000 km 2 area in Antarctica is named Prince Harald Coast in his honour.",
+            "text": "A 230,000 km2 area in Antarctica is named Prince Harald Coast in his honour.",
             "links": [
               {
                 "type": "internal",
@@ -3721,7 +3730,7 @@
             ]
           },
           {
-            "text": "In 2013, a 6,500 km 2 area in Svalbard was named Harald V Land.",
+            "text": "In 2013, a 6,500 km2 area in Svalbard was named Harald V Land.",
             "links": [
               {
                 "type": "internal",

@@ -583,8 +583,11 @@
               "links": [
                 {
                   "text": "No",
-                  "type": "internal",
-                  "page": ":no:Brigadeveteranforbundet"
+                  "type": "interwiki",
+                  "wiki": {
+                    "wiki": "",
+                    "lang": "no"
+                  }
                 }
               ],
               "formatting": {

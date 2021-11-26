@@ -424,6 +424,22 @@
           ]
         }
       ],
+      "templates": [
+        {
+          "text": "Storheia wind farm",
+          "lan1": "no",
+          "text1": "Storheia vindpark",
+          "lt": "Storheia",
+          "template": "ill"
+        },
+        {
+          "text": "Roan wind farm",
+          "lan1": "no",
+          "text1": "Roan vindpark",
+          "lt": "Roan",
+          "template": "ill"
+        }
+      ],
       "references": [
         {
           "url": "https://www.nrk.no/norge/norge-har-fatt-ny-regjering-1.15689598",
