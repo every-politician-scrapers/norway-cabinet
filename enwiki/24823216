@@ -281,6 +281,32 @@
               "text": "She further stated that the ombudsman had reached a different conclusion then NAV and the Social Security Court, and that the ministry would stand behind NAV's conclusion."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "More then 13 cases against Norway were brought up by the European Court of Human Rights regarding child neglect and breaches of human rights from the Norwegian Child Welfare Services.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Court of Human Rights"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Child Welfare Services"
+                }
+              ]
+            },
+            {
+              "text": "On 26 November, Toppe expressed understanding."
+            },
+            {
+              "text": "She further remarked that the breaches of human rights were serious and unacceptable."
+            },
+            {
+              "text": "She also stressed that it was her responsibility to make sure that the Child Welfare Services upheld human rights obligations."
+            }
+          ]
         }
       ],
       "references": [
@@ -310,6 +336,16 @@
           "publisher": "Aftenposten",
           "date": "21 October 2021",
           "accessdate": "21 October 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tv2.no/a/14383671/",
+          "title": "Vil ikke beklage menneskerettsbrudd",
+          "publisher": "TV 2",
+          "date": "26 November 2021",
+          "access-date": "26 November 2021",
           "language": "Norwegian",
           "template": "citation",
           "type": "web"
