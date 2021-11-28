@@ -53,6 +53,10 @@
       ],
       "templates": [
         {
+          "description": "Norwegian politician",
+          "template": "short description"
+        },
+        {
           "year": "1988",
           "month": "4",
           "day": "23",

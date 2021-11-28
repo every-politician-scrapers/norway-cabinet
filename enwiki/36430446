@@ -19,11 +19,11 @@
         {
           "sentences": [
             {
-              "text": "Masud Gharahkhani (born 22 September 1982 in Ilam) is a Norwegian politician for the Labour Party from the city of Drammen.",
+              "text": "Masud Gharahkhani (born 22 September 1982 in Tehran) is a Norwegian politician for the Labour Party from the city of Drammen.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Ilam"
+                  "page": "Tehran"
                 },
                 {
                   "text": "Labour Party",
@@ -161,11 +161,11 @@
             "text": "September 22, 1982"
           },
           "birth_place": {
-            "text": "Ilam, Iran",
+            "text": "Tehran, Iran",
             "links": [
               {
                 "type": "internal",
-                "page": "Ilam"
+                "page": "Tehran"
               },
               {
                 "type": "internal",
@@ -196,11 +196,11 @@
         {
           "sentences": [
             {
-              "text": "Born in Ilam, Iran, Masud Gharahkhani emigrated to Norway with his family in 1987 and grew up in Skotselv in Øvre Eiker.",
+              "text": "Born in Tehran, Iran, Masud Gharahkhani emigrated to Norway with his family in 1987 and grew up in Skotselv in Øvre Eiker.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Ilam"
+                  "page": "Tehran"
                 },
                 {
                   "type": "internal",

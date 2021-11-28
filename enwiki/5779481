@@ -457,6 +457,35 @@
               "text": "She promised that the work on the proposal would start as quickly as possible, but was uncertain of how long it would take."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 27 November, Trettebergstuen stated that no representatives of the Norwegian state or government would attend the 2022 FIFA World Cup in Qatar.",
+              "links": [
+                {
+                  "text": "2022 FIFA World Cup",
+                  "type": "internal",
+                  "page": "2022 FIFA World Cup"
+                }
+              ]
+            },
+            {
+              "text": "She also said that she would decline an invitation if she was given one."
+            },
+            {
+              "text": "She noted the recent arrest of two NRK journalists as one of the reasons, and cited that the government would be heavily involved in said case.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "NRK"
+                }
+              ]
+            },
+            {
+              "text": "She also expressed disappointment over FIFA’s reaction to the arrest of the two journalists."
+            }
+          ]
         }
       ],
       "references": [
@@ -516,6 +545,16 @@
           "publisher": "ABC Nyheter",
           "date": "16 November 2021",
           "accessdate": "17 November 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abcnyheter.no/nyheter/norge/2021/11/27/195805243/trettebergstuen-ingen-fra-norske-myndigheter-vil-dra-til-qatar",
+          "title": "Trettebergstuen: – Ingen fra norske myndigheter vil dra til Qatar",
+          "publisher": "ABC Nyheter",
+          "date": "27 November 2021",
+          "access-date": "27 November 2021",
           "language": "Norwegian",
           "template": "citation",
           "type": "web"
