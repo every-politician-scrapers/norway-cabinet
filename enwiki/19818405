@@ -176,24 +176,6 @@
           "template": "citation needed"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "supreme court of norway"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "norway-law-bio-stub"
-        }
-      ]
     }
   ]
 }

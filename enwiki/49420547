@@ -217,39 +217,6 @@
           "type": "encyclopedia"
         }
       ]
-    },
-    {
-      "title": "References",
-      "depth": 0,
-      "templates": [
-        {
-          "template": "reflist"
-        },
-        {
-          "template": "s-start"
-        },
-        {
-          "template": "s-civ"
-        },
-        {
-          "before": "Sven Ole Fagernæs",
-          "template": "s-bef"
-        },
-        {
-          "title": "Attorney General of Norway",
-          "years": "2015–present",
-          "template": "s-ttl"
-        },
-        {
-          "template": "s-inc"
-        },
-        {
-          "template": "authority control"
-        },
-        {
-          "template": "norway-law-bio-stub"
-        }
-      ]
     }
   ]
 }
