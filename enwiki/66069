@@ -216,11 +216,12 @@
         {
           "sentences": [
             {
-              "text": "He is a great-grandson of Edward VII of the United Kingdom and second cousin of Elizabeth II.",
+              "text": "He is a great-grandson of Edward VII, King of the United Kingdom and second cousin of Elizabeth II.",
               "links": [
                 {
+                  "text": "Edward VII, King of the United Kingdom",
                   "type": "internal",
-                  "page": "Edward VII of the United Kingdom"
+                  "page": "Edward VII"
                 },
                 {
                   "type": "internal",
@@ -353,9 +354,10 @@
             ]
           },
           "father": {
-            "text": "Olav V of Norway",
+            "text": "Olav V, King of Norway",
             "links": [
               {
+                "text": "Olav V, King of Norway",
                 "type": "internal",
                 "page": "Olav V of Norway"
               }
