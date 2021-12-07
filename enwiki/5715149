@@ -230,34 +230,6 @@
             ]
           },
           "office5": {
-            "text": "Leader of the Workers' Youth League",
-            "links": [
-              {
-                "text": "Leader of the Workers' Youth League",
-                "type": "internal",
-                "page": "Workers' Youth League (Norway)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "27 October 1996"
-          },
-          "term_end5": {
-            "text": "22 October 2000"
-          },
-          "predecessor5": {
-            "text": "Trond Giske"
-          },
-          "successor5": {
-            "text": "Eva Kristin Hansen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eva Kristin Hansen"
-              }
-            ]
-          },
-          "office6": {
             "text": "Member of the Storting",
             "links": [
               {
@@ -267,16 +239,44 @@
               }
             ]
           },
-          "term_start6": {
+          "term_start5": {
             "text": "1 October 2005"
           },
-          "constituency6": {
+          "constituency5": {
             "text": "Akershus",
             "links": [
               {
                 "text": "Akershus",
                 "type": "internal",
                 "page": "Akershus (Storting constituency)"
+              }
+            ]
+          },
+          "office6": {
+            "text": "Leader of the Workers' Youth League",
+            "links": [
+              {
+                "text": "Leader of the Workers' Youth League",
+                "type": "internal",
+                "page": "Workers' Youth League (Norway)"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "27 October 1996"
+          },
+          "term_end6": {
+            "text": "22 October 2000"
+          },
+          "predecessor6": {
+            "text": "Trond Giske"
+          },
+          "successor6": {
+            "text": "Eva Kristin Hansen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Eva Kristin Hansen"
               }
             ]
           },
