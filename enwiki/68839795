@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Jon-Ivar Nygård (born 1 January 1973) is a Norwegian politician for the Labour Party.",
+              "text": "Jon-Ivar Nygård (born 2 January 1973) is a Norwegian politician for the Labour Party.",
               "links": [
                 {
                   "text": "Labour Party",
@@ -61,7 +61,7 @@
         {
           "year": "1973",
           "month": "1",
-          "day": "1",
+          "day": "2",
           "df": "y",
           "template": "birth date and age"
         }
@@ -118,6 +118,15 @@
           "term_start2": {
             "text": "1 October 2021"
           },
+          "deputy2": {
+            "text": "Solveig Vitanza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Solveig Vitanza"
+              }
+            ]
+          },
           "constituency2": {
             "text": "Østfold",
             "links": [
@@ -129,6 +138,32 @@
             ]
           },
           "office3": {
+            "text": "Deputy Member of the Storting",
+            "links": [
+              {
+                "text": "Deputy Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 October 2013"
+          },
+          "term_end3": {
+            "text": "30 September 2017"
+          },
+          "constituency3": {
+            "text": "Østfold",
+            "links": [
+              {
+                "text": "Østfold",
+                "type": "internal",
+                "page": "Østfold (Storting constituency)"
+              }
+            ]
+          },
+          "office4": {
             "text": "Mayor of Fredrikstad",
             "links": [
               {
@@ -138,20 +173,20 @@
               }
             ]
           },
-          "term_start3": {
+          "term_start4": {
             "text": "20 October 2011"
           },
-          "term_end3": {
+          "term_end4": {
             "text": "21 October 2021"
           },
-          "predecessor3": {
+          "predecessor4": {
             "text": "Eva Kristin Andersen"
           },
-          "successor3": {
+          "successor4": {
             "text": "Siri Martinsen"
           },
           "birth_date": {
-            "text": "January 1, 1973"
+            "text": "January 2, 1973"
           },
           "birth_place": {
             "text": "Borge, Østfold, Norway",
