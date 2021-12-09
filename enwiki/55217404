@@ -135,10 +135,10 @@
             ]
           },
           "office2": {
-            "text": "Member of the Norwegian Parliament",
+            "text": "Member of the Storting",
             "links": [
               {
-                "text": "Member of the Norwegian Parliament",
+                "text": "Member of the Storting",
                 "type": "internal",
                 "page": "Storting"
               }
@@ -146,6 +146,15 @@
           },
           "term_start2": {
             "text": "1 October 2017"
+          },
+          "deputy2": {
+            "text": "Ivar B. Prestbakmo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ivar B. Prestbakmo"
+              }
+            ]
           },
           "constituency2": {
             "text": "Troms",
@@ -183,6 +192,31 @@
           },
           "successor3": {
             "text": "Erling Laugsand"
+          },
+          "office4": {
+            "text": "Deputy Member of the Storting",
+            "links": [
+              {
+                "text": "Deputy Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 October 2009"
+          },
+          "term_end4": {
+            "text": "30 September 2013"
+          },
+          "constituency4": {
+            "text": "Troms",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Troms"
+              }
+            ]
           },
           "nationality": {
             "text": "Norwegian"
