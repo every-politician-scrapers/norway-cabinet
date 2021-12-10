@@ -500,6 +500,23 @@
           "term_start5": {
             "text": "1 October 2009"
           },
+          "deputy5": {
+            "text": "Truls Wickholm Vegard Grøslie Wennesland Frode Jacobsen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Truls Wickholm"
+              },
+              {
+                "type": "internal",
+                "page": "Vegard Grøslie Wennesland"
+              },
+              {
+                "type": "internal",
+                "page": "Frode Jacobsen"
+              }
+            ]
+          },
           "birth_date": {
             "text": "August 25, 1960"
           },
