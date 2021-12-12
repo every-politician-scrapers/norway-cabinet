@@ -242,6 +242,23 @@
           "term_start5": {
             "text": "1 October 2005"
           },
+          "deputy5": {
+            "text": "Gorm Kjernli Are Helseth Ragnhild Male Hartviksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Gorm Kjernli"
+              },
+              {
+                "type": "internal",
+                "page": "Are Helseth"
+              },
+              {
+                "type": "internal",
+                "page": "Ragnhild Male Hartviksen"
+              }
+            ]
+          },
           "constituency5": {
             "text": "Akershus",
             "links": [
