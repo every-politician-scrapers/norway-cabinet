@@ -114,6 +114,15 @@
           "term_start2": {
             "text": "9 October 2017"
           },
+          "deputy2": {
+            "text": "Margrethe Haarr",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Margrethe Haarr"
+              }
+            ]
+          },
           "constituency2": {
             "text": "Hedmark",
             "links": [
