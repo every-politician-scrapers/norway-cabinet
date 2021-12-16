@@ -65,7 +65,10 @@
               }
             },
             {
-              "text": "She served as Minister of Culture from 2012 to 2013.",
+              "text": "She currently serves as Minister of Labour and Social Inclusion since 2021."
+            },
+            {
+              "text": "She previously served as Minister of Culture from 2012 to 2013.",
               "links": [
                 {
                   "text": "Minister of Culture",
@@ -126,10 +129,6 @@
         }
       ],
       "templates": [
-        {
-          "date": "June 2016",
-          "template": "blp sources"
-        },
         {
           "list": [
             "Hadi Tajik"
