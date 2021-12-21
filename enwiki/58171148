@@ -48,6 +48,10 @@
       ],
       "templates": [
         {
+          "description": "Norwegian diplomat and politician",
+          "template": "short description"
+        },
+        {
           "year": "1974",
           "month": "5",
           "day": "22",
