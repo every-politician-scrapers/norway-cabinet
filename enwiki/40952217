@@ -134,6 +134,15 @@
           "term_start2": {
             "text": "1 October 2013"
           },
+          "deputy2": {
+            "text": "May Britt Lagesen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "May Britt Lagesen"
+              }
+            ]
+          },
           "constituency2": {
             "text": "Nord-Trøndelag",
             "links": [
@@ -170,6 +179,31 @@
           },
           "successor3": {
             "text": "Anne Marit Mevassvik"
+          },
+          "office4": {
+            "text": "Deputy Member of the Storting",
+            "links": [
+              {
+                "text": "Deputy Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "1 October 2005"
+          },
+          "term_end4": {
+            "text": "30 September 2013"
+          },
+          "constituency4": {
+            "text": "Nord-Trøndelag",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nord-Trøndelag"
+              }
+            ]
           },
           "birth_date": {
             "text": "May 18, 1975"

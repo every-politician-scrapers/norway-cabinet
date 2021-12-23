@@ -227,6 +227,13 @@
                 "page": "Labour Party (Norway)"
               }
             ]
+          },
+          "partner": {
+            "text": "Anne Gro Bjerknes"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
           }
         }
       ]
