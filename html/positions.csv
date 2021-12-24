@@ -1,0 +1,33 @@
+id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
+Q1294765,Monarch of Norway,Q20,Q20,,,,,,,Monarchy of Norway
+Q2334076,Prime Minister of Norway,Q20,Q20,,Q815814,1873,,,,Prime Minister of Norway
+Q11992117,Minister of Agriculture and Food,Q20,Q20,,,1900-02-17,,,,Minister of Agriculture and Food (Norway)
+Q14436783,Minister of Children and Families,Q20,Q20,,Q56489811,1955-08-01,,,,Minister of Children and Families
+Q3356730,Minister of Climate and the Environment,Q20,Q20,,Q56489828,1972-05-08,,,,Minister of Climate and the Environment (Norway)
+Q6866085,Minister of Culture,Q20,Q20,,Q56489953,1981-10-14,,,,Minister of Culture and Church Affairs
+Q1225156,Minister of Defence,Q20,Q20,,Q56489931,1814,,,,Minister of Defence (Norway)
+Q60809856,Minister of Digitalisation of Norway,Q20,Q20,,,,,,,
+Q25376088,Minister of Education and Church Affairs,Q20,Q20,,Q12717325,,,,,
+Q22981866,Minister of Education and Research,Q20,Q20,,Q17195172,,,,,
+Q57337942,Norway's Minister for Elderly and Public Health,Q20,Q20,,,,,,,
+Q3734685,Minister of Finance of Norway,Q20,Q20,,Q20675467,,,,,
+Q17010253,Minister of Fisheries and Seafood,Q20,Q20,,Q11984292,,,,,Minister of Fisheries (Norway)
+Q18018541,Foreign Minister of Norway,Q20,Q20,,Q1573026,1905,,,,Minister of Foreign Affairs (Norway)
+Q25342372,"Minister of Government Administration, Reform and Church Affairs",Q20,Q20,,Q11984290,,,,,
+Q6866170,Norwegian Minister of Health and Care Services,Q20,Q20,,Q56489959,1992-09-04,,,,Minister of Health and Care Services
+Q57338139,Norway's immigration and integration minister,Q20,Q20,,,,,,,
+Q4574171,Minister of International Development,Q20,Q20,,Q56489790,1983-06-08,,,,Minister of International Development (Norway)
+Q1769706,Minister of Justice and Public Security,Q20,Q20,,Q56489669,,,,,Minister of Justice and Public Security
+Q3437006,Minister of Local Government and Regional Development,Q20,Q20,,Q56489762,1948-12-20,,,,Minister of Local Government and Modernisation
+Q6866276,Minister of Petroleum and Energy,Q20,Q20,,Q56489941,1978-01-11,,,,Minister of Petroleum and Energy
+Q83547927,Minister of Regional Development and Digitalisation of Norway,Q20,Q20,,,,,,,
+Q57338069,Minister of Research and Higher Education,Q20,Q20,,,,,,,
+Q57337462,Minister of Social Affairs,Q20,Q20,,Q56489909,,,,,
+Q56489714,Minister of Trade and Industry,Q20,Q20,,Q17194947,,,,,
+Q6866400,Minister of Trade and Shipping,Q20,Q20,,Q56489837,1947-12-06,,,,Minister of Trade and Shipping
+Q6514745,Minister of Transport and Communications,Q20,Q20,,,1946-02-22,,,,Minister of Transport of Norway
+Q21043016,Attorney General of Norway,Q20,Q20,,,,,,,
+Q1772291,Chief Justice of the Supreme Court of Norway,Q20,Q20,,Q21994046,,,,,Chief Justice of the Supreme Court of Norway
+Q19157155,President of the Parliament of Norway,Q20,Q20,,Q2117692,,,,,
+Q5097029,Chief of Defence of Norway,Q20,Q20,,,1940-05-18,,,,Chief of Defence (Norway)
+Q72981022,Governor of the Central Bank of Norway,Q20,,,Q11984311,,,,,
