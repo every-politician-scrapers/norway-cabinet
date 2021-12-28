@@ -132,6 +132,29 @@
               }
             ]
           },
+          "office2": {
+            "text": "Deputy Member of the Storting",
+            "links": [
+              {
+                "text": "Deputy Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 October 2017"
+          },
+          "constituency2": {
+            "text": "Akershus",
+            "links": [
+              {
+                "text": "Akershus",
+                "type": "internal",
+                "page": "Akershus (Storting constituency)"
+              }
+            ]
+          },
           "birth_date": {
             "text": "October 21, 1987"
           },
