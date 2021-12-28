@@ -110,6 +110,15 @@
           "term_start2": {
             "text": "1 October 2021"
           },
+          "deputy2": {
+            "text": "Karianne Bråthen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Karianne Bråthen"
+              }
+            ]
+          },
           "constituency2": {
             "text": "Nordland",
             "links": [
