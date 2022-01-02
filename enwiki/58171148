@@ -232,23 +232,6 @@
             "number": 2
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Anne Beathe Tvinnereim",
-          "first": "Knut Are",
-          "last": "Tvedt",
-          "encyclopedia": "Store norske leksikon",
-          "editor-last": "Bolstad",
-          "editor-first": "Erik",
-          "publisher": "Norsk nettleksikon",
-          "location": "Oslo",
-          "url": "https://snl.no/Anne_Beathe_Tvinnereim",
-          "language": "Norwegian",
-          "accessdate": "15 August 2018",
-          "template": "citation",
-          "type": "encyclopedia"
-        }
       ]
     }
   ]
