@@ -414,48 +414,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "last": "Buer",
-          "first": "Kathleen",
-          "date": "21 September 2012",
-          "title": "Hadia Tajik (29) blir ny Kulturminister",
-          "language": "no",
-          "newspaper": "Abcnyheter.no",
-          "url": "http://www.abcnyheter.no/nyheter/2012/09/21/hadia-tajik-29-blir-den-yngste-ministeren-noensinne",
-          "url-status": "dead",
-          "access-date": "21 September 2012",
-          "archive-url": "https://archive.today/20130222173001/http://www.abcnyheter.no/nyheter/2012/09/21/hadia-tajik-29-blir-den-yngste-ministeren-noensinne",
-          "archive-date": "22 February 2013",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "http://theforeigner.no/pages/columns/the-sixth-parliamentary-seat/",
-          "title": "The sixth parliamentary seat",
-          "access-date": "2009-09-21",
-          "archive-url": "https://web.archive.org/web/20110724185329/http://theforeigner.no/pages/columns/the-sixth-parliamentary-seat/",
-          "archive-date": "2011-07-24",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Stavrum",
-          "first": "Gunnar",
-          "title": "Ingen snill pike",
-          "url": "http://www.nettavisen.no/nyheter/article3571255.ece",
-          "work": "Nettavisen",
-          "publisher": "Mediehuset Nettavisen",
-          "access-date": "23 February 2013",
-          "language": "no",
-          "archive-url": "https://web.archive.org/web/20130328215422/http://www.nettavisen.no/nyheter/article3571255.ece",
-          "archive-date": "28 March 2013",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]

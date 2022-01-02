@@ -157,65 +157,6 @@
             "text": "Jurist"
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "Sejersted-utvalget",
-          "first": "Lars Petter",
-          "last": "Berg",
-          "encyclopedia": "Store norske leksikon",
-          "editor-last": "Godal",
-          "editor-first": "Anne Marit",
-          "editor-link": "Anne Marit Godal",
-          "publisher": "Norsk nettleksikon",
-          "location": "Oslo",
-          "url": "http://snl.no/Sejersted-utvalget",
-          "language": "Norwegian",
-          "accessdate": "13 February 2016",
-          "template": "citation",
-          "type": "encyclopedia"
-        },
-        {
-          "url": "https://www.vg.no/i/AdBJOE",
-          "title": "NAV-skandalen et resultat av 20 års motstand mot EØS, ESA og EFTA-domstolen",
-          "website": "www.vg.no",
-          "language": "nb",
-          "access-date": "2019-11-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.vg.no/i/g7xrqk",
-          "title": "Om lojalitet og etterlevelse",
-          "website": "www.vg.no",
-          "language": "nb",
-          "access-date": "2019-11-04",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Fredrik Sejersted",
-          "first": "Jon",
-          "last": "Gisle",
-          "authorlink": "Jon Gisle",
-          "encyclopedia": "Store norske leksikon",
-          "editor-last": "Godal",
-          "editor-first": "Anne Marit",
-          "editor-link": "Anne Marit Godal",
-          "publisher": "Norsk nettleksikon",
-          "location": "Oslo",
-          "url": "http://snl.no/Fredrik_Sejersted",
-          "language": "Norwegian",
-          "accessdate": "13 February 2016",
-          "template": "citation",
-          "type": "encyclopedia"
-        }
       ]
     }
   ]

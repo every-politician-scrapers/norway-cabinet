@@ -400,33 +400,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "title": "The Royal Family",
-          "url": "http://www.royalcourt.no/seksjon.html?tid=28435&sek=27259",
-          "access-date": "25 October 2014",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "last": "Berulfsen",
-          "first": "Bjarne",
-          "title": "Norsk Uttaleordbok",
-          "language": "no",
-          "year": "1969",
-          "publisher": "H. Aschehoug & Co (W Nygaard)",
-          "location": "Oslo",
-          "pages": "64, 91, 129",
-          "template": "citation",
-          "type": "book"
-        }
       ]
     }
   ]

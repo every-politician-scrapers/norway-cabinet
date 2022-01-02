@@ -604,32 +604,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "title": "Slik var Støres sju år som utenriksminister",
-          "url": "https://www.tv2.no/a/13506709/",
-          "access-date": "15 September 2021",
-          "work": "TV2",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "url": "https://www.nrk.no/norge/norge-har-fatt-ny-regjering-1.15689598",
-          "title": "Norge har fått ny regjering",
-          "publisher": "NRK",
-          "date": "14 October 2021",
-          "accessdate": "14 October 2021",
-          "language": "Norwegian",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        }
       ]
     }
   ]

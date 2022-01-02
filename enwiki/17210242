@@ -361,68 +361,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
-        },
-        {
-          "url": "http://www.uncyprustalks.org/nqcontent.cfm?a_id=2479",
-          "title": "Archived copy",
-          "access-date": "2015-03-15",
-          "archive-url": "https://web.archive.org/web/20141023214537/http://www.uncyprustalks.org/nqcontent.cfm?a_id=2479",
-          "archive-date": "2014-10-23",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.un.org/sg/en/content/sg/statement/2017-08-14/statement-attributable-spokesman-secretary-general-special-adviser",
-          "title": "Statement attributable to the Spokesman for the Secretary-General on the Special Adviser of the Secretary-General on Cyprus {{!}} United Nations Secretary-General",
-          "website": "www.un.org",
-          "language": "en",
-          "access-date": "2017-08-20",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.nrk.no/nyheter/norge/1.8330723",
-          "title": "Dette mannskapet skal vinne valget for Jens",
-          "last": "Sandvik",
-          "first": "Siv",
-          "date": "21 September 2012",
-          "language": "no",
-          "access-date": "21 September 2012",
-          "archive-date": "21 September 2012",
-          "archive-url": "https://www.webcitation.org/6AqCpykz8?url=http://www.nrk.no/nyheter/norge/1.8330723",
-          "url-status": "live",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "title": "Former Head of the EU's External Action Service and current UN Special Adviser on Cyprus to lead HD's Foundation Board",
-          "url": "http://www.hdcentre.org/en/resources/news/detail/article/1467638384-former-head-of-the-eus-external-action-service-and-current-un-special-adviser-on-cypru/",
-          "access-date": "2 August 2016",
-          "archive-url": "https://web.archive.org/web/20160816134342/http://www.hdcentre.org/en/resources/news/detail/article/1467638384-former-head-of-the-eus-external-action-service-and-current-un-special-adviser-on-cypru/",
-          "archive-date": "16 August 2016",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "http://www.hdcentre.org/en/resources/news/detail/article/1387528917-former-norwegian-minister-of-foreign-affairs-joins-the-hd-centre-as-a-new-board-member/",
-          "title": "Former Norwegian Minister of Foreign Affairs joins the HD Centre as a new Board Member",
-          "date": "2013-12-04",
-          "access-date": "2015-03-16",
-          "archive-url": "https://web.archive.org/web/20150308121247/http://www.hdcentre.org/en/resources/news/detail/article/1387528917-former-norwegian-minister-of-foreign-affairs-joins-the-hd-centre-as-a-new-board-member/",
-          "archive-date": "2015-03-08",
-          "url-status": "dead",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
