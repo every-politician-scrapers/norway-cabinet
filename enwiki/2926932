@@ -246,6 +246,10 @@
       ],
       "templates": [
         {
+          "description": "Norwegian politician (born 1960)",
+          "template": "short description"
+        },
+        {
           "template": "redirect",
           "redirect": "Jonas Støre",
           "links": [
@@ -256,11 +260,7 @@
           ]
         },
         {
-          "description": "Norwegian politician (born 1960)",
-          "template": "short description"
-        },
-        {
-          "date": "November 2012",
+          "date": "January 2022",
           "template": "use dmy dates"
         },
         {
