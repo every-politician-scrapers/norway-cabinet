@@ -198,6 +198,18 @@
               }
             ]
           },
+          "term_start4": {
+            "text": "1 October 2021"
+          },
+          "deputy4": {
+            "text": "Maren Grøthe",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Maren Grøthe"
+              }
+            ]
+          },
           "constituency4": {
             "text": "Sør-Trøndelag",
             "links": [
@@ -207,14 +219,20 @@
               }
             ]
           },
-          "term_start4": {
-            "text": "1 October 2021"
-          },
           "term_start5": {
             "text": "1 October 2005"
           },
           "term_end5": {
             "text": "30 September 2013"
+          },
+          "deputy5": {
+            "text": "Heidi Greni",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Heidi Greni"
+              }
+            ]
           },
           "constituency5": {
             "text": "Sør-Trøndelag",
