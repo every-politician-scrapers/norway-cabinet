@@ -289,6 +289,19 @@
           "term_start5": {
             "text": "1 October 2005"
           },
+          "deputy5": {
+            "text": "Olov Grøtting Per Martin Sandtrøen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Olov Grøtting"
+              },
+              {
+                "type": "internal",
+                "page": "Per Martin Sandtrøen"
+              }
+            ]
+          },
           "constituency5": {
             "text": "Hedmark",
             "links": [
