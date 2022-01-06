@@ -359,6 +359,26 @@
                 "page": "University of Oslo"
               }
             ]
+          },
+          "allegiance": {
+            "text": "🇳🇴 Norway",
+            "links": [
+              {
+                "text": "Norway",
+                "type": "internal",
+                "page": "norway"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Coat of arms of the Royal Norwegian Navy.svg Navy",
+            "links": [
+              {
+                "text": "Navy",
+                "type": "internal",
+                "page": "Royal Norwegian Navy"
+              }
+            ]
           }
         }
       ]

@@ -20,7 +20,7 @@
         {
           "sentences": [
             {
-              "text": "Marte Mjøs Persen (born 24 April 1975) is a Norwegian politician.",
+              "text": "Marte Mjøs Persen (born 24 April 1975) is a Norwegian politician from the Labour Party.",
               "formatting": {
                 "bold": [
                   "Marte Mjøs Persen"
@@ -28,20 +28,16 @@
               }
             },
             {
-              "text": "She has served as mayor in Bergen from 2015 until she was elected a member of the Storting in 2021.",
+              "text": "She has served as minister of petroleum and energy since 2021."
+            },
+            {
+              "text": "She served as the mayor of Bergen from 2015 until being elected to the Storting in 2021.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Bergen"
-                },
                 {
                   "type": "internal",
                   "page": "Storting"
                 }
               ]
-            },
-            {
-              "text": "She has served as minister of petroleum and energy since 2021."
             }
           ]
         }
@@ -113,6 +109,9 @@
           },
           "term_start1": {
             "text": "1 October 2021"
+          },
+          "deputy1": {
+            "text": "Lubna Boby Jaffrey"
           },
           "constituency1": {
             "text": "Hordaland",
