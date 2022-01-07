@@ -364,6 +364,25 @@
           "children": {
             "text": "2",
             "number": 2
+          },
+          "allegiance": {
+            "text": "🇳🇴 Norway",
+            "links": [
+              {
+                "text": "Norway",
+                "type": "internal",
+                "page": "norway"
+              }
+            ]
+          },
+          "branch": {
+            "text": "Norwegian army coat of arms.svg Norwegian Army",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Norwegian Army"
+              }
+            ]
           }
         }
       ]
