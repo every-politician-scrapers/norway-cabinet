@@ -77,6 +77,9 @@
           "image": {
             "text": "Odd Roger Enoksen.jpg"
           },
+          "caption": {
+            "text": "Enoksen in 2007."
+          },
           "office": {
             "text": "Minister of Defence",
             "links": [
@@ -307,9 +310,6 @@
                 "page": "Centre Party (Norway)"
               }
             ]
-          },
-          "caption": {
-            "text": "Enoksen in 2007"
           }
         }
       ]
