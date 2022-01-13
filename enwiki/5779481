@@ -137,6 +137,15 @@
           "term_start2": {
             "text": "1 October 2005"
           },
+          "deputy2": {
+            "text": "Even Eriksen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Even Eriksen"
+              }
+            ]
+          },
           "constituency2": {
             "text": "Hedmark",
             "links": [

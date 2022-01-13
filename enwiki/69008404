@@ -158,6 +158,23 @@
           "birth_date": {
             "text": "October 21, 1987"
           },
+          "birth_place": {
+            "text": "Holmlia, Oslo, Norway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Holmlia"
+              },
+              {
+                "type": "internal",
+                "page": "Oslo"
+              },
+              {
+                "type": "internal",
+                "page": "Norway"
+              }
+            ]
+          },
           "nationality": {
             "text": "Norwegian"
           },
