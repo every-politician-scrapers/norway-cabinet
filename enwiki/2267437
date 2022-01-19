@@ -280,6 +280,65 @@
               }
             ]
           },
+          "office6": {
+            "text": "Member of the Storting",
+            "links": [
+              {
+                "text": "Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start6": {
+            "text": "1 October 1993"
+          },
+          "term_end6": {
+            "text": "30 September 2005"
+          },
+          "deputy6": {
+            "text": "Inga Kvalbukt",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Inga Kvalbukt"
+              }
+            ]
+          },
+          "constituency6": {
+            "text": "Nordland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nordland"
+              }
+            ]
+          },
+          "office7": {
+            "text": "Deputy Member of the Storting",
+            "links": [
+              {
+                "text": "Deputy Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start7": {
+            "text": "1 October 1989"
+          },
+          "term_end7": {
+            "text": "30 September 1993"
+          },
+          "constituency7": {
+            "text": "Nordland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Nordland"
+              }
+            ]
+          },
           "birth_date": {
             "text": "September 25, 1954"
           },
