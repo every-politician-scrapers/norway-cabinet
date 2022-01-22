@@ -29,12 +29,16 @@
         {
           "sentences": [
             {
-              "text": "Anette Trettebergstuen (born 25 May 1981) is a Norwegian politician for the Labour Party.",
+              "text": "Anette Trettebergstuen (born 25 May 1981) is a Norwegian politician for the Labour Party who has served as Minister of Culture and Equality since 2021.",
               "links": [
                 {
                   "text": "Labour Party",
                   "type": "internal",
                   "page": "Labour Party (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Minister of Culture and Equality"
                 }
               ],
               "formatting": {
@@ -60,13 +64,6 @@
             },
             {
               "text": "She is the only openly lesbian politician in the Norwegian Parliament."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She has served as minister of culture since 2021."
             }
           ]
         }
@@ -97,9 +94,8 @@
             "text": "Minister of Culture and Equality",
             "links": [
               {
-                "text": "Minister of Culture and Equality",
                 "type": "internal",
-                "page": "Minister of Culture and Church Affairs"
+                "page": "Minister of Culture and Equality"
               }
             ]
           },
