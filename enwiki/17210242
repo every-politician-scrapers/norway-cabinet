@@ -311,6 +311,15 @@
           "term_start3": {
             "text": "1 October 2017"
           },
+          "deputy3": {
+            "text": "Siri Gåsemyr Staalesen",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Siri Gåsemyr Staalesen"
+              }
+            ]
+          },
           "constituency3": {
             "text": "Oslo",
             "links": [
