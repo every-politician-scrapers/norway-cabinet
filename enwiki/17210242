@@ -55,7 +55,7 @@
               ]
             },
             {
-              "text": "He has been a been a Member of the Norwegian Parliament since 2017, representing the Labour Party.",
+              "text": "He has been a been a member of the Norwegian Parliament since 2017, representing the Labour Party.",
               "links": [
                 {
                   "text": "Norwegian Parliament",
@@ -110,7 +110,7 @@
               ]
             },
             {
-              "text": "From 2014 to 2016 he served as Managing Director and Member of the Managing Board at the World Economic Forum in Geneva.",
+              "text": "From 2014 to 2016 he served as managing director and member of the Managing Board at the World Economic Forum in Geneva.",
               "links": [
                 {
                   "type": "internal",
@@ -171,6 +171,10 @@
         }
       ],
       "templates": [
+        {
+          "date": "February 2022",
+          "template": "use dmy dates"
+        },
         {
           "year": "1964",
           "month": "5",
