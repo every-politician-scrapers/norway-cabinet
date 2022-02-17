@@ -51,7 +51,7 @@
       ],
       "templates": [
         {
-          "description": "Norwegian politician",
+          "description": "Norwegian politician (born 1973)",
           "template": "short description"
         },
         {
@@ -72,7 +72,7 @@
             "text": "Jon-Ivar Nygård"
           },
           "image": {
-            "text": "Jon-Ivar Nygård.JPG"
+            "text": "Statsråd Jon-Ivar Nygård.jpg"
           },
           "office": {
             "text": "Minister of Transport",
@@ -192,19 +192,10 @@
             "text": "Borge, Østfold, Norway",
             "links": [
               {
-                "text": "Borge",
                 "type": "internal",
                 "page": "Borge, Østfold"
-              },
-              {
-                "text": "Østfold",
-                "type": "internal",
-                "page": "Østfold"
               }
             ]
-          },
-          "nationality": {
-            "text": "Norwegian"
           },
           "alma_mater": {
             "text": "University of Oslo",
