@@ -212,23 +212,6 @@
               ]
             }
           ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "He is a great-grandson of King Edward VII of the United Kingdom and second cousin of Queen Elizabeth II.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Edward VII of the United Kingdom"
-                },
-                {
-                  "type": "internal",
-                  "page": "Elizabeth II"
-                }
-              ]
-            }
-          ]
         }
       ],
       "templates": [
@@ -241,7 +224,7 @@
           "template": "use dmy dates"
         },
         {
-          "1": "Gro Harlem Brundtland Thorbjørn Jagland Kjell Magne Bondevik Jens Stoltenberg Erna Solberg Jonas Gahr Støre",
+          "1": "Gro Harlem Brundtland\nThorbjørn Jagland\nKjell Magne Bondevik\nJens Stoltenberg\nErna Solberg\nJonas Gahr Støre",
           "title": "See list",
           "template": "list collapsed"
         },
