@@ -81,8 +81,13 @@
               "text": "She was 29 years of age at the time and became the youngest minister to serve in the Norwegian government."
             },
             {
-              "text": "She is the first Muslim and Asian member of government.",
+              "text": "She is the first Cabinet member that is a Muslim.",
               "links": [
+                {
+                  "text": "Cabinet",
+                  "type": "internal",
+                  "page": "Cabinet (government)"
+                },
                 {
                   "type": "internal",
                   "page": "Muslim"
@@ -99,29 +104,6 @@
                 {
                   "type": "internal",
                   "page": "Rogaland"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "Unlike some of her older predecessors and colleagues, Tajik is an enthusiastic user of social media, and an avid supporter of E-books, and as a result she was often called Norway's \"first digital Minister of Culture\".",
-              "links": [
-                {
-                  "text": "social media",
-                  "type": "internal",
-                  "page": "social media"
-                },
-                {
-                  "type": "internal",
-                  "page": "E-books"
-                },
-                {
-                  "text": "digital",
-                  "type": "internal",
-                  "page": "Digital data"
                 }
               ]
             }
