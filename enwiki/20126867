@@ -65,7 +65,7 @@
               }
             },
             {
-              "text": "She currently serves as Minister of Labour and Social Inclusion since 2021."
+              "text": "She served as Minister of Labour and Social Inclusion from 2021 to 2022."
             },
             {
               "text": "She previously served as Minister of Culture from 2012 to 2013.",
@@ -106,6 +106,13 @@
                   "page": "Rogaland"
                 }
               ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "As of Q1 2022, she is deputy leader of the Labour Party; her position is up for election at the party's national convention in 2023."
             }
           ]
         }
@@ -172,6 +179,9 @@
           },
           "term_start": {
             "text": "14 October 2021"
+          },
+          "term_end": {
+            "text": "4 March 2022"
           },
           "primeminister": {
             "text": "Jonas Gahr Støre",

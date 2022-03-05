@@ -20,8 +20,13 @@
         {
           "sentences": [
             {
-              "text": "Emilie Enger Mehl  (born 8 August 1993) is a Norwegian former reality-TV participant, jurist and politician from the Centre Party.",
+              "text": "Emilie Enger Mehl  (born 8 August 1993) is a Norwegian politician for the Centre Party.",
               "links": [
+                {
+                  "text": "Norwegian",
+                  "type": "internal",
+                  "page": "Norway"
+                },
                 {
                   "text": "Centre Party",
                   "type": "internal",
