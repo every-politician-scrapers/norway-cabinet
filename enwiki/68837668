@@ -28,7 +28,7 @@
               }
             },
             {
-              "text": "She has served as minister of petroleum and energy since 2021."
+              "text": "She has served as minister of labour and social inclusion since 2022, and minister of petroleum and energy from 2021 to 2022."
             },
             {
               "text": "She served as the mayor of Bergen from 2015 until being elected to the Storting in 2021.",
@@ -68,16 +68,16 @@
             "text": "Nordiske Mediedager 2017 (34458355281) (cropped).jpg"
           },
           "office": {
-            "text": "Minister of Petroleum and Energy",
+            "text": "Minister of Labour and Social Inclusion",
             "links": [
               {
                 "type": "internal",
-                "page": "Minister of Petroleum and Energy"
+                "page": "Minister of Labour and Social Inclusion"
               }
             ]
           },
           "term_start": {
-            "text": "14 October 2021"
+            "text": "7 March 2022"
           },
           "primeminister": {
             "text": "Jonas Gahr Støre",
@@ -89,6 +89,33 @@
             ]
           },
           "predecessor": {
+            "text": "Hadia Tajik",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hadia Tajik"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Petroleum and Energy",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Minister of Petroleum and Energy"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "14 October 2021"
+          },
+          "term_end2": {
+            "text": "7 March 2022"
+          },
+          "primeminister2": {
+            "text": "Jonas Gahr Støre"
+          },
+          "predecessor2": {
             "text": "Tina Bru",
             "links": [
               {
@@ -97,7 +124,16 @@
               }
             ]
           },
-          "office1": {
+          "successor2": {
+            "text": "Terje Aasland",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Terje Aasland"
+              }
+            ]
+          },
+          "office3": {
             "text": "Member of the Storting",
             "links": [
               {
@@ -107,13 +143,13 @@
               }
             ]
           },
-          "term_start1": {
+          "term_start3": {
             "text": "1 October 2021"
           },
-          "deputy1": {
+          "deputy3": {
             "text": "Lubna Boby Jaffrey"
           },
-          "constituency1": {
+          "constituency3": {
             "text": "Hordaland",
             "links": [
               {
@@ -123,7 +159,7 @@
               }
             ]
           },
-          "office2": {
+          "office4": {
             "text": "Mayor of Bergen",
             "links": [
               {
@@ -133,19 +169,19 @@
               }
             ]
           },
-          "term_start2": {
+          "term_start4": {
             "text": "28 October 2015"
           },
-          "term_end2": {
+          "term_end4": {
             "text": "22 September 2021"
           },
-          "deputy2": {
+          "deputy4": {
             "text": "Marita Moltu Rune Bakervik"
           },
-          "predecessor2": {
+          "predecessor4": {
             "text": "Trude Drevland"
           },
-          "successor2": {
+          "successor4": {
             "text": "Rune Bakervik"
           },
           "birth_date": {
