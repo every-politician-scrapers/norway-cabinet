@@ -1,198 +1,21 @@
 {
-  "title": "Tonje Brenna",
-  "pageID": 69008404,
-  "categories": [
-    "1987 births",
-    "Living people",
-    "Labour Party (Norway) politicians",
-    "Akershus politicians",
-    "Deputy members of the Storting",
-    "Ministers of Education of Norway",
-    "Women government ministers of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Tonje Brenna (born 21 October 1987) is a Norwegian politician for the Labour Party.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Tonje Brenna"
-                ]
-              }
-            },
-            {
-              "text": "She has served as Minister of Education since 2021."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician",
-          "template": "short description"
-        },
-        {
-          "date": "October 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1987",
-          "month": "10",
-          "day": "21",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Tonje Brenna"
-          },
-          "image": {
-            "text": "Tale ved Tonje Brenna.jpg"
-          },
-          "office": {
-            "text": "Minister of Education",
-            "links": [
-              {
-                "text": "Minister of Education",
-                "type": "internal",
-                "page": "Ministry of Education and Research (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Guri Melby",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Guri Melby"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Chairwoman of the County Cabinet of Viken",
-            "links": [
-              {
-                "text": "Chairwoman of the County Cabinet",
-                "type": "internal",
-                "page": "County municipality (Norway)"
-              },
-              {
-                "text": "Viken",
-                "type": "internal",
-                "page": "Viken (county)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "1 January 2020"
-          },
-          "term_end1": {
-            "text": "14 October 2021"
-          },
-          "predecessor1": {
-            "text": "Office established",
-            "formatting": {
-              "italic": [
-                "Office established"
-              ]
-            }
-          },
-          "successor1": {
-            "text": "Siv Henriette Jacobsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Siv Henriette Jacobsen"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Deputy Member of the Storting",
-            "links": [
-              {
-                "text": "Deputy Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2017"
-          },
-          "constituency2": {
-            "text": "Akershus",
-            "links": [
-              {
-                "text": "Akershus",
-                "type": "internal",
-                "page": "Akershus (Storting constituency)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "October 21, 1987"
-          },
-          "birth_place": {
-            "text": "Holmlia, Oslo, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Holmlia"
-              },
-              {
-                "type": "internal",
-                "page": "Oslo"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian"
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Tonje Brenna",
+  "image": "Tale ved Tonje Brenna.jpg",
+  "office": "Minister of Education",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Guri Melby",
+  "office1": "Chairwoman of the County Cabinet of Viken",
+  "term_start1": "1 January 2020",
+  "term_end1": "14 October 2021",
+  "predecessor1": "Office established",
+  "successor1": "Siv Henriette Jacobsen",
+  "office2": "Deputy Member of the Storting",
+  "term_start2": "1 October 2017",
+  "constituency2": "Akershus",
+  "birth_date": "October 21, 1987",
+  "birth_place": "Holmlia, Oslo, Norway",
+  "nationality": "Norwegian",
+  "occupation": "Politician",
+  "party": "Labour"
 }

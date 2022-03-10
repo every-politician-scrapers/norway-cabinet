@@ -1,265 +1,29 @@
 {
-  "title": "Ingvild Kjerkol",
-  "pageID": 40952217,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "People from Stjørdal",
-    "Norwegian University of Science and Technology alumni",
-    "Labour Party (Norway) politicians",
-    "Members of the Storting",
-    "Women members of the Storting",
-    "Politicians from Nord-Trøndelag",
-    "21st-century Norwegian politicians",
-    "Ministers of Health and Care Services of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Ingvild Kjerkol (born 18 May 1975) is a Norwegian politician for the Labour Party.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Ingvild Kjerkol"
-                ]
-              }
-            },
-            {
-              "text": "She was elected to the Parliament of Norway from Nord-Trøndelag first time in 2013, and re-elected in 2017 and 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Parliament of Norway"
-                },
-                {
-                  "type": "internal",
-                  "page": "Nord-Trøndelag"
-                }
-              ]
-            },
-            {
-              "text": "She has been a member of the Standing Committee on Transport and Communications, and of the Standing Committee on Health and Care Services.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Standing Committee on Transport and Communications"
-                },
-                {
-                  "type": "internal",
-                  "page": "Standing Committee on Health and Care Services"
-                }
-              ]
-            },
-            {
-              "text": "Since 2021, she has served as minister of health and care services."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1975",
-          "month": "5",
-          "day": "18",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Ingvild Kjerkol"
-          },
-          "image": {
-            "text": "Ingvild Kjerkol portrett 2011.jpg"
-          },
-          "caption": {
-            "text": "Kjerkol in November 2011"
-          },
-          "office": {
-            "text": "Minister of Health and Care Services",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Health and Care Services"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Bent Høie",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bent Høie"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2013"
-          },
-          "deputy2": {
-            "text": "May Britt Lagesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "May Britt Lagesen"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Nord-Trøndelag",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nord-Trøndelag"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Leader of the Nord-Trøndelag County Council",
-            "links": [
-              {
-                "text": "County Council",
-                "type": "internal",
-                "page": "County council"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "18 October 2011"
-          },
-          "term_end3": {
-            "text": "13 June 2013"
-          },
-          "predecessor3": {
-            "text": "Alf Daniel Moen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Alf Daniel Moen"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Anne Marit Mevassvik"
-          },
-          "office4": {
-            "text": "Deputy Member of the Storting",
-            "links": [
-              {
-                "text": "Deputy Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 October 2005"
-          },
-          "term_end4": {
-            "text": "30 September 2013"
-          },
-          "constituency4": {
-            "text": "Nord-Trøndelag",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nord-Trøndelag"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "May 18, 1975"
-          },
-          "birth_place": {
-            "text": "Stjørdal, North Trøndelag, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Stjørdal"
-              },
-              {
-                "text": "North Trøndelag",
-                "type": "internal",
-                "page": "Nord-Trøndelag"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian"
-          },
-          "alma_mater": {
-            "text": "Norwegian University of Science and Technology Sør-Trøndelag University College",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norwegian University of Science and Technology"
-              },
-              {
-                "type": "internal",
-                "page": "Sør-Trøndelag University College"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Rune Øyan"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Ingvild Kjerkol",
+  "image": "Ingvild Kjerkol portrett 2011.jpg",
+  "caption": "Kjerkol in November 2011",
+  "office": "Minister of Health and Care Services",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Bent Høie",
+  "office2": "Member of the Storting",
+  "term_start2": "1 October 2013",
+  "deputy2": "May Britt Lagesen",
+  "constituency2": "Nord-Trøndelag",
+  "office3": "Leader of the Nord-Trøndelag County Council",
+  "term_start3": "18 October 2011",
+  "term_end3": "13 June 2013",
+  "predecessor3": "Alf Daniel Moen",
+  "successor3": "Anne Marit Mevassvik",
+  "office4": "Deputy Member of the Storting",
+  "term_start4": "1 October 2005",
+  "term_end4": "30 September 2013",
+  "constituency4": "Nord-Trøndelag",
+  "birth_date": "May 18, 1975",
+  "birth_place": "Stjørdal, North Trøndelag, Norway",
+  "nationality": "Norwegian",
+  "alma_mater": "Norwegian University of Science and Technology Sør-Trøndelag University College",
+  "occupation": "Politician",
+  "party": "Labour",
+  "spouse": "Rune Øyan"
 }

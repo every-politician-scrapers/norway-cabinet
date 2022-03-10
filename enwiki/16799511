@@ -1,177 +1,20 @@
 {
-  "title": "Bjørn Arild Gram",
-  "pageID": 16799511,
-  "categories": [
-    "1972 births",
-    "Living people",
-    "People from Steinkjer",
-    "Nord-Trøndelag University College alumni",
-    "University of Nordland alumni",
-    "Centre Party (Norway) politicians",
-    "Mayors of places in Nord-Trøndelag",
-    "Norwegian state secretaries",
-    "Members of the Storting",
-    "Ministers of Local Government and Modernisation of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bjørn Arild Gram (born 7 May 1972 in Steinkjer) is a Norwegian politician for the Centre Party.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Steinkjer"
-                },
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bjørn Arild Gram"
-                ]
-              }
-            },
-            {
-              "text": "He has served as minister of local government since 2021."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1972",
-          "month": "5",
-          "day": "7",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "Bjørn_Arild_Gram_leseambassadør_(cropped).JPG"
-          },
-          "office": {
-            "text": "Minister of Local Government",
-            "links": [
-              {
-                "text": "Minister of Local Government",
-                "type": "internal",
-                "page": "Minister of Local Government and Modernisation (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Nikolai Astrup",
-            "links": [
-              {
-                "text": "Nikolai Astrup",
-                "type": "internal",
-                "page": "Nikolai Astrup (politician)"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Chair of the Norwegian Association of Local and Regional Authorities",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Norwegian Association of Local and Regional Authorities"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "12 February 2020"
-          },
-          "term_end2": {
-            "text": "14 October 2021"
-          },
-          "predecessor2": {
-            "text": "Gunn Marit Helgesen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gunn Marit Helgesen"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Gunn Marit Helgesen"
-          },
-          "office3": {
-            "text": "Mayor of Steinkjer",
-            "links": [
-              {
-                "text": "Mayor of Steinkjer",
-                "type": "internal",
-                "page": "Steinkjer"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "3 October 2007"
-          },
-          "term_end3": {
-            "text": "16 March 2020"
-          },
-          "predecessor3": {
-            "text": "Per Sverre Rannem"
-          },
-          "successor3": {
-            "text": "Anne Berit Lein"
-          },
-          "birth_date": {
-            "text": "May 7, 1972"
-          },
-          "birth_place": {
-            "text": "Steinkjer, Nord-Trøndelag, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Steinkjer"
-              },
-              {
-                "type": "internal",
-                "page": "Nord-Trøndelag"
-              }
-            ]
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "Bjørn_Arild_Gram_leseambassadør_(cropped).JPG",
+  "office": "Minister of Local Government",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Nikolai Astrup",
+  "office2": "Chair of the Norwegian Association of Local and Regional Authorities",
+  "term_start2": "12 February 2020",
+  "term_end2": "14 October 2021",
+  "predecessor2": "Gunn Marit Helgesen",
+  "successor2": "Gunn Marit Helgesen",
+  "office3": "Mayor of Steinkjer",
+  "term_start3": "3 October 2007",
+  "term_end3": "16 March 2020",
+  "predecessor3": "Per Sverre Rannem",
+  "successor3": "Anne Berit Lein",
+  "birth_date": "May 7, 1972",
+  "birth_place": "Steinkjer, Nord-Trøndelag, Norway",
+  "party": "Centre"
 }

@@ -1,233 +1,28 @@
 {
-  "title": "Jon-Ivar Nygård",
-  "pageID": 68839795,
-  "categories": [
-    "1973 births",
-    "Living people",
-    "People from Fredrikstad",
-    "University of Oslo alumni",
-    "Østfold politicians",
-    "Labour Party (Norway) politicians",
-    "Mayors of places in Norway",
-    "Members of the Storting",
-    "Ministers of Transport and Communications of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Jon-Ivar Nygård (born 2 January 1973) is a Norwegian politician for the Labour Party.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Jon-Ivar Nygård"
-                ]
-              }
-            },
-            {
-              "text": "He has served as minister of transport since 2021."
-            },
-            {
-              "text": "He previously served as the mayor of Fredrikstad from 2011 to 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Fredrikstad"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician (born 1973)",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1973",
-          "month": "1",
-          "day": "2",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Jon-Ivar Nygård"
-          },
-          "image": {
-            "text": "Statsråd Jon-Ivar Nygård.jpg"
-          },
-          "office": {
-            "text": "Minister of Transport",
-            "links": [
-              {
-                "text": "Minister of Transport",
-                "type": "internal",
-                "page": "Minister of Transport of Norway"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Knut Arild Hareide",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Knut Arild Hareide"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2021"
-          },
-          "deputy2": {
-            "text": "Solveig Vitanza",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Solveig Vitanza"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Østfold",
-            "links": [
-              {
-                "text": "Østfold",
-                "type": "internal",
-                "page": "Østfold (Storting constituency)"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Member of the Storting",
-            "links": [
-              {
-                "text": "Deputy Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 October 2013"
-          },
-          "term_end3": {
-            "text": "30 September 2017"
-          },
-          "constituency3": {
-            "text": "Østfold",
-            "links": [
-              {
-                "text": "Østfold",
-                "type": "internal",
-                "page": "Østfold (Storting constituency)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Mayor of Fredrikstad",
-            "links": [
-              {
-                "text": "Mayor of Fredrikstad",
-                "type": "internal",
-                "page": "Fredrikstad"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "20 October 2011"
-          },
-          "term_end4": {
-            "text": "21 October 2021"
-          },
-          "predecessor4": {
-            "text": "Eva Kristin Andersen"
-          },
-          "successor4": {
-            "text": "Siri Martinsen"
-          },
-          "birth_date": {
-            "text": "January 2, 1973"
-          },
-          "birth_place": {
-            "text": "Borge, Østfold, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Borge, Østfold"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of Oslo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Oslo"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          },
-          "partner": {
-            "text": "Anne Gro Bjerknes"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Jon-Ivar Nygård",
+  "image": "Statsråd Jon-Ivar Nygård.jpg",
+  "office": "Minister of Transport",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Knut Arild Hareide",
+  "office2": "Member of the Storting",
+  "term_start2": "1 October 2021",
+  "deputy2": "Solveig Vitanza",
+  "constituency2": "Østfold",
+  "office3": "Deputy Member of the Storting",
+  "term_start3": "1 October 2013",
+  "term_end3": "30 September 2017",
+  "constituency3": "Østfold",
+  "office4": "Mayor of Fredrikstad",
+  "term_start4": "20 October 2011",
+  "term_end4": "21 October 2021",
+  "predecessor4": "Eva Kristin Andersen",
+  "successor4": "Siri Martinsen",
+  "birth_date": "January 2, 1973",
+  "birth_place": "Borge, Østfold, Norway",
+  "alma_mater": "University of Oslo",
+  "occupation": "Politician",
+  "party": "Labour",
+  "partner": "Anne Gro Bjerknes",
+  "children": "3"
 }
