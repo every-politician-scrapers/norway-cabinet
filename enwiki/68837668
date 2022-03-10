@@ -1,253 +1,33 @@
 {
-  "title": "Marte Mjøs Persen",
-  "pageID": 68837668,
-  "categories": [
-    "1975 births",
-    "Living people",
-    "Politicians from Bergen",
-    "University of Bergen alumni",
-    "Labour Party (Norway) politicians",
-    "Mayors of Bergen",
-    "Members of the Storting",
-    "Petroleum and energy ministers of Norway",
-    "Women government ministers of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Marte Mjøs Persen (born 24 April 1975) is a Norwegian politician from the Labour Party.",
-              "formatting": {
-                "bold": [
-                  "Marte Mjøs Persen"
-                ]
-              }
-            },
-            {
-              "text": "She has served as minister of labour and social inclusion since 2022, and minister of petroleum and energy from 2021 to 2022."
-            },
-            {
-              "text": "She served as the mayor of Bergen from 2015 until being elected to the Storting in 2021.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Storting"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician (born 1975)",
-          "template": "short description"
-        },
-        {
-          "date": "September 2021",
-          "template": "use dmy dates"
-        },
-        {
-          "year": "1975",
-          "month": "4",
-          "day": "24",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Marte Mjøs Persen"
-          },
-          "image": {
-            "text": "Nordiske Mediedager 2017 (34458355281) (cropped).jpg"
-          },
-          "office": {
-            "text": "Minister of Labour and Social Inclusion",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Labour and Social Inclusion"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "7 March 2022"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Hadia Tajik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hadia Tajik"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Petroleum and Energy",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Minister of Petroleum and Energy"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "14 October 2021"
-          },
-          "term_end2": {
-            "text": "7 March 2022"
-          },
-          "primeminister2": {
-            "text": "Jonas Gahr Støre"
-          },
-          "predecessor2": {
-            "text": "Tina Bru",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Tina Bru"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Terje Aasland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Terje Aasland"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "1 October 2021"
-          },
-          "deputy3": {
-            "text": "Lubna Boby Jaffrey"
-          },
-          "constituency3": {
-            "text": "Hordaland",
-            "links": [
-              {
-                "text": "Hordaland",
-                "type": "internal",
-                "page": "Hordaland (Storting constituency)"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Mayor of Bergen",
-            "links": [
-              {
-                "text": "Mayor of Bergen",
-                "type": "internal",
-                "page": "List of mayors of Bergen"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "28 October 2015"
-          },
-          "term_end4": {
-            "text": "22 September 2021"
-          },
-          "deputy4": {
-            "text": "Marita Moltu Rune Bakervik"
-          },
-          "predecessor4": {
-            "text": "Trude Drevland"
-          },
-          "successor4": {
-            "text": "Rune Bakervik"
-          },
-          "birth_date": {
-            "text": "April 24, 1975"
-          },
-          "birth_place": {
-            "text": "Bergen, Hordaland, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bergen"
-              },
-              {
-                "type": "internal",
-                "page": "Hordaland"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian"
-          },
-          "alma_mater": {
-            "text": "University of Bergen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Bergen"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          },
-          "otherparty": {
-            "text": "Red Electoral Alliance (until 2007)\n\nRed Party (2007–2008)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Red Electoral Alliance"
-              },
-              {
-                "text": "Red Party",
-                "type": "internal",
-                "page": "Red Party (Norway)"
-              }
-            ]
-          },
-          "partner": {
-            "text": "Nils-Olav Nøss"
-          },
-          "children": {
-            "text": "4",
-            "number": 4
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Marte Mjøs Persen",
+  "image": "Nordiske Mediedager 2017 (34458355281) (cropped).jpg",
+  "office": "Minister of Labour and Social Inclusion",
+  "term_start": "7 March 2022",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Hadia Tajik",
+  "office2": "Minister of Petroleum and Energy",
+  "term_start2": "14 October 2021",
+  "term_end2": "7 March 2022",
+  "primeminister2": "Jonas Gahr Støre",
+  "predecessor2": "Tina Bru",
+  "successor2": "Terje Aasland",
+  "office3": "Member of the Storting",
+  "term_start3": "1 October 2021",
+  "deputy3": "Lubna Jaffery",
+  "constituency3": "Hordaland",
+  "office4": "Mayor of Bergen",
+  "term_start4": "28 October 2015",
+  "term_end4": "22 September 2021",
+  "deputy4": "Marita Moltu Rune Bakervik",
+  "predecessor4": "Trude Drevland",
+  "successor4": "Rune Bakervik",
+  "birth_date": "April 24, 1975",
+  "birth_place": "Bergen, Hordaland, Norway",
+  "nationality": "Norwegian",
+  "alma_mater": "University of Bergen",
+  "occupation": "Politician",
+  "party": "Labour",
+  "otherparty": "Red Electoral Alliance (until 2007)\n\nRed Party (2007–2008)",
+  "partner": "Nils-Olav Nøss",
+  "children": "4"
 }

@@ -1,210 +1,23 @@
 {
-  "title": "Bjørnar Skjæran",
-  "pageID": 68643063,
-  "categories": [
-    "1966 births",
-    "Living people",
-    "Labour Party (Norway) politicians",
-    "Mayors of places in Nordland",
-    "Government ministers of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Bjørnar Selnes Skjæran (born 28 May 1966) is a Norwegian politician from the Labour Party.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Bjørnar Selnes Skjæran"
-                ]
-              }
-            },
-            {
-              "text": "He is currently serving as the party's deputy leader since 2019."
-            },
-            {
-              "text": "He has also served as minister of fisheries since 2021."
-            },
-            {
-              "text": "He previousley served as mayor of Lurøy from 2011 to 2015.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Lurøy"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician (born 1966)",
-          "template": "short description"
-        },
-        {
-          "year": "1966",
-          "month": "5",
-          "day": "28",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "image": {
-            "text": "File:Bjørnar Skjæran, fylkesvaraordførerkandidat (15746492405).jpg"
-          },
-          "office": {
-            "text": "Minister of Fisheries and Ocean Policy",
-            "links": [
-              {
-                "text": "Minister of Fisheries and Ocean Policy",
-                "type": "internal",
-                "page": "Minister of Fisheries (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Odd Emil Ingebrigtsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Odd Emil Ingebrigtsen"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2021"
-          },
-          "deputy2": {
-            "text": "Karianne Bråthen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Karianne Bråthen"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Nordland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nordland"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Leader of the Labour Party",
-            "links": [
-              {
-                "text": "Deputy Leader of the Labour Party",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          },
-          "leader3": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "alongside3": {
-            "text": "Hadia Tajik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hadia Tajik"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 April 2019"
-          },
-          "predecessor3": {
-            "text": "Trond Giske",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Trond Giske"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Mayor of Lurøy",
-            "links": [
-              {
-                "text": "Mayor of Lurøy",
-                "type": "internal",
-                "page": "Lurøy"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "27 October 2011"
-          },
-          "term_end4": {
-            "text": "16 October 2015"
-          },
-          "predecessor4": {
-            "text": "Carl Einar Isachsen jr."
-          },
-          "successor4": {
-            "text": "Carl Einar Isachsen jr."
-          },
-          "birth_date": {
-            "text": "May 28, 1966"
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "image": "File:Bjørnar Skjæran, fylkesvaraordførerkandidat (15746492405).jpg",
+  "office": "Minister of Fisheries and Ocean Policy",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Odd Emil Ingebrigtsen",
+  "office2": "Member of the Storting",
+  "term_start2": "1 October 2021",
+  "deputy2": "Karianne Bråthen",
+  "constituency2": "Nordland",
+  "office3": "Deputy Leader of the Labour Party",
+  "leader3": "Jonas Gahr Støre",
+  "alongside3": "Hadia Tajik",
+  "term_start3": "6 April 2019",
+  "predecessor3": "Trond Giske",
+  "office4": "Mayor of Lurøy",
+  "term_start4": "27 October 2011",
+  "term_end4": "16 October 2015",
+  "predecessor4": "Carl Einar Isachsen jr.",
+  "successor4": "Carl Einar Isachsen jr.",
+  "birth_date": "May 28, 1966",
+  "party": "Labour"
 }

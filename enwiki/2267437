@@ -1,377 +1,44 @@
 {
-  "title": "Odd Roger Enoksen",
-  "pageID": 2267437,
-  "categories": [
-    "1954 births",
-    "Living people",
-    "20th-century Norwegian politicians",
-    "21st-century Norwegian politicians",
-    "Centre Party (Norway) politicians",
-    "Defence ministers of Norway",
-    "Members of the Storting",
-    "Ministers of Local Government and Modernisation of Norway",
-    "Petroleum and energy ministers of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Odd Roger Enoksen (born 25 September 1954 in Å, Andøy) is a Norwegian politician representing the Norwegian Centre Party.",
-              "links": [
-                {
-                  "text": "Å, Andøy",
-                  "type": "internal",
-                  "page": "Å, Andøy"
-                },
-                {
-                  "text": "Norwegian",
-                  "type": "internal",
-                  "page": "Norway"
-                },
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Odd Roger Enoksen"
-                ]
-              }
-            },
-            {
-              "text": "He has served as minister of defence since 2021."
-            },
-            {
-              "text": "He was also leader of the Centre Party from 1999 to 2003."
-            },
-            {
-              "text": "Further, he served as minister of local government and deputy to the prime minister from 1999 to 2000, and minister of petroleum and energy from 2005 to 2007."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1954",
-          "month": "09",
-          "day": "25",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Odd Roger Enoksen"
-          },
-          "image": {
-            "text": "Odd Roger Enoksen.jpg"
-          },
-          "caption": {
-            "text": "Enoksen in 2007."
-          },
-          "office": {
-            "text": "Minister of Defence",
-            "links": [
-              {
-                "text": "Minister of Defence",
-                "type": "internal",
-                "page": "Minister of Defence (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Frank Bakke-Jensen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Frank Bakke-Jensen"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Petroleum and Energy",
-            "links": [
-              {
-                "text": "Minister of Petroleum and Energy",
-                "type": "internal",
-                "page": "Ministry of Petroleum and Energy (Norway)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "17 October 2005"
-          },
-          "term_end2": {
-            "text": "21 September 2007"
-          },
-          "primeminister2": {
-            "text": "Jens Stoltenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jens Stoltenberg"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Åslaug Haga",
-            "links": [
-              {
-                "text": "Åslaug Haga",
-                "type": "internal",
-                "page": "Åslaug Haga"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Thorhild Widvey",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Thorhild Widvey"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy to the Prime Minister of Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Deputy to the Prime Minister of Norway"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Kjell Magne Bondevik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kjell Magne Bondevik"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "8 October 1999"
-          },
-          "term_end3": {
-            "text": "17 March 2000"
-          },
-          "predecessor3": {
-            "text": "Anne Enger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anne Enger"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Post abolished",
-            "formatting": {
-              "italic": [
-                "Post abolished"
-              ]
-            }
-          },
-          "office4": {
-            "text": "Minister of Local Government",
-            "links": [
-              {
-                "text": "Minister of Local Government",
-                "type": "internal",
-                "page": "Minister of Local Government and Regional Development (Norway)"
-              }
-            ]
-          },
-          "primeminister4": {
-            "text": "Kjell Magne Bondevik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kjell Magne Bondevik"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "16 March 1999"
-          },
-          "term_end4": {
-            "text": "17 March 2000"
-          },
-          "predecessor4": {
-            "text": "Ragnhild Q. Haarstad",
-            "links": [
-              {
-                "text": "Ragnhild Q. Haarstad",
-                "type": "internal",
-                "page": "Ragnhild Queseth Haarstad"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Sylvia Brustad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Sylvia Brustad"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Leader of the Centre Party",
-            "links": [
-              {
-                "text": "Leader of the",
-                "type": "internal",
-                "page": "Leader"
-              },
-              {
-                "text": "Centre Party",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "13 March 1999"
-          },
-          "term_end5": {
-            "text": "15 March 2003"
-          },
-          "successor5": {
-            "text": "Åslaug Haga",
-            "links": [
-              {
-                "text": "Åslaug Haga",
-                "type": "internal",
-                "page": "Åslaug Haga"
-              }
-            ]
-          },
-          "predecessor5": {
-            "text": "Anne Enger",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Anne Enger"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "1 October 1993"
-          },
-          "term_end6": {
-            "text": "30 September 2005"
-          },
-          "deputy6": {
-            "text": "Inga Kvalbukt",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Inga Kvalbukt"
-              }
-            ]
-          },
-          "constituency6": {
-            "text": "Nordland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nordland"
-              }
-            ]
-          },
-          "office7": {
-            "text": "Deputy Member of the Storting",
-            "links": [
-              {
-                "text": "Deputy Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start7": {
-            "text": "1 October 1989"
-          },
-          "term_end7": {
-            "text": "30 September 1993"
-          },
-          "constituency7": {
-            "text": "Nordland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Nordland"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "September 25, 1954"
-          },
-          "birth_place": {
-            "text": "Å, Andøy, Nordland, Norway",
-            "links": [
-              {
-                "text": "Å, Andøy",
-                "type": "internal",
-                "page": "Å, Andøy"
-              },
-              {
-                "type": "internal",
-                "page": "Nordland"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Odd Roger Enoksen",
+  "image": "Odd Roger Enoksen.jpg",
+  "caption": "Enoksen in 2007.",
+  "office": "Minister of Defence",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Frank Bakke-Jensen",
+  "office2": "Minister of Petroleum and Energy",
+  "term_start2": "17 October 2005",
+  "term_end2": "21 September 2007",
+  "primeminister2": "Jens Stoltenberg",
+  "successor2": "Åslaug Haga",
+  "predecessor2": "Thorhild Widvey",
+  "office3": "Deputy to the Prime Minister of Norway",
+  "primeminister3": "Kjell Magne Bondevik",
+  "term_start3": "8 October 1999",
+  "term_end3": "17 March 2000",
+  "predecessor3": "Anne Enger",
+  "successor3": "Post abolished",
+  "office4": "Minister of Local Government",
+  "primeminister4": "Kjell Magne Bondevik",
+  "term_start4": "16 March 1999",
+  "term_end4": "17 March 2000",
+  "predecessor4": "Ragnhild Q. Haarstad",
+  "successor4": "Sylvia Brustad",
+  "office5": "Leader of the Centre Party",
+  "term_start5": "13 March 1999",
+  "term_end5": "15 March 2003",
+  "successor5": "Åslaug Haga",
+  "predecessor5": "Anne Enger",
+  "office6": "Member of the Storting",
+  "term_start6": "1 October 1993",
+  "term_end6": "30 September 2005",
+  "deputy6": "Inga Kvalbukt",
+  "constituency6": "Nordland",
+  "office7": "Deputy Member of the Storting",
+  "term_start7": "1 October 1989",
+  "term_end7": "30 September 1993",
+  "constituency7": "Nordland",
+  "birth_date": "September 25, 1954",
+  "birth_place": "Å, Andøy, Nordland, Norway",
+  "party": "Centre"
 }

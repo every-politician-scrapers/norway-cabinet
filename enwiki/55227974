@@ -1,189 +1,20 @@
 {
-  "title": "Emilie Enger Mehl",
-  "pageID": 55227974,
-  "categories": [
-    "1993 births",
-    "Living people",
-    "Centre Party (Norway) politicians",
-    "Female justice ministers",
-    "Hedmark politicians",
-    "Members of the Storting",
-    "Ministers of Justice of Norway",
-    "People from Åsnes",
-    "Reality show winners"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Emilie Enger Mehl  (born 8 August 1993) is a Norwegian politician for the Centre Party.",
-              "links": [
-                {
-                  "text": "Norwegian",
-                  "type": "internal",
-                  "page": "Norway"
-                },
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Emilie Enger Mehl "
-                ]
-              }
-            },
-            {
-              "text": "She has served as minister of justice since 2021 and Member of parliament since 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Member of parliament"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1993",
-          "month": "8",
-          "day": "8",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Emilie Enger Mehl"
-          },
-          "image": {
-            "text": "Emilie Enger Mehl.jpg"
-          },
-          "caption": {
-            "text": "Mehl in March 2015"
-          },
-          "office": {
-            "text": "Minister of Justice",
-            "links": [
-              {
-                "text": "Minister of Justice",
-                "type": "internal",
-                "page": "Minister of Justice and Public Security"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Monica Mæland",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Monica Mæland"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "9 October 2017"
-          },
-          "deputy2": {
-            "text": "Margrethe Haarr",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Margrethe Haarr"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Hedmark",
-            "links": [
-              {
-                "text": "Hedmark",
-                "type": "internal",
-                "page": "Hedmark (Storting constituency)"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "August 8, 1993"
-          },
-          "birth_place": {
-            "text": "Lørenskog, Akershus, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lørenskog"
-              },
-              {
-                "type": "internal",
-                "page": "Akershus"
-              }
-            ]
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian"
-          },
-          "education": {
-            "text": "Jurisprudence"
-          },
-          "alma_mater": {
-            "text": "University of Oslo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Oslo"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Emilie Enger Mehl",
+  "image": "Emilie Enger Mehl.jpg",
+  "caption": "Mehl in March 2015",
+  "office": "Minister of Justice",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Monica Mæland",
+  "office2": "Member of the Storting",
+  "term_start2": "9 October 2017",
+  "deputy2": "Margrethe Haarr",
+  "constituency2": "Hedmark",
+  "birth_date": "August 8, 1993",
+  "birth_place": "Lørenskog, Akershus, Norway",
+  "party": "Centre",
+  "nationality": "Norwegian",
+  "education": "Jurisprudence",
+  "alma_mater": "University of Oslo",
+  "occupation": "Politician"
 }

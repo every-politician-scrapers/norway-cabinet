@@ -1,367 +1,45 @@
 {
-  "title": "Anniken Huitfeldt",
-  "pageID": 5715149,
-  "categories": [
-    "1969 births",
-    "Living people",
-    "People from Jessheim",
-    "Bærum politicians",
-    "Norwegian expatriates in England",
-    "Norwegian historians",
-    "University of Oslo alumni",
-    "Norwegian women's rights activists",
-    "Labour Party (Norway) politicians",
-    "Members of the Storting",
-    "Ministers of Children, Equality and Social Inclusion of Norway",
-    "Ministers of Culture of Norway",
-    "Government ministers of Norway",
-    "Women government ministers of Norway",
-    "21st-century Norwegian politicians",
-    "21st-century Norwegian women politicians",
-    "Women members of the Storting",
-    "Norwegian women historians",
-    "Female foreign ministers",
-    "Foreign Ministers of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Anniken Scharning Huitfeldt (born 29 November 1969) is a Norwegian historian and politician for the Labour Party.",
-              "links": [
-                {
-                  "text": "Labour Party",
-                  "type": "internal",
-                  "page": "Labour Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Anniken Scharning Huitfeldt"
-                ]
-              }
-            },
-            {
-              "text": "She has served as Minister of Foreign Affairs since 2021."
-            },
-            {
-              "text": "She previously served as Minister of Children and Equality from 2008 to 2009, Minister of Culture from 2009 to 2012 and Minister of Labour and Social Inclusion from 2012 to 2013."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian historian and politician (born 1969)",
-          "template": "short description"
-        },
-        {
-          "year": "1969",
-          "month": "11",
-          "day": "29",
-          "df": "yes",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Anniken Huitfeldt"
-          },
-          "image": {
-            "text": "Norges kulturminister Anniken Huitfeldt under ett nordiskt kulturministermote vid Nordiska Radets session 2011 i Kopenhamn.jpg"
-          },
-          "imagesize": {
-            "text": "220px"
-          },
-          "caption": {
-            "text": "Huitfeldt at a Nordic Council session in 2011."
-          },
-          "office": {
-            "text": "Minister of Foreign Affairs",
-            "links": [
-              {
-                "text": "Minister of Foreign Affairs",
-                "type": "internal",
-                "page": "Minister of Foreign Affairs (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Ine Eriksen Søreide",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ine Eriksen Søreide"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Minister of Labour and Social Inclusion",
-            "links": [
-              {
-                "text": "Minister of Labour and Social Inclusion",
-                "type": "internal",
-                "page": "Minister of Labour and Social Inclusion (Norway)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "21 September 2012"
-          },
-          "term_end2": {
-            "text": "16 October 2013"
-          },
-          "primeminister2": {
-            "text": "Jens Stoltenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jens Stoltenberg"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Hanne Bjurstrøm",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hanne Bjurstrøm"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Robert Eriksson",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Robert Eriksson"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Minister of Culture",
-            "links": [
-              {
-                "text": "Minister of Culture",
-                "type": "internal",
-                "page": "Minister of Culture (Norway)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "20 October 2009"
-          },
-          "term_end3": {
-            "text": "21 September 2012"
-          },
-          "primeminister3": {
-            "text": "Jens Stoltenberg"
-          },
-          "predecessor3": {
-            "text": "Trond Giske",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Trond Giske"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Hadia Tajik",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Hadia Tajik"
-              }
-            ]
-          },
-          "office4": {
-            "text": "Minister of Children and Equality",
-            "links": [
-              {
-                "text": "Minister of Children and Equality",
-                "type": "internal",
-                "page": "Minister of Children and Families"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "29 February 2008"
-          },
-          "term_end4": {
-            "text": "20 October 2009"
-          },
-          "primeminister4": {
-            "text": "Jens Stoltenberg"
-          },
-          "predecessor4": {
-            "text": "Manuela Ramin-Osmundsen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Manuela Ramin-Osmundsen"
-              }
-            ]
-          },
-          "successor4": {
-            "text": "Audun Lysbakken",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Audun Lysbakken"
-              }
-            ]
-          },
-          "office5": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start5": {
-            "text": "1 October 2005"
-          },
-          "deputy5": {
-            "text": "Gorm Kjernli Are Helseth Ragnhild Male Hartviksen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gorm Kjernli"
-              },
-              {
-                "type": "internal",
-                "page": "Are Helseth"
-              },
-              {
-                "type": "internal",
-                "page": "Ragnhild Male Hartviksen"
-              }
-            ]
-          },
-          "constituency5": {
-            "text": "Akershus",
-            "links": [
-              {
-                "text": "Akershus",
-                "type": "internal",
-                "page": "Akershus (Storting constituency)"
-              }
-            ]
-          },
-          "office6": {
-            "text": "Leader of the Workers' Youth League",
-            "links": [
-              {
-                "text": "Leader of the Workers' Youth League",
-                "type": "internal",
-                "page": "Workers' Youth League (Norway)"
-              }
-            ]
-          },
-          "term_start6": {
-            "text": "27 October 1996"
-          },
-          "term_end6": {
-            "text": "22 October 2000"
-          },
-          "predecessor6": {
-            "text": "Trond Giske"
-          },
-          "successor6": {
-            "text": "Eva Kristin Hansen",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Eva Kristin Hansen"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Anniken Scharning Huitfeldt"
-          },
-          "birth_date": {
-            "text": "November 29, 1969"
-          },
-          "birth_place": {
-            "text": "Bærum, Akershus, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Bærum"
-              },
-              {
-                "type": "internal",
-                "page": "Akershus"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian",
-            "links": [
-              {
-                "text": "Norwegian",
-                "type": "internal",
-                "page": "Norwegians"
-              }
-            ]
-          },
-          "party": {
-            "text": "Labour",
-            "links": [
-              {
-                "text": "Labour",
-                "type": "internal",
-                "page": "Labour Party (Norway)"
-              }
-            ]
-          },
-          "spouse": {
-            "text": "Ola Petter Flem"
-          },
-          "children": {
-            "text": "3",
-            "number": 3
-          },
-          "alma_mater": {
-            "text": "University of Oslo \n\nLondon School of Economics",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Oslo"
-              },
-              {
-                "type": "internal",
-                "page": "London School of Economics"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Anniken Huitfeldt",
+  "image": "Norges kulturminister Anniken Huitfeldt under ett nordiskt kulturministermote vid Nordiska Radets session 2011 i Kopenhamn.jpg",
+  "imagesize": "220px",
+  "caption": "Huitfeldt at a Nordic Council session in 2011.",
+  "office": "Minister of Foreign Affairs",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Ine Eriksen Søreide",
+  "office2": "Minister of Labour and Social Inclusion",
+  "term_start2": "21 September 2012",
+  "term_end2": "16 October 2013",
+  "primeminister2": "Jens Stoltenberg",
+  "predecessor2": "Hanne Bjurstrøm",
+  "successor2": "Robert Eriksson",
+  "office3": "Minister of Culture",
+  "term_start3": "20 October 2009",
+  "term_end3": "21 September 2012",
+  "primeminister3": "Jens Stoltenberg",
+  "predecessor3": "Trond Giske",
+  "successor3": "Hadia Tajik",
+  "office4": "Minister of Children and Equality",
+  "term_start4": "29 February 2008",
+  "term_end4": "20 October 2009",
+  "primeminister4": "Jens Stoltenberg",
+  "predecessor4": "Manuela Ramin-Osmundsen",
+  "successor4": "Audun Lysbakken",
+  "office5": "Member of the Storting",
+  "term_start5": "1 October 2005",
+  "deputy5": "Gorm Kjernli Are Helseth Ragnhild Male Hartviksen",
+  "constituency5": "Akershus",
+  "office6": "Leader of the Workers' Youth League",
+  "term_start6": "27 October 1996",
+  "term_end6": "22 October 2000",
+  "predecessor6": "Trond Giske",
+  "successor6": "Eva Kristin Hansen",
+  "birth_name": "Anniken Scharning Huitfeldt",
+  "birth_date": "November 29, 1969",
+  "birth_place": "Bærum, Akershus, Norway",
+  "nationality": "Norwegian",
+  "party": "Labour",
+  "spouse": "Ola Petter Flem",
+  "children": "3",
+  "alma_mater": "University of Oslo \n\nLondon School of Economics"
 }

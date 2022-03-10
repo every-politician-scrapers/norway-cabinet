@@ -1,238 +1,28 @@
 {
-  "title": "Anne Beathe Tvinnereim",
-  "pageID": 58171148,
-  "categories": [
-    "1974 births",
-    "Living people",
-    "Centre Party (Norway) politicians",
-    "Ministers of International Development of Norway",
-    "Norwegian diplomats",
-    "Norwegian state secretaries",
-    "Norwegian women state secretaries",
-    "University of Costa Rica alumni",
-    "University of Oslo alumni",
-    "Women government ministers of Norway"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Anne Beathe Tvinnereim (née Kristiansen; born 22 May 1974) is a Norwegian diplomat and politician of the Centre Party.",
-              "links": [
-                {
-                  "text": "Norwegian",
-                  "type": "internal",
-                  "page": "Norway"
-                },
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Anne Beathe Tvinnereim"
-                ]
-              }
-            },
-            {
-              "text": "She has served as minister of international development since 2021, and the party’s second deputy leader since 2014."
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian diplomat and politician",
-          "template": "short description"
-        },
-        {
-          "year": "1974",
-          "month": "5",
-          "day": "22",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Anne Beathe Tvinnereim"
-          },
-          "image": {
-            "text": "Anne Beathe Tvinnereim (2017-03-23 bilde01).jpg"
-          },
-          "office": {
-            "text": "Minister of International Development",
-            "links": [
-              {
-                "text": "Minister of International Development",
-                "type": "internal",
-                "page": "Minister of International Development (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Dag Inge Ulstein",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Dag Inge Ulstein"
-              }
-            ]
-          },
-          "office1": {
-            "text": "Minister of Nordic Cooperation",
-            "links": [
-              {
-                "text": "Minister of Nordic Cooperation",
-                "type": "internal",
-                "page": "Minister of Nordic Cooperation (Norway)"
-              }
-            ]
-          },
-          "term_start1": {
-            "text": "14 October 2021"
-          },
-          "primeminister1": {
-            "text": "Jonas Gahr Støre"
-          },
-          "predecessor1": {
-            "text": "Jan Tore Sanner",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jan Tore Sanner"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Second Deputy Leader of the Centre Party",
-            "links": [
-              {
-                "text": "Second Deputy Leader of the Centre Party",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "7 April 2014"
-          },
-          "leader2": {
-            "text": "Trygve Slagsvold Vedum",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Trygve Slagsvold Vedum"
-              }
-            ]
-          },
-          "predecessor2": {
-            "text": "Trygve Slagsvold Vedum"
-          },
-          "office3": {
-            "text": "State Secretary for the Ministry of Local Government and Regional Development",
-            "links": [
-              {
-                "text": "State Secretary for the",
-                "type": "internal",
-                "page": "State Secretary (Norway)"
-              },
-              {
-                "text": " Ministry of Local Government and Regional Development",
-                "type": "internal",
-                "page": "Ministry of Local Government and Regional Development (Norway)"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "14 February 2011"
-          },
-          "term_end3": {
-            "text": "16 October 2013 Acting: 14 February 2011 &ndash; 19 October 2012"
-          },
-          "minister3": {
-            "text": "Liv Signe Navarsete",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Liv Signe Navarsete"
-              }
-            ]
-          },
-          "primeminister3": {
-            "text": "Jens Stoltenberg",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jens Stoltenberg"
-              }
-            ]
-          },
-          "birth_name": {
-            "text": "Anne Beathe Kristiansen"
-          },
-          "birth_date": {
-            "text": "May 22, 1974"
-          },
-          "birth_place": {
-            "text": "Halden, Østfold, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Halden"
-              },
-              {
-                "text": "Østfold",
-                "type": "internal",
-                "page": "Østfold"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian"
-          },
-          "occupation": {
-            "text": "Politician Diplomat"
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          },
-          "children": {
-            "text": "2",
-            "number": 2
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Anne Beathe Tvinnereim",
+  "image": "Anne Beathe Tvinnereim (2017-03-23 bilde01).jpg",
+  "office": "Minister of International Development",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Dag Inge Ulstein",
+  "office1": "Minister of Nordic Cooperation",
+  "term_start1": "14 October 2021",
+  "primeminister1": "Jonas Gahr Støre",
+  "predecessor1": "Jan Tore Sanner",
+  "office2": "Second Deputy Leader of the Centre Party",
+  "term_start2": "7 April 2014",
+  "leader2": "Trygve Slagsvold Vedum",
+  "predecessor2": "Trygve Slagsvold Vedum",
+  "office3": "State Secretary for the Ministry of Local Government and Regional Development",
+  "term_start3": "14 February 2011",
+  "term_end3": "16 October 2013 Acting: 14 February 2011 &ndash; 19 October 2012",
+  "minister3": "Liv Signe Navarsete",
+  "primeminister3": "Jens Stoltenberg",
+  "birth_name": "Anne Beathe Kristiansen",
+  "birth_date": "May 22, 1974",
+  "birth_place": "Halden, Østfold, Norway",
+  "nationality": "Norwegian",
+  "occupation": "Politician Diplomat",
+  "party": "Centre",
+  "children": "2"
 }

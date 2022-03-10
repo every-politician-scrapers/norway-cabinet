@@ -1,244 +1,28 @@
 {
-  "title": "Sandra Borch",
-  "pageID": 55217404,
-  "categories": [
-    "1988 births",
-    "Living people",
-    "University of Tromsø alumni",
-    "Centre Party (Norway) politicians",
-    "Members of the Storting",
-    "People from Lavangen",
-    "Ministers of Agriculture and Food of Norway",
-    "Women government ministers of Norway",
-    "21st-century Norwegian women politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sandra Konstance Nygård Borch  (born 23 April 1988) is a Norwegian politician for the Centre Party.",
-              "links": [
-                {
-                  "text": "Centre Party",
-                  "type": "internal",
-                  "page": "Centre Party (Norway)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sandra Konstance Nygård Borch "
-                ]
-              }
-            },
-            {
-              "text": "She has served as minister of agriculture and food since 2021."
-            }
-          ]
-        },
-        {
-          "sentences": [
-            {
-              "text": "She was elected deputy representative to the Storting for the period 2009&ndash;2013, and was an ordinary member of the Storting since 2017.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Storting"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Norwegian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1988",
-          "month": "4",
-          "day": "23",
-          "df": "y",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Sandra Borch"
-          },
-          "image": {
-            "text": "File:Borch, Sandra (23892297490).jpg"
-          },
-          "birth_date": {
-            "text": "April 23, 1988"
-          },
-          "birth_place": {
-            "text": "Lavangen, Troms, Norway",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lavangen"
-              },
-              {
-                "type": "internal",
-                "page": "Troms"
-              },
-              {
-                "type": "internal",
-                "page": "Norway"
-              }
-            ]
-          },
-          "party": {
-            "text": "Centre",
-            "links": [
-              {
-                "text": "Centre",
-                "type": "internal",
-                "page": "Centre Party (Norway)"
-              }
-            ]
-          },
-          "office": {
-            "text": "Minister of Agriculture and Food",
-            "links": [
-              {
-                "text": "Minister of Agriculture and Food",
-                "type": "internal",
-                "page": "Minister of Agriculture and Food (Norway)"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 October 2021"
-          },
-          "primeminister": {
-            "text": "Jonas Gahr Støre",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Jonas Gahr Støre"
-              }
-            ]
-          },
-          "predecessor": {
-            "text": "Olaug Bollestad",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Olaug Bollestad"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Member of the Storting",
-            "links": [
-              {
-                "text": "Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "1 October 2017"
-          },
-          "deputy2": {
-            "text": "Ivar B. Prestbakmo",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ivar B. Prestbakmo"
-              }
-            ]
-          },
-          "constituency2": {
-            "text": "Troms",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Troms"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Leader of the Centre Youth",
-            "links": [
-              {
-                "text": "Leader of the Centre Youth",
-                "type": "internal",
-                "page": "Centre Youth"
-              }
-            ]
-          },
-          "term_start3": {
-            "text": "6 November 2011"
-          },
-          "term_end3": {
-            "text": "10 November 2013"
-          },
-          "predecessor3": {
-            "text": "Johannes Rindal",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Johannes Rindal"
-              }
-            ]
-          },
-          "successor3": {
-            "text": "Erling Laugsand"
-          },
-          "office4": {
-            "text": "Deputy Member of the Storting",
-            "links": [
-              {
-                "text": "Deputy Member of the Storting",
-                "type": "internal",
-                "page": "Storting"
-              }
-            ]
-          },
-          "term_start4": {
-            "text": "1 October 2009"
-          },
-          "term_end4": {
-            "text": "30 September 2013"
-          },
-          "constituency4": {
-            "text": "Troms",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Troms"
-              }
-            ]
-          },
-          "nationality": {
-            "text": "Norwegian"
-          },
-          "education": {
-            "text": "Jurisprudence"
-          },
-          "alma_mater": {
-            "text": "University of Tromsø",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of Tromsø"
-              }
-            ]
-          },
-          "occupation": {
-            "text": "Politician"
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Sandra Borch",
+  "image": "File:Borch, Sandra (23892297490).jpg",
+  "birth_date": "April 23, 1988",
+  "birth_place": "Lavangen, Troms, Norway",
+  "party": "Centre",
+  "office": "Minister of Agriculture and Food",
+  "term_start": "14 October 2021",
+  "primeminister": "Jonas Gahr Støre",
+  "predecessor": "Olaug Bollestad",
+  "office2": "Member of the Storting",
+  "term_start2": "1 October 2017",
+  "deputy2": "Ivar B. Prestbakmo",
+  "constituency2": "Troms",
+  "office3": "Leader of the Centre Youth",
+  "term_start3": "6 November 2011",
+  "term_end3": "10 November 2013",
+  "predecessor3": "Johannes Rindal",
+  "successor3": "Erling Laugsand",
+  "office4": "Deputy Member of the Storting",
+  "term_start4": "1 October 2009",
+  "term_end4": "30 September 2013",
+  "constituency4": "Troms",
+  "nationality": "Norwegian",
+  "education": "Jurisprudence",
+  "alma_mater": "University of Tromsø",
+  "occupation": "Politician"
 }
