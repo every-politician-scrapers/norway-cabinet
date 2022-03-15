@@ -1,0 +1,385 @@
+id,name,relationship,relative,relativename
+Q106573093,Eva Borkenhagen,child,Q17057515,Kristine Jørstad Bock
+Q106804882,Per Martin Sandtrøen,sibling,Q25429905,Nils Kristen Sandtrøen
+Q1082481,Per-Kristian Foss,spouse,Q4998925,Jan Erik Knarbakk
+Q108641249,Per Vidar Kjølmoen,mother,Q11980215,Karin Kjølmoen
+Q11030048,Bjarne Store-Jakobsen,child,Q22957911,Elle-Máijá Tailfeathers
+Q110944991,Athar Ali Tajik,sibling,Q464941,Hadia Tajik
+Q1157167,Dag Jostein Fjærvoll,father,Q5001767,Edmund Fjærvoll
+Q11957757,Amund Drønen Ringdal,spouse,Q22003431,Gunn Cecilie Ringdal
+Q11958268,Anne Karin Olli,sibling,Q3358648,Egil Olli
+Q11961322,Bjørn Alfred Ropstad,child,Q4573115,Kjell Ingolf Ropstad
+Q11963717,Christian Tynning Bjørnø,mother,Q17113205,Signe Tynning
+Q11966875,Eirik Kristoffersen,sibling,Q17775273,Frode Arnfinn Kristoffersen
+Q11968154,Eva Vinje Aurdal,child,Q11988564,Martine Aurdal
+Q11970097,Fredrik Sejersted,father,Q713176,Francis Sejersted
+Q11970097,Fredrik Sejersted,mother,Q16904827,Hilde Sejersted
+Q11970350,Frode Jacobsen,father,Q4802424,Arvid Jacobsen
+Q11973332,Gunnar Tore Stenseng,child,Q16215117,Kjersti Stenseng
+Q11975332,Hilde Barstad,father,Q5704431,Helge Barstad
+Q11975332,Hilde Barstad,sibling,Q12001898,Solveig Barstad
+Q11976356,Håkon Alstadheim,father,Q5963595,Håvard Alstadheim
+Q11977215,Inger Stolt-Nielsen,child,Q11996975,Ragnhild Stolt-Nielsen
+Q11977297,Ingvild Kjerkol,father,Q15613912,Ole Meier Kjerkol
+Q11978069,Jan Johnsen,child,Q11978189,Janne Johnsen
+Q11978189,Janne Johnsen,father,Q11978069,Jan Johnsen
+Q11980215,Karin Kjølmoen,child,Q108641249,Per Vidar Kjølmoen
+Q11980807,Kjartan Alexander Lunde,spouse,Q109347908,Thea Emilie Svartsund Lunde
+Q11983353,Lars Tvete,father,Q17113171,Bjarne Tvete
+Q11987193,Láilá Susanne Vars,mother,Q5262377,Ellen Marie Vars
+Q11988143,Margaret Eckbo,spouse,Q5350050,Eivind Eckbo
+Q11991511,Nils T. Bjørke,sibling,Q16175830,Kari Bjørke
+Q11991511,Nils T. Bjørke,sibling,Q19842038,Arnstein Bjørke
+Q11993308,Ola Elvestuen,sibling,Q7166676,Per Elvestuen
+Q11993392,Olaf Thommessen,mother,Q11034256,Anette Thommessen
+Q11993392,Olaf Thommessen,sibling,Q11963713,Christian Thommessen
+Q11993392,Olaf Thommessen,spouse,Q2629507,Vendela Kirsebom
+Q11995421,Peter Christian Frølich,father,Q17125626,Peter Frølich
+Q11995421,Peter Christian Frølich,sibling,Q21474138,Anine Frølich
+Q11996642,Pål Morten Borgli,child,Q41173279,Stine Borgli
+Q11996975,Ragnhild Stolt-Nielsen,mother,Q11977215,Inger Stolt-Nielsen
+Q11997154,Rasmus Hansson,father,Q15613843,Knut Mørch Hansson
+Q12000617,Siri Frost Sterri,father,Q11993318,Ola Frost
+Q12000617,Siri Frost Sterri,mother,Q11989499,Milly Frost
+Q12006427,Tine Sundtoft,father,Q15727505,Kristian Sundtoft
+Q12006843,Tor André Ljosland,spouse,Q21814384,Rebekka Ljosland
+Q12007574,Trond Henry Blattmann,mother,Q4819628,Aud Blattmann
+Q12007605,Trond Prytz,child,Q12011686,Åsmund Prytz
+Q12007689,Trude Drevland,sibling,Q15673629,Lars Andreas Larssen
+Q12011686,Åsmund Prytz,father,Q12007605,Trond Prytz
+Q1349776,Odd Einar Dørum,spouse,Q62010237,Randi Gerd Øverland
+Q1351719,Jan Petersen,father,Q4998312,Kaare Petersen
+Q15057274,Torill Eidsheim,spouse,Q15057304,Sigurd Hille
+Q15057304,Sigurd Hille,spouse,Q15057274,Torill Eidsheim
+Q15077918,Svetlana K Johnsen,spouse,Q15109978,Tor André Johnsen
+Q15078687,Kårstein Eidem Løvaas,mother,Q15613929,Velaug Eidem Løvaas
+Q15078687,Kårstein Eidem Løvaas,sibling,Q11976946,Ildri Eidem Løvaas
+Q15109978,Tor André Johnsen,spouse,Q15077918,Svetlana K Johnsen
+Q15113558,Kristin Vinje,spouse,Q7923755,Vetle Vinje
+Q15113600,Stefan Heggelund,spouse,Q464941,Hadia Tajik
+Q15116081,Sivert Bjørnstad,father,Q11980231,Karl-Ove Bjørnstad
+Q15205583,Sigbjørn Aanes,spouse,Q15464245,Maria Hoff Aanes
+Q15260774,Anne Grethe Erlandsen,father,Q5109575,Christian Erlandsen
+Q15299167,Julie Brodtkorb,spouse,Q17113709,Tore Aksel Voldberg
+Q15464245,Maria Hoff Aanes,spouse,Q15205583,Sigbjørn Aanes
+Q15477955,Anniken Hauglie,spouse,Q17125631,Lars Jacob Hiim
+Q15613939,Sveinung Stensland,father,Q84057294,Karl Johan Stensland
+Q156540,Anniken Huitfeldt,sibling,Q5273980,Astrid Huitfeldt
+Q156540,Anniken Huitfeldt,sibling,Q74189252,Anders Huitfeldt
+Q156550,Marianne Aasen,spouse,Q381121,Simen Agdestein
+Q156553,Jan Tore Sanner,child,Q28718252,Maria Barstad Sanner
+Q156553,Jan Tore Sanner,child,Q89907900,Sigrid Barstad Sanner
+Q156553,Jan Tore Sanner,father,Q12007005,Tore Sanner
+Q156553,Jan Tore Sanner,spouse,Q12001898,Solveig Barstad
+Q16173799,Kristin Bergersen,spouse,Q17106570,Karen Pinholt
+Q16174436,Steinar Berthelsen,child,Q714550,Sigurd Pettersen
+Q16179705,Cecilie Brein-Karlsen,spouse,Q16179716,Vidar Brein-Karlsen
+Q16179716,Vidar Brein-Karlsen,spouse,Q16179705,Cecilie Brein-Karlsen
+Q16180597,Yngve Brox,father,Q16180566,Karl H. Brox
+Q16215117,Kjersti Stenseng,father,Q11973332,Gunnar Tore Stenseng
+Q16215117,Kjersti Stenseng,partner,Q4572548,Tom Tvedt
+Q16232023,Christopher Wand,spouse,Q19974410,Sandra Bruflot
+Q16733464,Jorid Holstad Nordmelan,mother,Q21112751,Arnhild Holstad
+Q16769607,Gry-Anette Rekanes Amundsen,spouse,Q282089,Per-Willy Amundsen
+Q1682219,Jan Simonsen,sibling,Q12011466,Åge Simonsen
+Q17061413,Anna Amdal Fyhn,spouse,Q17061473,Truls Fyhn
+Q17093572,Bernt Grimstvedt,father,Q62118810,Bjarne Grimstvedt
+Q17096899,Jens Frølich Holte,spouse,Q59211179,Maria Jahrmann Bjerke
+Q17098219,Egil Johansson,spouse,Q11967110,Elin Prøysen
+Q17098927,Marius Meisfjord Jøsevold,mother,Q11958989,Arna Meisfjord
+Q17104259,Ragnhild Mathisen,spouse,Q11993078,Odd Erik Stende
+Q17106125,Lisbeth Normann,spouse,Q17106124,Erik Kreyberg Normann
+Q17106523,Anita Persdatter Ravna,child,Q43396670,Aili Guttorm
+Q17106681,Nils Ramsøy,sibling,Q3422565,Christina Ramsøy
+Q17107085,Line Miriam Sandberg,spouse,Q935613,Per Sandberg
+Q17107200,Dag Sele,sibling,Q25425478,Asgeir Sele
+Q17112266,Magnus Thue,sibling,Q21097890,Kamilla Thue
+Q17113882,Sandra Márjá West,mother,Q47146058,Lene Antonsen
+Q17114008,Odd Anders With,child,Q1006904,Aleksander Denstad With
+Q17114008,Odd Anders With,father,Q4586130,Odd With
+Q17125631,Lars Jacob Hiim,spouse,Q15477955,Anniken Hauglie
+Q1770173,Michael Tetzschner,child,Q88877567,Jenny Clemet von Tetzschner
+Q1770173,Michael Tetzschner,sibling,Q1671860,Stephen von Tetzchner
+Q1770173,Michael Tetzschner,spouse,Q446695,Kristin Clemet
+Q1770339,Inga Marte Thorkildsen,father,Q4585120,Heming Olaussen
+Q1770438,Ingjerd Schou,spouse,Q4998739,Petter Schou
+Q1770676,Marit Arnstad,sibling,Q4993927,Eli Arnstad
+Q1770992,Ine Marie Eriksen Søreide,spouse,Q15613752,Øystein Eriksen Søreide
+Q1776610,Hallgrim Berg,child,Q18670560,Borgar Høgetveit Berg
+Q1776610,Hallgrim Berg,child,Q72846956,Sigrun Høgetveit Berg
+Q1776610,Hallgrim Berg,spouse,Q11988195,Maria Høgetveit Berg
+Q1780809,Hanne Harlem,father,Q4584505,Gudmund Harlem
+Q1780809,Hanne Harlem,sibling,Q133009,Gro Harlem Brundtland
+Q1780809,Hanne Harlem,sibling,Q64223514,Lars Harlem
+Q1785206,Anne Kristin Sydnes,spouse,Q4993147,Terje Osmundsen
+Q1785206,Anne Kristin Sydnes,spouse,Q968608,Jan Egeland
+Q1786244,Inger Lise Hansen,spouse,Q5234709,David Hansen
+Q18670560,Borgar Høgetveit Berg,father,Q1776610,Hallgrim Berg
+Q18670560,Borgar Høgetveit Berg,mother,Q11988195,Maria Høgetveit Berg
+Q18670560,Borgar Høgetveit Berg,sibling,Q72846956,Sigrun Høgetveit Berg
+Q19386139,Ragnhild Kaski,sibling,Q19715025,Kari Elisabeth Kaski
+Q195829,Christin Kristoffersen,spouse,Q4588378,Raymond Johansen
+Q19715025,Kari Elisabeth Kaski,sibling,Q19386139,Ragnhild Kaski
+Q19861353,Asbjørg Skåden,child,Q108004424,Magne Domantrener Skåden
+Q19861353,Asbjørg Skåden,child,Q3444978,Sigbjørn Skåden
+Q19974410,Sandra Bruflot,spouse,Q16232023,Christopher Wand
+Q204370,Audun Lysbakken,mother,Q4993072,Geirdis Bjørlo
+Q207655,Kjell Magne Bondevik,child,Q102087242,John Harald Bondevik
+Q21160698,Lan Marie Nguyen Berg,spouse,Q33035165,Eivind Trædal
+Q23578892,Peder Sjo Slettebø,father,Q16905035,Lars Slettebø
+Q236621,Kristin Halvorsen,spouse,Q4992792,Charlo Halvorsen
+Q2370975,Mona Juul,spouse,Q1362257,Terje Rød-Larsen
+Q2371786,Libe Rieber-Mohn,spouse,Q4582045,Rune Bjerke
+Q25426324,Sahfana Mubarak Ali,spouse,Q11977289,Ingve Iversen
+Q25429905,Nils Kristen Sandtrøen,sibling,Q106804882,Per Martin Sandtrøen
+Q2607900,Sven Ole Fagernæs,partner,Q6416131,Kirsti Coward
+Q2607900,Sven Ole Fagernæs,sibling,Q12006815,Toppen Bech
+Q262626,Carl I. Hagen,father,Q11996900,Ragnar Hagen
+Q262626,Carl I. Hagen,sibling,Q11979292,Jorunn Bjørgum
+Q262626,Carl I. Hagen,spouse,Q4587437,Eli Hagen
+Q267320,Espen Barth Eide,father,Q4803701,Asbjørn Eide
+Q267320,Espen Barth Eide,mother,Q16092636,Wenche Barth Eide
+Q2676744,Yngve Slettholm,father,Q17107523,Bernhard Slettholm
+Q271279,Åslaug Haga,father,Q4566989,Hans Haga
+Q272938,Siv Jensen,relative,Q4899231,Betzy Kjelsberg
+Q272938,Siv Jensen,sibling,Q11991541,Nina Jensen
+Q273317,Inger-Marie Ytterhorn,spouse,Q4919851,Bjørn Erling Ytterhorn
+Q274637,Astrid Nøklebye Heiberg,spouse,Q11959242,Arvid Heiberg
+Q27913617,Willfred Nordlund,father,Q95985741,Karl-Erling Nordlund
+Q282089,Per-Willy Amundsen,spouse,Q16769607,Gry-Anette Rekanes Amundsen
+Q28717840,Leidulf Gloppestad,spouse,Q12716043,Karoline Bjerkeset
+Q28718252,Maria Barstad Sanner,father,Q156553,Jan Tore Sanner
+Q28718252,Maria Barstad Sanner,mother,Q12001898,Solveig Barstad
+Q28718252,Maria Barstad Sanner,sibling,Q89907900,Sigrid Barstad Sanner
+Q291644,Erna Solberg,sibling,Q17107863,Marit Solberg
+Q291644,Erna Solberg,spouse,Q44746647,Sindre Finnes
+Q291655,Liv Signe Navarsete,spouse,Q4993407,Lars Petter Nesse
+Q3121951,Per Ditlev-Simonsen,child,Q13472589,Cecilie Ditlev-Simonsen
+Q3121951,Per Ditlev-Simonsen,father,Q17057645,Sverre Ditlev-Simonsen
+Q323721,Ansgar Gabrielsen,father,Q12005517,Terje Gabrielsen
+Q329776,Øystein Djupedal,father,Q10976890,Reidar Djupedal
+Q329776,Øystein Djupedal,sibling,Q4993516,Torkjell Djupedal
+Q3354814,Fabian Stang,father,Q5420532,Thomas Stang
+Q3354814,Fabian Stang,mother,Q270441,Wenche Foss
+Q3354814,Fabian Stang,sibling,Q7085785,"Ole A. Stang, Jr."
+Q3354814,Fabian Stang,spouse,Q17105390,Catharina Munthe
+Q3356825,Trine Skei Grande,father,Q17093568,Helge Grande
+Q3357111,Ellen Horn,child,Q5001334,Kjersti Horn
+Q3357111,Ellen Horn,child,Q5371786,Emilie Stoesen Christensen
+Q3357111,Ellen Horn,sibling,Q47522739,Christine Stoesen
+Q3357111,Ellen Horn,spouse,Q662607,Jon Christensen
+Q3358638,Klemet Erland Hætta,sibling,Q75023952,Ánne Márjá Hætta
+Q3358648,Egil Olli,sibling,Q11958268,Anne Karin Olli
+Q3376114,Jette F. Christensen,partner,Q21755538,Frithjof Jacobsen
+Q3422565,Christina Ramsøy,sibling,Q17106681,Nils Ramsøy
+Q3422581,Per Arne Olsen,sibling,Q11996654,Pål W. Olsen
+Q3428767,Aage Thor Falkanger,father,Q7796062,Thor Falkanger
+Q3434378,Arve Kambe,spouse,Q100429225,Veronica Garcia Kambe
+Q3434378,Arve Kambe,spouse,Q67126792,Birgit Amalie Nilssen
+Q3434929,Else-May Norderhus,father,Q11981431,Kolbjørn Botten
+Q3438518,Bergljot Webster,father,Q7310037,Reidar Webster
+Q39497946,Kirsti Leirtrø,partner,Q17106811,Knut Ring
+Q39527486,Mathilde Tybring-Gjedde,father,Q5110219,Christian Tybring-Gjedde
+Q39768730,Åshild Bruun-Gundersen,father,Q48412328,Folke Haugland
+Q4209561,Heikki Holmås,father,Q4994014,Stig Holmås
+Q4209561,Heikki Holmås,spouse,Q47490972,Sunniva Holmås Eidsvoll
+Q43288478,Marianne Hagen,spouse,Q59780802,Erik Wold
+Q43396670,Aili Guttorm,mother,Q17106523,Anita Persdatter Ravna
+Q435376,Helen Bjørnøy,spouse,Q19392845,Torstein Lalim
+Q446445,Grete Faremo,child,Q55016104,Oda Faremo Lindholm
+Q446445,Grete Faremo,father,Q4585848,Osmund Faremo
+Q446445,Grete Faremo,spouse,Q11987791,Magne Lindholm
+Q446592,Siri Bjerke,father,Q5001107,Juul Bjerke
+Q446592,Siri Bjerke,sibling,Q4582045,Rune Bjerke
+Q446695,Kristin Clemet,child,Q88877567,Jenny Clemet von Tetzschner
+Q446695,Kristin Clemet,father,Q11130235,Fridtjov Clemet
+Q446695,Kristin Clemet,spouse,Q1770173,Michael Tetzschner
+Q449788,Wenche Elizabeth Arntzen,father,Q2756253,Andreas Arntzen
+Q455871,Rita Ottervik,spouse,Q7825643,Tore Nordseth
+Q4566359,Gorm Kjernli,father,Q11957759,Amund Kjernli
+Q4568684,Torill Selsvold Nyborg,spouse,Q11971703,Geir Magnus Nyborg
+Q4568753,Gard Folkvord,relative,Q4794636,Arne Nilsen
+Q4568801,Anders B. Werp,sibling,Q25426973,Gjyri Helén Werp
+Q4568801,Anders B. Werp,sibling,Q61751177,Elisabeth Werp
+Q4569595,Nikolai Astrup,father,Q11966891,Eivind Astrup
+Q4569595,Nikolai Astrup,sibling,Q15613755,Henning Astrup
+Q4569852,Marvin Wiseth,spouse,Q16165242,Lise Andersen Wiseth
+Q457072,Inge Lønning,child,Q17102964,Lars Lønning
+Q457072,Inge Lønning,sibling,Q11957989,Andreas Lønning
+Q457072,Inge Lønning,sibling,Q82301,Per Lønning
+Q457128,Bent Høie,partner,Q64797516,Dag Terje Klarp Solvang
+Q457128,Bent Høie,spouse,Q64797516,Dag Terje Klarp Solvang
+Q4572548,Tom Tvedt,partner,Q16215117,Kjersti Stenseng
+Q4572947,Marianne Borgen,sibling,Q11967816,Erling Borgen
+Q4573115,Kjell Ingolf Ropstad,father,Q11961322,Bjørn Alfred Ropstad
+Q4579572,Ketil Lund,father,Q61078939,Bernt Bjelke Lund
+Q4580021,Ingse Stabel,father,Q5040499,Carl Ludovico Stabel
+Q4580021,Ingse Stabel,spouse,Q6423863,Knut Brofoss
+Q4580178,Clement Endresen,father,Q4580342,Egil Endresen
+Q4587518,Fridtjof Frank Gundersen,spouse,Q62051826,Mosse Piene
+Q4588378,Raymond Johansen,spouse,Q195829,Christin Kristoffersen
+Q4589089,Steinulf Tungesvik,father,Q4588755,Hans Olav Tungesvik
+Q460322,Kai Eide,spouse,Q11972686,Gro Holm
+Q462761,Manuela Ramin-Osmundsen,spouse,Q4993147,Terje Osmundsen
+Q462838,Hanne Bjurstrøm,partner,Q70437009,Jørn Maurud
+Q463717,Kristin Krohn Devold,mother,Q4999882,Kristin K. Devold
+Q463758,Anne Enger,child,Q4994195,Erik Lahnstein
+Q463758,Anne Enger,sibling,Q4994228,Inger S. Enger
+Q464941,Hadia Tajik,sibling,Q110944991,Athar Ali Tajik
+Q464941,Hadia Tajik,spouse,Q104833385,Kristian Skard
+Q464941,Hadia Tajik,spouse,Q15113600,Stefan Heggelund
+Q467948,Jonas Gahr Støre,father,Q104873489,Ulf Jonas Støre
+Q467948,Jonas Gahr Støre,spouse,Q4992923,Marit Slagsvold
+Q469816,Janne Haaland Matlary,child,Q110702301,Sophie Matlary
+Q4735156,Stian Berger Røsland,spouse,Q4735554,Marit Berger Røsland
+Q4735554,Marit Berger Røsland,spouse,Q4735156,Stian Berger Røsland
+Q4765498,Anita Apelthun Sæle,child,Q4580282,Finn Ørjan Sæle
+Q4765498,Anita Apelthun Sæle,spouse,Q15719705,Finn Jarel Sæle
+Q4766911,Anna Ceselie Brustad Moe,spouse,Q728444,Ola Borten Moe
+Q4768622,Anne Marit Bjørnflaten,spouse,Q64853425,Gunnar Wilhelmsen
+Q4768971,Anneliese Dørum,child,Q17057723,Knut Dørum
+Q4768971,Anneliese Dørum,relative,Q50853406,Anne-Kathrine Parow
+Q4768975,Annelise Høegh,father,Q12713408,Anders Høegh
+Q4768975,Annelise Høegh,spouse,Q1481132,Jo Benkow
+Q4794622,Arne Lyngstad,father,Q19371840,Arnolf Lyngstad
+Q4794648,Arne Roy Walther,spouse,Q12973469,Anita Pratap
+Q4802429,Arvid Libak,child,Q55077246,Ina Libak
+Q4816892,Atle Hamar,spouse,Q29890327,Anne-Cecilie Kapstad
+Q4819628,Aud Blattmann,child,Q12007574,Trond Henry Blattmann
+Q4819634,Aud Kvalbein,spouse,Q15675535,Asbjørn Kvalbein
+Q4919812,Bjørg Tørresdal,spouse,Q6032011,Inge Ryan
+Q4965697,Ingrid Schulerud,child,Q50360095,Catharina Stoltenberg
+Q4965697,Ingrid Schulerud,father,Q6817634,Mentz Schulerud
+Q4965697,Ingrid Schulerud,spouse,Q57665,Jens Stoltenberg
+Q4967708,Christian Syse,father,Q311421,Jan P. Syse
+Q4967708,Christian Syse,sibling,Q4967579,Henrik Syse
+Q4967708,Christian Syse,spouse,Q4967805,Siv Nordrum
+Q4967805,Siv Nordrum,father,Q11966561,Edvard Nordrum
+Q4967805,Siv Nordrum,spouse,Q4967708,Christian Syse
+Q4968933,Rune Gerhardsen,child,Q4969243,Mina Gerhardsen
+Q4968933,Rune Gerhardsen,child,Q4969491,Marte Gerhardsen
+Q4968933,Rune Gerhardsen,father,Q164346,Einar Gerhardsen
+Q4968933,Rune Gerhardsen,mother,Q4968820,Werna Gerhardsen
+Q4968933,Rune Gerhardsen,sibling,Q4969678,Truls Gerhardsen
+Q4968933,Rune Gerhardsen,spouse,Q4580501,Tove Strand
+Q4969243,Mina Gerhardsen,father,Q4968933,Rune Gerhardsen
+Q4969243,Mina Gerhardsen,mother,Q4580501,Tove Strand
+Q4969243,Mina Gerhardsen,sibling,Q4969491,Marte Gerhardsen
+Q4969243,Mina Gerhardsen,spouse,Q4969342,Eirik Øwre Thorshaug
+Q4969342,Eirik Øwre Thorshaug,spouse,Q4969243,Mina Gerhardsen
+Q4994094,Rita Skjærvik,father,Q4994110,Per Skjærvik
+Q4994110,Per Skjærvik,child,Q4994094,Rita Skjærvik
+Q4994195,Erik Lahnstein,mother,Q463758,Anne Enger
+Q4994228,Inger S. Enger,sibling,Q463758,Anne Enger
+Q4994299,Hilde Singsaas,mother,Q17094107,Marianne Hobæk Haff
+Q4994392,Dagfinn Sundsbø,sibling,Q7651872,Svein Sundsbø
+Q4994432,Sindre Fossum Beyer,father,Q4994442,Øystein Kåre Beyer
+Q4994432,Sindre Fossum Beyer,spouse,Q4994460,Mette Fossum
+Q4994470,Grethe G. Fossum,child,Q4994460,Mette Fossum
+Q4994576,Ole Morten Geving,father,Q40476172,Ronald Geving
+Q4994596,Lars Erik Bartnes,father,Q4994612,Erik Bartnes
+Q4994596,Lars Erik Bartnes,sibling,Q4994631,Inge Bartnes
+Q4994631,Inge Bartnes,father,Q4994612,Erik Bartnes
+Q4994631,Inge Bartnes,sibling,Q4994596,Lars Erik Bartnes
+Q4999984,Christine B. Meyer,spouse,Q517536,Victor D. Norman
+Q5047012,Carsten Smith,child,Q12716843,Merete Smith
+Q5047012,Carsten Smith,spouse,Q6698502,Lucy Smith
+Q50768057,Kari Nessa Nordtun,father,Q6514575,Tore Nordtun
+Q5110219,Christian Tybring-Gjedde,child,Q39527486,Mathilde Tybring-Gjedde
+Q5110219,Christian Tybring-Gjedde,spouse,Q60742904,Ingvil Smines Tybring-Gjedde
+Q517536,Victor D. Norman,spouse,Q4999984,Christine B. Meyer
+Q5208402,Dag Danielsen,sibling,Q15734645,Per Danielsen
+Q5234709,David Hansen,spouse,Q1786244,Inger Lise Hansen
+Q527177,Trond Giske,father,Q47088826,Bjørn Giske
+Q527177,Trond Giske,mother,Q17063702,Norunn Illevold Giske
+Q527177,Trond Giske,sibling,Q17063676,Mari Giske
+Q527177,Trond Giske,spouse,Q465772,Haddy Njie
+Q5273847,Masud Gharahkhani,father,Q5273782,Bijan Gharahkhani
+Q5273980,Astrid Huitfeldt,sibling,Q156540,Anniken Huitfeldt
+Q5273980,Astrid Huitfeldt,sibling,Q74189252,Anders Huitfeldt
+Q5274541,Magnhild Mathisen,child,Q5274599,Anders Mathisen
+Q5349629,Einar Gelius,sibling,Q6270751,Jon Gelius
+Q5349705,Einar Strøm,sibling,Q12007612,Trond Strøm
+Q5349869,Eirin Kristin Sund,father,Q55206294,Kjell Sund
+Q5450652,Finn Martin Vallersnes,child,Q11300391,Eli Sol Vallersnes
+Q548001,Trygve Slagsvold Vedum,father,Q4993554,Trond Vidar Vedum
+Q553839,Dagfinn Høybråten,father,Q4998609,Per Høybråten
+Q5587000,Svein Erik Brodal,spouse,Q3429850,Gudrun Waadeland
+Q5618906,Gunn Karin Gjul,spouse,Q7845450,Trond Jensrud
+Q5619018,Gunnar Gundersen,child,Q966498,Tore Andreas Gundersen
+Q5649745,Hans Andreas Limi,spouse,Q48417986,Vibeke Limi
+Q5698986,Heidi Sørensen,spouse,Q6516073,Olav Gunnar Ballo
+Q5704340,Helga Hernes,child,Q12002883,Stein Hernes
+Q5704340,Helga Hernes,spouse,Q1769728,Gudmund Hernes
+Q57287,Harald V of Norway,child,Q165096,Princess Märtha Louise of Norway
+Q57287,Harald V of Norway,child,Q165241,"Haakon, Crown Prince of Norway"
+Q57287,Harald V of Norway,father,Q154912,Olav V of Norway
+Q57287,Harald V of Norway,mother,Q231281,Princess Märtha of Sweden
+Q57287,Harald V of Norway,relative,Q156390,"Victoria, Crown Princess of Sweden"
+Q57287,Harald V of Norway,relative,Q3736809,Johan Ferner
+Q57287,Harald V of Norway,sibling,Q235236,"Princess Ragnhild, Mrs. Lorentzen"
+Q57287,Harald V of Norway,sibling,Q270685,"Princess Astrid, Mrs. Ferner"
+Q57287,Harald V of Norway,spouse,Q131045,Queen Sonja of Norway
+Q57665,Jens Stoltenberg,child,Q50360095,Catharina Stoltenberg
+Q57665,Jens Stoltenberg,father,Q377977,Thorvald Stoltenberg
+Q57665,Jens Stoltenberg,mother,Q443969,Karin Stoltenberg
+Q57665,Jens Stoltenberg,sibling,Q4794291,Camilla Stoltenberg
+Q57665,Jens Stoltenberg,sibling,Q4966109,Nini Stoltenberg
+Q57665,Jens Stoltenberg,spouse,Q4965697,Ingrid Schulerud
+Q59211179,Maria Jahrmann Bjerke,spouse,Q17096899,Jens Frølich Holte
+Q6031719,Inga Balstad,child,Q25426843,Ole Morten Balstad
+Q6032011,Inge Ryan,spouse,Q4919812,Bjørg Tørresdal
+Q6033485,Ingvald Godal,sibling,Q25434156,Tore Godal
+Q6033485,Ingvald Godal,sibling,Q3399768,Jon Bojer Godal
+Q60742904,Ingvil Smines Tybring-Gjedde,spouse,Q5110219,Christian Tybring-Gjedde
+Q6098340,Ivar B. Prestbakmo,spouse,Q17107251,Sigrun W. Prestbakmo
+Q60997989,Espen Espeset,spouse,Q7660866,Sylvi Listhaug
+Q6321433,Jørg Willy Bronebakk,spouse,Q6438101,Kristin Bølgen Bronebakk
+Q6370942,Karin Nordstad,spouse,Q17107188,Erik Seem
+Q6419434,Kjellaug Nakkim,child,Q11970357,Frode Nakkim
+Q6419434,Kjellaug Nakkim,child,Q3432928,Are Nakkim
+Q6419434,Kjellaug Nakkim,child,Q6452572,Kyrre Nakkim
+Q6491499,Lars Haltbrekken,spouse,Q7515160,Silje Schei Tveitdal
+Q6513446,Tor Mikkel Wara,partner,Q62564024,Laila Anita Bertheussen
+Q6513663,Line Henriette Hjemdal,father,Q7077391,Odd Holten
+Q6514130,Olemic Thommessen,father,Q31676059,Rolf Thommesen
+Q6514575,Tore Nordtun,child,Q50768057,Kari Nessa Nordtun
+Q6514654,Linda Hofstad Helleland,spouse,Q6981465,Trond Helleland
+Q6515779,Øyvind Halleraker,sibling,Q50194087,Svein Kolbein Halleraker
+Q6515796,Monica Mæland,father,Q106112740,Otto Helge Mæland
+Q6515796,Monica Mæland,mother,Q106112855,Åshild Myreng
+Q6516073,Olav Gunnar Ballo,spouse,Q5698986,Heidi Sørensen
+Q6516101,Magne Rommetveit,sibling,Q11971716,Geir Rommetveit
+Q6519395,Leif Frode Onarheim,father,Q5505131,Frode Onarheim
+Q6522398,Lene Vågslid,mother,Q17113741,Hilde Alice Vågslid
+Q6522400,Lene Westgaard-Halle,father,Q11964478,Dag Lars Westgaard
+Q6654169,Liv Sandven,spouse,Q17106978,Arild Rødland
+Q6765716,Marit Elisebet Totland,child,Q23057900,Anders Totland
+Q6832867,Michael Momyr,father,Q59758906,Melkior Momyr
+Q6832867,Michael Momyr,mother,Q59759292,Jorunn Johansen
+Q6978578,Tore Schei,father,Q4585386,Andreas Schei
+Q6978578,Tore Schei,spouse,Q57265607,Kristine Schei
+Q6981465,Trond Helleland,spouse,Q6514654,Linda Hofstad Helleland
+Q706467,Bjørn Tore Godal,spouse,Q463724,Sissel Rønbeck
+Q706467,Bjørn Tore Godal,spouse,Q5000239,Gro Balas
+Q7077391,Odd Holten,child,Q6513663,Line Henriette Hjemdal
+Q7077553,Oddvard Nilsen,child,Q12007582,Trond Erik Nilsen
+Q7077553,Oddvard Nilsen,child,Q7814711,Tom-Christer Nilsen
+Q7107246,Osmund Kaldheim,spouse,Q5365008,Ellen Seip
+Q7166654,Per Botolf Maurseth,father,Q7166763,Per Maurseth
+Q7166740,Per Kristian Skulberg,father,Q4776012,Anton Skulberg
+Q7166848,Per Øystein Grimstad,spouse,Q4582659,Birgitte Grimstad
+Q728444,Ola Borten Moe,spouse,Q4766911,Anna Ceselie Brustad Moe
+Q7352611,Robin Kåss,spouse,Q57889021,Anita Kåss
+Q7606806,Steinar Reiten,mother,Q55384954,Agnes Reiten
+Q76452339,Mona Berger,sibling,Q4167768,Margaret Berger
+Q7660866,Sylvi Listhaug,spouse,Q60997989,Espen Espeset
+Q7814711,Tom-Christer Nilsen,father,Q7077553,Oddvard Nilsen
+Q7814711,Tom-Christer Nilsen,sibling,Q12007582,Trond Erik Nilsen
+Q7825643,Tore Nordseth,spouse,Q455871,Rita Ottervik
+Q8079322,Øystein Hedstrøm,sibling,Q4953177,Åse Hedström
+Q935613,Per Sandberg,partner,Q55842594,Bahareh Letnes
+Q935613,Per Sandberg,spouse,Q17107085,Line Miriam Sandberg
+Q946481,Ole Henrik Magga,sibling,Q11979307,Josef Halse
+Q946481,Ole Henrik Magga,spouse,Q3444836,Lajla Mattsson Magga
+Q981697,Sverre Diesen,partner,Q17105740,Elisabeth Natvig
