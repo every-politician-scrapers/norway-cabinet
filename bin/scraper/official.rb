@@ -12,11 +12,11 @@ class MemberList
     }.freeze
 
     field :name do
-      header_data.split('(').first.tidy
+      header_minister
     end
 
     field :position do
-      name_and_position.sub(header_data, '').tidy
+      name_and_position.sub(header_minister, '').gsub(/^The /, '').tidy
     end
 
     private
@@ -32,14 +32,19 @@ class MemberList
       noko.css('h2').text.tidy
     end
 
-    def header_data
-      all_ministers.find { |minister| name_and_position.include? minister }
+    def header_minister
+      header_minister_names.find { |minister| name_and_position.include? minister }
+    end
+
+    def header_minister_names
+      @header_minister_names ||= header_ministers_with_party.map do |name_and_party|
+        name_and_party.split('(').first.tidy
+      end
     end
 
     # From the header bar we can get a list of all minister+party names
-    # (but only with their ministries, but not the actual position)
-    def all_ministers
-      @all_ministers ||= noko.xpath('//.').css('li a.dep-minister').map(&:text).map(&:tidy).map do |data|
+    def header_ministers_with_party
+      @header_ministers_with_party ||= noko.xpath('//.').css('li a.dep-minister').map(&:text).map(&:tidy).map do |data|
         REMAP.fetch(data, data)
       end
     end
