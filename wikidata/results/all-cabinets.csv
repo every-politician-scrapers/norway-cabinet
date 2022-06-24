@@ -1,8 +1,8 @@
 ordinal,item,itemLabel,inception,inceptionPrecision,startTime,startTimePrecision,abolished,abolishedPrecision,endTime,endTimePrecision,replaces,replacesLabel,replacedBy,replacedByLabel,follows,followsLabel,followedBy,followedByLabel
 ,Q10976878,2nd Quisling Government,,,,,,,,,,,,,,,,
-,Q10976959,Terboven's Commissioners of State,,,,,,,,,,,,,,,,
 ,Q358758,Administrative Council,1940-01-01,9,1940-01-01,9,,,1940-01-01,9,,,,,,,,
 ,Q10976842,1st Quisling Cabinet,1940-04-09,11,,,1940-04-15,11,,,,,,,,,,
+,Q10976959,Terboven's Commissioners of State,1940-09-25,11,,,1942-01-01,9,,,,,,,,,,
 ,Q3356337,Nordli's Cabinet,1976-01-15,11,,,1981-02-04,11,,,Q1773495,Bratteli's Second Cabinet,Q3111951,Brundtland's First Cabinet,Q1773495,Bratteli's Second Cabinet,Q3111951,Brundtland's First Cabinet
 ,Q3111951,Brundtland's First Cabinet,1981-02-04,11,,,1981-10-14,11,,,Q3356337,Nordli's Cabinet,Q2065969,Willoch's First Cabinet,Q3356337,Nordli's Cabinet,Q2065969,Willoch's First Cabinet
 ,Q2065969,Willoch's First Cabinet,1981-10-14,11,,,1986-05-09,11,,,Q3111951,Brundtland's First Cabinet,Q3111952,Brundtland's Second Cabinet,Q3111951,Brundtland's First Cabinet,Q6523430,Willoch's Second Cabinet
