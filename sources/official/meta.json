@@ -1,0 +1,20 @@
+{
+    "jurisdiction": {
+      "name": "Norway",
+      "id": "Q20"
+    },
+    "cabinet": {
+      "id": "Q108870524",
+      "start": "2021-10-14",
+      "parent": "Q1770849"
+    },
+    "source": {
+        "url":   "https://www.regjeringen.no/en/the-government/solberg/members-of-the-government-2/id543170/",
+        "title": "Members of the Government - regjeringen.no",
+        "lang":  {
+            "code": "en",
+            "wikidata": "Q1860"
+        }
+    },
+    "agent": "every-politican-scrapers/norway-cabinet"
+}
