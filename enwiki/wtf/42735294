@@ -1,0 +1,162 @@
+{
+  "title": "Sissel Birgitte Breie",
+  "pageID": 42735294,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Norwegian civil servants",
+    "Norwegian expatriates in the United States",
+    "Ambassadors of Norway to Argentina",
+    "Ambassadors of Norway to Jordan",
+    "Norwegian women ambassadors"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sissel Birgitte Breie (born 9 September 1953) is a Norwegian diplomat.",
+              "formatting": {
+                "bold": [
+                  "Sissel Birgitte Breie"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Oslo and graduated from the University of Oslo with the cand.polit. degree in 1981.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "text": "cand.polit.",
+                  "type": "internal",
+                  "page": "cand.polit."
+                }
+              ]
+            },
+            {
+              "text": "She started working for the Norwegian Ministry of Foreign Affairs in the same year, and was posted as an embassy secretary in Thailand from 1983 and at the United Nations delegation from 1986 to 1989.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Foreign Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thailand"
+                },
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After being promoted to subdirector in 1997 she became Norway's ambassador to Argentina in 1999.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentina"
+                }
+              ]
+            },
+            {
+              "text": "Between 2003 and 2008 she was stationed in Norway, first as senior adviser, from 2004 as head of department and from 2006 as ambassador of West African countries."
+            },
+            {
+              "text": "She then served abroad again, as consul-general in New York City from 2008 to 2013 and ambassador to Jordan from 2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "New York City"
+                },
+                {
+                  "type": "internal",
+                  "page": "Jordan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is decorated as a Knight of the Royal Norwegian Order of Merit.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Royal Norwegian Order of Merit"
+                }
+              ]
+            },
+            {
+              "text": "She resides at Ekeberg.",
+              "links": [
+                {
+                  "text": "Ekeberg",
+                  "type": "internal",
+                  "page": "Ekeberg, Akershus"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian diplomat",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Sissel Birgitte Breie 50 år 9. september",
+          "agency": "Norwegian News Agency",
+          "date": "20 August 2003",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sissel Birgitte Breie",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://snl.no/Sissel_Birgitte_Breie",
+          "language": "Norwegian",
+          "accessdate": "12 May 2014",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

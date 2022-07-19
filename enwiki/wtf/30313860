@@ -1,0 +1,129 @@
+{
+  "title": "Tor Christian Hildan",
+  "pageID": 30313860,
+  "categories": [
+    "1949 births",
+    "Living people",
+    "People from Fredrikstad",
+    "Norwegian civil servants",
+    "Ambassadors of Norway to China",
+    "Ambassadors of Norway to South Africa",
+    "Norwegian expatriates in Switzerland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Tor Christian Hildan (born 10 June 1949) is a Norwegian diplomat.",
+              "formatting": {
+                "bold": [
+                  "Tor Christian Hildan"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Fredrikstad, and is a cand.polit. by education.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fredrikstad"
+                },
+                {
+                  "text": "cand.polit.",
+                  "type": "internal",
+                  "page": "cand.polit."
+                }
+              ]
+            },
+            {
+              "text": "He started working for the Norwegian Ministry of Foreign Affairs in 1976, and worked for the Norwegian Shipowners' Association from 1980 to 1983 and 1990 to 1993.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Foreign Affairs"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Shipowners' Association"
+                }
+              ]
+            },
+            {
+              "text": "He was a counsellor at the United Nations delegation in Geneva from 1995 to 1999, deputy under-secretary of state in the Ministry of Foreign Affairs from 1999 to 2003, and served as the Norwegian ambassador to the People's Republic of China from 2003 to 2007, then to South Africa from 2007.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "United Nations"
+                },
+                {
+                  "type": "internal",
+                  "page": "Geneva"
+                },
+                {
+                  "type": "internal",
+                  "page": "People's Republic of China"
+                },
+                {
+                  "type": "internal",
+                  "page": "South Africa"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Tor Christian Hildan",
+          "encyclopedia": "Store norske leksikon",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "url": "http://www.snl.no/Tor_Christian_Hildan",
+          "language": "Norwegian",
+          "accessdate": "4 January 2011",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Haakon Baardsøn Hjelde",
+          "title": "Norwegian ambassador to PR China",
+          "years": "2003–2007",
+          "after": "Svein Ole Sæther",
+          "template": "succession box"
+        },
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

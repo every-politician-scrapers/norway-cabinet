@@ -1,0 +1,112 @@
+{
+  "title": "Johan Christopher Vibe",
+  "pageID": 53127990,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Norwegian civil servants",
+    "Norwegian expatriates in the United States",
+    "Ambassadors of Norway to Spain",
+    "Ambassadors of Norway to Colombia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Johan Christopher Vibe (born 28 June 1963) is a Norwegian civil servant and diplomat.",
+              "formatting": {
+                "bold": [
+                  "Johan Christopher Vibe"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He holds the cand.jur. degree and was hired in the Ministry of Foreign Affairs in 1990.",
+              "links": [
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                },
+                {
+                  "text": "Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "He served as head of department there from 2007, then counsellor at the Norwegian embassy to the United States from 2009."
+            },
+            {
+              "text": "He then served Norway's ambassador to Spain from 2012 to 2016 and to Colombia from 2016 to 2018, before returning to the Ministry of Foreign Affairs as deputy under-secretary of state.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Spain"
+                },
+                {
+                  "type": "internal",
+                  "page": "Colombia"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian civil servant and diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Johan Christopher Vibe",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Johan_Christopher_Vibe",
+          "language": "Norwegian",
+          "accessdate": "9 March 2019",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "before": "Torgeir Larsen",
+          "title": "Norwegian ambassador to Spain",
+          "years": "2012–2015",
+          "after": "Helge Skaara",
+          "template": "succession box"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

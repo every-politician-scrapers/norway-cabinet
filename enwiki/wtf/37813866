@@ -1,0 +1,207 @@
+{
+  "title": "Kristina Torbergsen",
+  "pageID": 37813866,
+  "categories": [
+    "1987 births",
+    "Living people",
+    "Labour Party (Norway) politicians",
+    "Troms politicians",
+    "People from Skjervøy"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kristina Torbergsen (born 24 January 1987) is a Norwegian politician representing the Labour Party.",
+              "links": [
+                {
+                  "text": "Norwegian",
+                  "type": "internal",
+                  "page": "Norwegian people"
+                },
+                {
+                  "text": "politician",
+                  "type": "internal",
+                  "page": "politician"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Arbeiderpartiet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Kristina Torbergsen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Torbergsen was elected to the county parliament in Troms in the 2007 local elections and served as Deputy County Mayor from 2007 to 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Troms"
+                }
+              ]
+            },
+            {
+              "text": "She is currently studying to become a teacher at the University of Tromsø.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Tromsø"
+                }
+              ]
+            },
+            {
+              "text": "Torbergsen is a former leader of the Workers' Youth League in Troms.",
+              "links": [
+                {
+                  "text": "Workers' Youth League",
+                  "type": "internal",
+                  "page": "Workers' Youth League (Norway)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "February 2013",
+          "template": "orphan"
+        },
+        {
+          "year": "1987",
+          "month": "1",
+          "day": "24",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kristina Torbergsen"
+          },
+          "image": {
+            "text": "Kristina Torbergsen 01.jpg"
+          },
+          "imagesize": {
+            "text": "200px"
+          },
+          "office": {
+            "text": "Deputy County Mayor of Troms",
+            "links": [
+              {
+                "text": "County Mayor",
+                "type": "internal",
+                "page": "County council (Norway)"
+              },
+              {
+                "type": "internal",
+                "page": "Troms"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2007",
+            "number": 2007
+          },
+          "term_end": {
+            "text": "2011",
+            "number": 2011
+          },
+          "party": {
+            "text": "Labour Party",
+            "links": [
+              {
+                "text": "Labour Party",
+                "type": "internal",
+                "page": "Arbeiderpartiet"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Tromsø",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Tromsø"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "January 24, 1987"
+          },
+          "birth_place": {
+            "text": "Skjervøy, Troms, Norway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Skjervøy"
+              },
+              {
+                "type": "internal",
+                "page": "Troms"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "title": "Vil heller bli lærer enn lege",
+          "url": "http://www.hardudetideg.no/nb/utdanningen/50/vil-heller-bli-larer-enn-lege",
+          "accessdate": "2 December 2012",
+          "newspaper": "Har du det i deg?",
+          "language": "Norwegian",
+          "archive-url": "https://web.archive.org/web/20121204080743/http://www.hardudetideg.no/nb/utdanningen/50/vil-heller-bli-larer-enn-lege",
+          "archive-date": "4 December 2012",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "last": "Årsæther",
+          "first": "Jan Ove",
+          "title": "Kristina Torbergsen - Stortingskandidat for Ap i Troms",
+          "url": "http://www.tv2nyhetene.no/valg09/velgerguiden/fylke/troms/ap/kristina-torbergsen/",
+          "accessdate": "2 December 2012",
+          "newspaper": "Tv2.no",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

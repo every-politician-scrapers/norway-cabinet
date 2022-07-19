@@ -1,0 +1,153 @@
+{
+  "title": "Helge Skaara",
+  "pageID": 53127963,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "Norwegian civil servants",
+    "Ambassadors of Norway to Mexico",
+    "Ambassadors of Norway to Venezuela",
+    "Ambassadors of Norway to Spain",
+    "Norwegian expatriates in Belgium",
+    "Norwegian expatriates in Switzerland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Helge Skaara (born 24 January 1956 in Tønsberg) is a Norwegian civil servant and diplomat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tønsberg"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Helge Skaara"
+                ]
+              }
+            },
+            {
+              "text": "He holds the cand.mag. degree and was hired in the Ministry of Foreign Affairs in 1983.",
+              "links": [
+                {
+                  "text": "cand.mag.",
+                  "type": "internal",
+                  "page": "cand.mag."
+                },
+                {
+                  "text": "Ministry of Foreign Affairs",
+                  "type": "internal",
+                  "page": "Ministry of Foreign Affairs (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "He served as Norway's ambassador to Mexico from 2002 to 2005, then as a counsellor in the Norwegian embassy to the European Union in Brussels until 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mexico"
+                },
+                {
+                  "type": "internal",
+                  "page": "European Union"
+                }
+              ]
+            },
+            {
+              "text": "Two years as Norway's ambassador to Venezuela followed.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Venezuela"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 2012 to 2013 he was a special adviser in the Ministry of Foreign Affairs, then he served one year as vice secretary-general in the European Free Trade Association before being a deputy under-secretary of state in the Ministry of Foreign Affairs from 2014 to 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "European Free Trade Association"
+                }
+              ]
+            },
+            {
+              "text": "He then serves as Norway's ambassador to Spain from 2016.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Spain"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:PTA.Reunión_embajador_Noruega.CG-_03-10-17-GC.060_(36903645354).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/PTA.Reuni%C3%B3n_embajador_Noruega.CG-_03-10-17-GC.060_(36903645354).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/PTA.Reuni%C3%B3n_embajador_Noruega.CG-_03-10-17-GC.060_(36903645354).jpg"
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian civil servant and diplomat",
+          "template": "short description"
+        },
+        {
+          "template": "commonscat"
+        }
+      ],
+      "references": [
+        {
+          "title": "Helge Skaara",
+          "encyclopedia": "Store norske leksikon",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "url": "http://www.snl.no/Helge_Skaara",
+          "language": "Norwegian",
+          "accessdate": "8 February 2017",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-dip"
+        },
+        {
+          "after": "incumbent",
+          "title": "Norwegian ambassador to Spain",
+          "years": "2016–",
+          "before": "Johan Christopher Vibe",
+          "template": "succession box"
+        },
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "title": "Gunn Karin Gjul",
+  "pageID": 4103744,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "People from Ørland",
+    "Labour Party (Norway) politicians",
+    "Members of the Storting",
+    "Sør-Trøndelag politicians",
+    "Women members of the Storting",
+    "21st-century Norwegian politicians",
+    "21st-century Norwegian women politicians",
+    "20th-century Norwegian politicians",
+    "20th-century Norwegian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Gunn Karin Gjul (born 26 July 1967, in Stavanger) is a Norwegian jurist and politician for the Labour Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stavanger"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Norwegian Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Gunn Karin Gjul"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was elected to the Norwegian Parliament from Sør-Trøndelag in 1993, and was re-elected on four occasions.",
+              "links": [
+                {
+                  "text": "Norwegian Parliament",
+                  "type": "internal",
+                  "page": "Stortinget"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sør-Trøndelag"
+                }
+              ]
+            },
+            {
+              "text": "She did not seek reelection in the 2013 Norwegian parliamentary election.",
+              "links": [
+                {
+                  "text": "2013 Norwegian parliamentary election",
+                  "type": "internal",
+                  "page": "2013 Norwegian parliamentary election"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On the local level she was a member of Sør-Trøndelag county council from 1987 to 1993.",
+              "links": [
+                {
+                  "text": "county council",
+                  "type": "internal",
+                  "page": "county council (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "She hails from Ørland.",
+              "links": [
+                {
+                  "text": "Ørland",
+                  "type": "internal",
+                  "page": "Ørland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "A jurist by education, she carried through her studies while a member of parliament."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Gunn_Karin_Gjul_-_Arbeiderpartiet.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Gunn_Karin_Gjul_-_Arbeiderpartiet.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Gunn_Karin_Gjul_-_Arbeiderpartiet.jpg",
+          "caption": "Gunn Karin Gjul",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian jurist and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "list": [
+            "GKG"
+          ],
+          "template": "stortingetbio"
+        },
+        {
+          "template": "stortinget 2001-2005"
+        },
+        {
+          "template": "stortinget 2005-2009"
+        },
+        {
+          "template": "stortinget 2009-2013"
+        }
+      ]
+    }
+  ]
+}

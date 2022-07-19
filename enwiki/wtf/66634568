@@ -1,0 +1,100 @@
+{
+  "title": "Erik Thyness",
+  "pageID": 66634568,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "20th-century Norwegian lawyers",
+    "Supreme Court of Norway justices",
+    "21st-century Norwegian judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Erik Thyness (born 30 May 1961) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Erik Thyness"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After finishing the cand.jur. degree in 1987 he was a deputy judge and junior solicitor, before working in private enterprise.",
+              "links": [
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "He was a lawyer in Norsk Hydro from 1991 and Hafslund Nycomed from 1993, becoming legal director there before becoming a partner in Wiersholm law firm in 1996.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norsk Hydro"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hafslund Nycomed"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as a Supreme Court Justice in 2019.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Erik Thyness",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Erik_Thyness",
+          "language": "Norwegian",
+          "accessdate": "5 February 2021",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

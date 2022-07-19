@@ -1,0 +1,204 @@
+{
+  "title": "Lars Erik Bartnes",
+  "pageID": 32343847,
+  "categories": [
+    "1978 births",
+    "Living people",
+    "People from Steinkjer",
+    "Norwegian University of Science and Technology alumni",
+    "Politicians from Nord-Trøndelag",
+    "Centre Party (Norway) politicians",
+    "Norwegian state secretaries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Lars Erik Bartnes (born 14 October 1978) is a Norwegian politician for the Centre Party.",
+              "links": [
+                {
+                  "text": "Norwegian",
+                  "type": "internal",
+                  "page": "Norway"
+                },
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Centre Party (Norway)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lars Erik Bartnes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a grandson of Inge Einarsen Bartnes, son of Erik Bartnes and brother of Inge Bartnes.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Inge Einarsen Bartnes"
+                },
+                {
+                  "type": "internal",
+                  "page": "Erik Bartnes"
+                },
+                {
+                  "type": "internal",
+                  "page": "Inge Bartnes"
+                }
+              ]
+            },
+            {
+              "text": "He took secondary education in Steinkjer and folk high school in Ringebu, then military service at Rena and Setermoen from 1998 to 2001, before studying political science at the Norwegian University of Science and Technology from 2001 to 2005.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Steinkjer"
+                },
+                {
+                  "text": "folk high school",
+                  "type": "internal",
+                  "page": "folk high school"
+                },
+                {
+                  "type": "internal",
+                  "page": "Ringebu"
+                },
+                {
+                  "text": "Rena",
+                  "type": "internal",
+                  "page": "Rena, Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Setermoen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian University of Science and Technology"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He chaired the county branch of the Centre Youth before becoming a central board member from 2003 to 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Centre Youth"
+                }
+              ]
+            },
+            {
+              "text": "From 2005 to 2007 he worked as a media adviser for the Centre Party parliamentary group."
+            },
+            {
+              "text": "From September 2007 to October 2009 he was a political adviser in the Ministry of Local Government and Regional Development.",
+              "links": [
+                {
+                  "text": "Ministry of Local Government and Regional Development",
+                  "type": "internal",
+                  "page": "Ministry of Local Government and Regional Development (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "He was also an acting State Secretary in the same Ministry from August to September 2009.",
+              "links": [
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "State Secretary (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "Since October 2009 he has been a State Secretary in the Ministry of Transport and Communications.",
+              "links": [
+                {
+                  "text": "Ministry of Transport and Communications",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Communications (Norway)"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Lars_Erik_Bartnes_01.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Lars_Erik_Bartnes_01.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Lars_Erik_Bartnes_01.jpg",
+          "caption": "Lars Erik Bartnes, 2010.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.regjeringen.no/en/The-Government/previous-governments/the-structure-of-the-registry/governments/modern-times/governments-since-1945/jens-stoltenbergs-second-government.html?id=449424",
+          "title": "Jens Stoltenberg's Second Government",
+          "publisher": "Government.no",
+          "accessdate": "8 July 2011",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Makten og sfæren",
+          "last": "Gillesvik",
+          "first": "Kjetil",
+          "author2": "Nordahl, Bjørn Olav",
+          "date": "25 June 2011",
+          "work": "Vårt Land",
+          "pages": "22–29",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.regjeringen.no/nb/dep/sd/dep/politisk_ledelse/statssekretar-lars-erik-bartnes.html?id=582289",
+          "title": "Statssekretær Lars Erik Bartnes",
+          "publisher": "Government.no",
+          "language": "Norwegian",
+          "accessdate": "8 July 2011",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "norway-politician-1970s-stub"
+        }
+      ]
+    }
+  ]
+}

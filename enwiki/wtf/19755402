@@ -1,0 +1,137 @@
+{
+  "title": "Hilde Indreberg",
+  "pageID": 19755402,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Judges from Oslo",
+    "University of Oslo alumni",
+    "Supreme Court of Norway justices",
+    "Norwegian women judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hilde Indreberg (born 22 October 1957) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Hilde Indreberg"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Oslo, and graduated from the University of Oslo as cand.jur. in 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "She worked for the Norwegian Agency for Development Cooperation from 1988 to 1989, and was then hired in the Ministry of Justice and the Police.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Agency for Development Cooperation"
+                },
+                {
+                  "text": "Ministry of Justice and the Police",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Justice and the Police"
+                }
+              ]
+            },
+            {
+              "text": "She was promoted to head of department there in 2000."
+            },
+            {
+              "text": "From 2007 she is a Supreme Court Justice.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge (born 1957)",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Hilde Indreberg"
+          },
+          "office": {
+            "text": "Supreme Court Justice",
+            "links": [
+              {
+                "text": "Supreme Court",
+                "type": "internal",
+                "page": "Supreme Court of Norway"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2007",
+            "number": 2007
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Hilde Indreberg",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://snl.no/Hilde_Indreberg",
+          "language": "Norwegian",
+          "accessdate": "24 April 2013",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

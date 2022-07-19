@@ -1,0 +1,147 @@
+{
+  "title": "Mette Gundersen",
+  "pageID": 13930466,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "Deputy members of the Storting",
+    "Labour Party (Norway) politicians",
+    "Norwegian state secretaries",
+    "Vest-Agder politicians",
+    "Women members of the Storting",
+    "Politicians from Kristiansand",
+    "21st-century Norwegian politicians",
+    "21st-century Norwegian women politicians",
+    "Norwegian women state secretaries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Mette Gundersen (born 24 June 1972) is a Norwegian politician for the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Norwegian Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Mette Gundersen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She served as a deputy representative to the Norwegian Parliament from Vest-Agder during the term 2001&ndash;2005.",
+              "links": [
+                {
+                  "text": "Norwegian Parliament",
+                  "type": "internal",
+                  "page": "Storting"
+                },
+                {
+                  "type": "internal",
+                  "page": "Vest-Agder"
+                }
+              ]
+            },
+            {
+              "text": "When Jens Stoltenberg formed his second cabinet following the 2005 elections, Gundersen was appointed State Secretary in the Ministry of Culture and Church Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Jens Stoltenberg"
+                },
+                {
+                  "text": "second cabinet",
+                  "type": "internal",
+                  "page": "Second cabinet Stoltenberg"
+                },
+                {
+                  "text": "2005 elections",
+                  "type": "internal",
+                  "page": "2005 Norwegian parliamentary election"
+                },
+                {
+                  "type": "internal",
+                  "page": "State Secretary",
+                  "anchor": "Norway"
+                },
+                {
+                  "text": "Ministry of Culture and Church Affairs",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Culture and Church Affairs"
+                }
+              ]
+            },
+            {
+              "text": "Deputy Chairman, Norwegian Association of Local and Regional Authorities (2012-) and a member of the Broadcasting Council (2014-).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Association of Local and Regional Authorities"
+                },
+                {
+                  "text": "Broadcasting Council",
+                  "type": "internal",
+                  "page": "Broadcasting Council (Norway)"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On the local level, Gundersen was the deputy mayor of Kristiansand municipality 2007–2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kristiansand"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician",
+          "template": "short description"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "MEG"
+          ],
+          "template": "stortingetbio"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-politician-1970s-stub"
+        }
+      ]
+    }
+  ]
+}

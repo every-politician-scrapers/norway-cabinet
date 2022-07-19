@@ -1,0 +1,235 @@
+{
+  "title": "Rita Ottervik",
+  "pageID": 9190630,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "People from Hitra",
+    "Mayors of Trondheim",
+    "Labour Party (Norway) politicians",
+    "Women mayors of places in Norway",
+    "20th-century Norwegian women politicians",
+    "20th-century Norwegian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Rita Irene Ottervik (born 11 September 1966 in Hitra) is a Norwegian politician from the Labour Party who has served as the mayor of Trondheim since 2003.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hitra"
+                },
+                {
+                  "text": "Norwegian",
+                  "type": "internal",
+                  "page": "Norway"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Norwegian Labour Party"
+                },
+                {
+                  "text": "mayor of Trondheim",
+                  "type": "internal",
+                  "page": "List of mayors of Trondheim"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Rita Irene Ottervik"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She has served as a secretary in the Workers' Youth League and political advisor at the Office of the Prime Minister under Thorbjørn Jagland (1996–1997).",
+              "links": [
+                {
+                  "text": "Workers' Youth League",
+                  "type": "internal",
+                  "page": "Workers' Youth League (Norway)"
+                },
+                {
+                  "text": "Office of the Prime Minister",
+                  "type": "internal",
+                  "page": "Norwegian Office of the Prime Minister"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thorbjørn Jagland"
+                }
+              ]
+            },
+            {
+              "text": "She was elected as a member of Trondheim city council in 1999, and served four years before becoming mayor."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ottervik was considered a candidate for a cabinet post following the elections of 2005 and 2009, but she declined the offers at both occasions in favor of continuing her tenure as mayor."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician",
+          "template": "short description"
+        },
+        {
+          "year": "1966",
+          "month": "9",
+          "day": "11",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Rita Ottervik"
+          },
+          "image": {
+            "text": "Rita Ottervik 2007 04 21.jpg"
+          },
+          "caption": {
+            "text": "Ottervik in 2007."
+          },
+          "office": {
+            "text": "Mayor of Trondheim",
+            "links": [
+              {
+                "text": "Mayor of Trondheim",
+                "type": "internal",
+                "page": "List of mayors of Trondheim"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "9 October 2003"
+          },
+          "predecessor": {
+            "text": "Anne Kathrine Slungård",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Anne Kathrine Slungård"
+              }
+            ]
+          },
+          "birth_name": {
+            "text": "Rita Irene Ottervik"
+          },
+          "birth_date": {
+            "text": "September 11, 1966"
+          },
+          "birth_place": {
+            "text": "Hitra, Norway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hitra"
+              }
+            ]
+          },
+          "party": {
+            "text": "Labour",
+            "links": [
+              {
+                "text": "Labour",
+                "type": "internal",
+                "page": "Labour Party (Norway)"
+              }
+            ]
+          },
+          "spouse": {
+            "text": "Tore Nordseth",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tore Nordseth"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.snl.no/Rita_Irene_Ottervik",
+          "title": "Rita Ottervik",
+          "publisher": "Store norske leksikon",
+          "accessdate": "2009-10-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "http://www.aftenposten.no/nyheter/iriks/politikk/article3326946.ece",
+          "title": "- Takket nei til statsrådspost",
+          "last": "Rabås",
+          "first": "Kjerstin",
+          "date": "October 19, 2009",
+          "publisher": "Adresseavisen/Aftenposten",
+          "language": "Norwegian",
+          "accessdate": "2009-10-19",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-ppo"
+        },
+        {
+          "title": "Secretary-general of the Workers' Youth League",
+          "years": "1992–1996",
+          "before": "Sigve Brekke",
+          "after": "Trond Jensrud",
+          "template": "succession box"
+        },
+        {
+          "before": "Anne Kathrine Slungård",
+          "template": "s-bef"
+        },
+        {
+          "title": "Mayor of Trondheim",
+          "years": "2003–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-mayor-stub"
+        },
+        {
+          "template": "norway-politician-1960s-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "title": "Kine Elisabeth Steinsvik",
+  "pageID": 66634596,
+  "categories": [
+    "1976 births",
+    "Living people",
+    "People from Alstahaug",
+    "Norwegian civil servants",
+    "Supreme Court of Norway justices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kine Elisabeth Steinsvik (born 13 May 1976) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Kine Elisabeth Steinsvik"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Sandnessjøen and finished the cand.jur. degree in 2001.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sandnessjøen"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "After one year in the Ministry of Justice she was hired in the Office of the Attorney General of Norway in 2003.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice and the Police (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Office of the Attorney General of Norway"
+                }
+              ]
+            },
+            {
+              "text": "Apart from a tenure as acting judge in Eidsivating Court of Appeal in 2006–2007, she stayed at the Office of the Attorney General for eleven years.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Eidsivating Court of Appeal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2014 she became presiding judge in Borgarting Court of Appeal, and she was subsequently appointed as a Supreme Court Justice in 2019.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Borgarting Court of Appeal"
+                },
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Kine Elisabeth Steinsvik",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Kine_Elisabeth_Steinsvik",
+          "language": "Norwegian",
+          "accessdate": "5 February 2021",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

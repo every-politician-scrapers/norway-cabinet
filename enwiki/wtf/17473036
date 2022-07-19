@@ -1,0 +1,139 @@
+{
+  "title": "Vidar Ulriksen",
+  "pageID": 17473036,
+  "categories": [
+    "1953 births",
+    "Living people",
+    "Labour Party (Norway) politicians",
+    "Norwegian state secretaries",
+    "Sogn og Fjordane politicians",
+    "People from Flora, Norway"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Vidar Ulriksen (born 11 December 1953) is a Norwegian fisher and politician for the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Norwegian Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Vidar Ulriksen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a member of the national board of Norges Fiskarlag from 1986 to 1996, the last eight years as deputy leader.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norges Fiskarlag"
+                }
+              ]
+            },
+            {
+              "text": "He chaired this organization on a regional level from 1984 to 1994."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "When Stoltenberg's Second Cabinet assumed office following the 2005 election, he was appointed State Secretary in the Norwegian Ministry of Fisheries and Coastal Affairs.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Stoltenberg's Second Cabinet"
+                },
+                {
+                  "text": "2005 election",
+                  "type": "internal",
+                  "page": "2005 Norwegian parliamentary election"
+                },
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "State Secretary (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Fisheries and Coastal Affairs"
+                }
+              ]
+            },
+            {
+              "text": "He left in January 2011."
+            },
+            {
+              "text": "On the local level he has been a member of Flora city council, and a board member of the regional party chapter.",
+              "links": [
+                {
+                  "text": "Flora",
+                  "type": "internal",
+                  "page": "Flora, Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian fisher and politician",
+          "template": "short description"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "no"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "norway-politician-1950s-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Biography at Government.no",
+            "links": [
+              {
+                "text": "Biography",
+                "type": "external",
+                "site": "http://www.regjeringen.no/nb/dep/fkd/dep/politisk_ledelse/Vidar_Ulriksen__statssekretar_AP.html?id=1676"
+              },
+              {
+                "type": "internal",
+                "page": "Government.no"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

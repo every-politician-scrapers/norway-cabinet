@@ -1,0 +1,150 @@
+{
+  "title": "Knut H. Kallerud",
+  "pageID": 39273952,
+  "categories": [
+    "1956 births",
+    "Living people",
+    "People from Kongsberg",
+    "Alumni of the University of Essex",
+    "Norwegian civil servants",
+    "20th-century Norwegian lawyers",
+    "Supreme Court of Norway justices",
+    "21st-century Norwegian judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Knut Herbrand Kallerud (born 13 April 1956) is a Norwegian lawyer and judge.",
+              "formatting": {
+                "bold": [
+                  "Knut Herbrand Kallerud"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Kongsberg, graduated with the cand.jur. degree in 1983 and also took a master's degree in human rights law at Essex University in 1998.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Kongsberg"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                },
+                {
+                  "text": "human rights law",
+                  "type": "internal",
+                  "page": "human rights law"
+                },
+                {
+                  "type": "internal",
+                  "page": "Essex University"
+                }
+              ]
+            },
+            {
+              "text": "After two years in the Ministry of Justice and the Police from 1983 to 1985, he served as a deputy judge in Kragerø District Court for one year.",
+              "links": [
+                {
+                  "text": "Ministry of Justice and the Police",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Justice and the Police"
+                },
+                {
+                  "type": "internal",
+                  "page": "Kragerø District Court"
+                }
+              ]
+            },
+            {
+              "text": "He was then hired in the law firm Hestenes og Dramer & Co, first as a junior solicitor from 1986 to 1989 and a lawyer from 1989 to 1995."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a Public Prosecutor from 1995 to 2008, Assisting Director of Public Prosecutions from 2008 to 2011 and a Supreme Court Justice from July 2011.",
+              "links": [
+                {
+                  "text": "Public Prosecutor",
+                  "type": "internal",
+                  "page": "Norwegian Prosecuting Authority"
+                },
+                {
+                  "text": "Assisting Director of Public Prosecutions",
+                  "type": "internal",
+                  "page": "Director of Public Prosecutions",
+                  "anchor": "Norway"
+                },
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian lawyer and judge (born 1956)",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Knut Herbrand Kallerud",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://snl.no/Knut_Herbrand_Kallerud",
+          "language": "Norwegian",
+          "access-date": "1 May 2013",
+          "template": "citation",
+          "type": "encyclopedia"
+        },
+        {
+          "url": "http://www.domstol.no/Enkelt-domstol/-Norges-Hoyesterett/Gammelt/Knut-H-Kallerud-hoyesterettsdommer/",
+          "title": "Knut H. Kallerud, Høyesterettsdommer",
+          "publisher": "Norwegian National Courts Administration",
+          "language": "Norwegian",
+          "access-date": "1 May 2013",
+          "url-status": "dead",
+          "archive-url": "https://web.archive.org/web/20130522004529/http://www.domstol.no/Enkelt-domstol/-Norges-Hoyesterett/Gammelt/Knut-H-Kallerud-hoyesterettsdommer/",
+          "archive-date": "22 May 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

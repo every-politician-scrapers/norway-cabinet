@@ -1,0 +1,169 @@
+{
+  "title": "Jens Edvin A. Skoghøy",
+  "pageID": 19714167,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "20th-century Norwegian judges",
+    "Norwegian legal scholars",
+    "Supreme Court of Norway justices",
+    "University of Oslo alumni",
+    "University of Tromsø alumni",
+    "University of Tromsø faculty",
+    "Members of the Norwegian Academy of Science and Letters",
+    "21st-century Norwegian lawyers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jens Edvin A. Skoghøy (born 16 February 1955) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Jens Edvin A. Skoghøy"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He hails from Ringvassøya.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ringvassøya"
+                }
+              ]
+            },
+            {
+              "text": "He graduated as cand.jur. at the University of Oslo in 1976 and took the dr.juris degree at the University of Tromsø in 1990.",
+              "links": [
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "text": "dr.juris",
+                  "type": "internal",
+                  "page": "dr.juris"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tromsø"
+                }
+              ]
+            },
+            {
+              "text": "He subsequently became a professor there, and has also worked as a lawyer."
+            },
+            {
+              "text": "He was appointed Supreme Court Justice in 1998, as one of the youngest ever.",
+              "links": [
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            },
+            {
+              "text": "He is a member of the Norwegian Academy of Science and Letters.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Academy of Science and Letters"
+                }
+              ]
+            },
+            {
+              "text": "In early 2017 he resigned from the Supreme Court&mdash;the third to do so before the retirement age, after Oscar Christian Gundersen and Nina Frisak&mdash;to resume his professorship at the University of Tromsø.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oscar Christian Gundersen"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nina Frisak"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge (born 1955)",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.dnva.no/c26848/artikkel/vis.html?tid=27643",
+          "title": "Gruppe 6: Rettsvitenskap",
+          "publisher": "Norwegian Academy of Science and Letters",
+          "language": "Norwegian",
+          "accessdate": "26 October 2009",
+          "archive-url": "https://web.archive.org/web/20131109185548/http://www.dnva.no/c26848/artikkel/vis.html?tid=27643",
+          "archive-date": "9 November 2013",
+          "url-status": "dead",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Bytter jobb",
+          "last": "Gustad",
+          "first": "Ragnhild",
+          "date": "29 December 2016",
+          "work": "Nordlys",
+          "page": "10",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Skoghøy, Jens Edvin A.",
+          "encyclopedia": "Hvem er hvem?",
+          "last": "Forr",
+          "first": "Gudleiv",
+          "authorlink": "Gudleiv Forr",
+          "year": "2008",
+          "editor": "Knut Olav Åmås",
+          "editor-link": "Knut Olav Åmås",
+          "publisher": "Aschehoug",
+          "location": "Oslo",
+          "isbn": "978-82-03-23561-0",
+          "pages": "522–523",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-academic-bio-stub"
+        }
+      ]
+    }
+  ]
+}

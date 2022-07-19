@@ -1,0 +1,148 @@
+{
+  "title": "Lotte Grepp Knutsen",
+  "pageID": 39041582,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "Deputy members of the Storting",
+    "Labour Party (Norway) politicians",
+    "Politicians from Oslo",
+    "Norwegian state secretaries",
+    "Women members of the Storting",
+    "Norwegian women state secretaries"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Lotte Grepp Knutsen (born 10 September 1973) is a Norwegian politician for the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (Norway)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Lotte Grepp Knutsen"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In March 2008 she was appointed as a political adviser in the Ministry of Children, Equality and Social Inclusion as a part of Stoltenberg's Second Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Children, Equality and Social Inclusion"
+                },
+                {
+                  "type": "internal",
+                  "page": "Stoltenberg's Second Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "She was promoted to State Secretary after one year.",
+              "links": [
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "State Secretary (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "In October 2009 she changed ministry to the Ministry of Culture where she worked throughout the year.",
+              "links": [
+                {
+                  "text": "Ministry of Culture",
+                  "type": "internal",
+                  "page": "Ministry of Culture (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "She had another spell as State Secretary in the Ministry of Health and Care Services from December 2011 to April 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ministry of Health and Care Services"
+                }
+              ]
+            },
+            {
+              "text": "She also served as a deputy representative to the Parliament of Norway from Oslo during the term 2009&ndash;2013.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is a great-granddaughter of Kyrre and Rachel Grepp.",
+              "links": [
+                {
+                  "text": "Kyrre",
+                  "type": "internal",
+                  "page": "Kyrre Grepp"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rachel Grepp"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician",
+          "template": "short description"
+        },
+        {
+          "date": "April 2013",
+          "template": "blp sources"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "norway-politician-1970s-stub"
+        }
+      ]
+    }
+  ]
+}

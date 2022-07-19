@@ -1,0 +1,123 @@
+{
+  "title": "Espen Bergh",
+  "pageID": 58865333,
+  "categories": [
+    "1961 births",
+    "Living people",
+    "Judges from Oslo",
+    "Supreme Court of Norway justices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Espen Bergh (born 1961) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Espen Bergh"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Oslo, and graduated with the cand.jur. degree in 1987.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "In 1989 he was hired in the Ministry of Justice, and after a tenure as deputy judge in Ytre Follo from 1992 to 1994 he continued in the Ministry until 1999.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice and the Police"
+                },
+                {
+                  "text": "Ytre Follo",
+                  "type": "internal",
+                  "page": "Ytre Follo District Court"
+                }
+              ]
+            },
+            {
+              "text": "He moved to the law firm Wiersholm before serving as a judge in Borgarting Court of Appeal from 2005.",
+              "links": [
+                {
+                  "text": "Wiersholm",
+                  "type": "internal",
+                  "page": "Advokatfirmaet Wiersholm"
+                },
+                {
+                  "type": "internal",
+                  "page": "Borgarting Court of Appeal"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as a Supreme Court Justice in 2016.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Espen Bergh",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Espen_Bergh",
+          "language": "Norwegian",
+          "accessdate": "24 October 2018",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

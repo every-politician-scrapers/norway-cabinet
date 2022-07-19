@@ -1,0 +1,156 @@
+{
+  "title": "Erik Førner",
+  "pageID": 60199024,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "Diplomats from Oslo",
+    "Norwegian expatriates in Sweden",
+    "Ambassadors of Norway to the Philippines",
+    "Ambassadors of Norway to Switzerland"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Erik Førner (born 24 September 1963) is a Norwegian diplomat.",
+              "formatting": {
+                "bold": [
+                  "Erik Førner"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Oslo and is a cand.oecon. by education.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "text": "cand.oecon.",
+                  "type": "internal",
+                  "page": "cand.oecon."
+                }
+              ]
+            },
+            {
+              "text": "He started working for the Norwegian Ministry of Foreign Affairs in 1991.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Foreign Affairs"
+                }
+              ]
+            },
+            {
+              "text": "He became subdirector in 2003 and head of department in 2004, before embarking on a counsellor position at the Norwegian embassy in Sweden from 2066 to 2011."
+            },
+            {
+              "text": "He served as the Norwegian ambassador to the Philippines from 2014 and 2018 and to Switzerland from 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Philippines"
+                },
+                {
+                  "type": "internal",
+                  "page": "Switzerland"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Erik_Førner_(2018).jpeg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Erik_F%C3%B8rner_(2018).jpeg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Erik_F%C3%B8rner_(2018).jpeg",
+          "caption": "Førner in 2018",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Erik Førner",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://snl.no/Erik_Førner",
+          "language": "Norwegian",
+          "accessdate": "11 March 2019",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "Foreign honours",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "🇵🇭 Philippines:",
+            "links": [
+              {
+                "text": "Philippines",
+                "type": "internal",
+                "page": "philippines"
+              }
+            ]
+          },
+          {
+            "text": "PHI Order of Sikatuna 2003 Grand Cross BAR.svg Grand Cross (Datu) of the Order of Sikatuna (GrCS) (13 June 2018)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Sikatuna"
+              }
+            ],
+            "formatting": {
+              "bold": [
+                "(GrCS)"
+              ],
+              "italic": [
+                "(Datu)"
+              ]
+            }
+          }
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

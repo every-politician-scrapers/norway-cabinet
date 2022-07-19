@@ -1,0 +1,856 @@
+{
+  "title": "Jon-Ivar Nygård",
+  "pageID": 68839795,
+  "categories": [
+    "1973 births",
+    "Living people",
+    "People from Fredrikstad",
+    "University of Oslo alumni",
+    "Østfold politicians",
+    "Labour Party (Norway) politicians",
+    "Mayors of places in Norway",
+    "Members of the Storting",
+    "Ministers of Transport and Communications of Norway"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Jon-Ivar Nygård (born 2 January 1973) is a Norwegian politician for the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (Norway)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Jon-Ivar Nygård"
+                ]
+              }
+            },
+            {
+              "text": "He has served as minister of transport since 2021."
+            },
+            {
+              "text": "He previously served as the mayor of Fredrikstad from 2011 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fredrikstad"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician (born 1973)",
+          "template": "short description"
+        },
+        {
+          "date": "September 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "year": "1973",
+          "month": "1",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Jon-Ivar Nygård"
+          },
+          "image": {
+            "text": "Statsråd Jon-Ivar Nygård.jpg"
+          },
+          "office": {
+            "text": "Minister of Transport",
+            "links": [
+              {
+                "text": "Minister of Transport",
+                "type": "internal",
+                "page": "Minister of Transport of Norway"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "14 October 2021"
+          },
+          "primeminister": {
+            "text": "Jonas Gahr Støre",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Jonas Gahr Støre"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Knut Arild Hareide",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Knut Arild Hareide"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Member of the Storting",
+            "links": [
+              {
+                "text": "Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start2": {
+            "text": "1 October 2021"
+          },
+          "deputy2": {
+            "text": "Solveig Vitanza",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Solveig Vitanza"
+              }
+            ]
+          },
+          "constituency2": {
+            "text": "Østfold",
+            "links": [
+              {
+                "text": "Østfold",
+                "type": "internal",
+                "page": "Østfold (Storting constituency)"
+              }
+            ]
+          },
+          "office3": {
+            "text": "Deputy Member of the Storting",
+            "links": [
+              {
+                "text": "Deputy Member of the Storting",
+                "type": "internal",
+                "page": "Storting"
+              }
+            ]
+          },
+          "term_start3": {
+            "text": "1 October 2013"
+          },
+          "term_end3": {
+            "text": "30 September 2017"
+          },
+          "constituency3": {
+            "text": "Østfold",
+            "links": [
+              {
+                "text": "Østfold",
+                "type": "internal",
+                "page": "Østfold (Storting constituency)"
+              }
+            ]
+          },
+          "office4": {
+            "text": "Mayor of Fredrikstad",
+            "links": [
+              {
+                "text": "Mayor of Fredrikstad",
+                "type": "internal",
+                "page": "Fredrikstad"
+              }
+            ]
+          },
+          "term_start4": {
+            "text": "20 October 2011"
+          },
+          "term_end4": {
+            "text": "21 October 2021"
+          },
+          "predecessor4": {
+            "text": "Eva Kristin Andersen"
+          },
+          "successor4": {
+            "text": "Siri Martinsen"
+          },
+          "birth_date": {
+            "text": "January 2, 1973"
+          },
+          "birth_place": {
+            "text": "Borge, Østfold, Norway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Borge, Østfold"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Oslo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Oslo"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Politician"
+          },
+          "party": {
+            "text": "Labour",
+            "links": [
+              {
+                "text": "Labour",
+                "type": "internal",
+                "page": "Labour Party (Norway)"
+              }
+            ]
+          },
+          "partner": {
+            "text": "Anne Gro Bjerknes"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
+          }
+        }
+      ]
+    },
+    {
+      "title": "Early and personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Born in Borge, Nygård graduated as cand.mag. from the University of Oslo in 1998.",
+              "links": [
+                {
+                  "text": "Borge",
+                  "type": "internal",
+                  "page": "Borge, Østfold"
+                },
+                {
+                  "text": "cand.mag.",
+                  "type": "internal",
+                  "page": "cand.mag."
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                }
+              ]
+            },
+            {
+              "text": "He is lives with his partner, Anne Gro Bjerknes, and has three children from a previous relationship."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.f-b.no/nyheter/nyheter/jon-ivar-nygard-fyller-40-ar-i-dag/s/2-2.952-1.7704548",
+          "title": "Jon-Ivar Nygård fyller 40 år i dag",
+          "publisher": "Fredrikstad Blad",
+          "date": "2 January 2013",
+          "access-date": "22 December 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Political career",
+      "depth": 0
+    },
+    {
+      "title": "Local politics",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He was member of the municipal council of Fredrikstad since 1993, and served as mayor in Fredrikstad from 2011 to 2021.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Fredrikstad"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.dagsavisen.no/demokraten/nyheter/2021/10/21/fredrikstad-har-fatt-ny-ordforer/",
+          "title": "Fredrikstad har fått ny ordfører",
+          "publisher": "Dagsavisen",
+          "date": "21 October 2021",
+          "access-date": "26 October 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Jon-Ivar Nygård",
+          "first": "Knut Are",
+          "last": "Tvedt",
+          "author-link": "Knut Are Tvedt",
+          "encyclopedia": "Store norske leksikon",
+          "editor-last": "Bolstad",
+          "editor-first": "Erik",
+          "publisher": "Norsk nettleksikon",
+          "location": "Oslo",
+          "url": "https://snl.no/Jon-Ivar_Nygård",
+          "language": "no",
+          "access-date": "28 September 2021",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "Parliament",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Having previously been a deputy representative from 2013 to 2017, Nygård was elected representative to the Storting from the constituency of Østfold for the period 2021–2025, for the Labour Party.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Storting"
+                },
+                {
+                  "text": "Østfold",
+                  "type": "internal",
+                  "page": "Østfold (Storting constituency)"
+                },
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Labour Party (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "While part of the government from October 2021, Solveig Vitanza met in the Storting in his place.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Solveig Vitanza"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Stortingsrepresentantene 2021–2025",
+          "first": "Knut Are",
+          "last": "Tvedt",
+          "author-link": "Knut Are Tvedt",
+          "encyclopedia": "Store norske leksikon",
+          "editor-last": "Bolstad",
+          "editor-first": "Erik",
+          "publisher": "Norsk nettleksikon",
+          "location": "Oslo",
+          "url": "https://snl.no/Stortingsrepresentantene_2021–2025",
+          "language": "no",
+          "access-date": "28 September 2021",
+          "template": "citation",
+          "type": "encyclopedia"
+        },
+        {
+          "title": "Nygård, Jon-Ivar (1973-)",
+          "url": "https://www.stortinget.no/no/Representanter-og-komiteer/Representantene/Representant/?perid=JONN",
+          "website": "stortinget.no",
+          "language": "no",
+          "access-date": "31 October 2021",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Minister of Transport",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "On 14 October 2021, Nygård was appointed minister of transport in Jonas Gahr Støre's cabinet.",
+              "links": [
+                {
+                  "text": "Jonas Gahr Støre's cabinet",
+                  "type": "internal",
+                  "page": "Støre Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nygård announced that he wants an end to tenders for Norwegian train routes, and allocate routes directly to Vy.",
+              "links": [
+                {
+                  "text": "Vy",
+                  "type": "internal",
+                  "page": "Vy (transport operator)"
+                }
+              ]
+            },
+            {
+              "text": "At the same time, he announced that foreign companies, like Go-Ahead and SJ, would keep their contracts until they expire.",
+              "links": [
+                {
+                  "text": "Go-Ahead",
+                  "type": "internal",
+                  "page": "Go-Ahead Group"
+                },
+                {
+                  "text": "SJ",
+                  "type": "internal",
+                  "page": "SJ AB"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In November, Nygård announced that the government would not cancel future construction of planned motorways, while also reiterating an increased focus on railways, notably InterCity."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 15 November, Nygård and Minister of Labour and Social Inclusion Hadia Tajik met the head of SAS Norway, Kjetil Håbjørg, regarding the ongoing conflict with its staff.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Minister of Labour and Social Inclusion"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hadia Tajik"
+                },
+                {
+                  "text": "SAS",
+                  "type": "internal",
+                  "page": "Scandinavian Airlines System"
+                }
+              ]
+            },
+            {
+              "text": "As a solution, Nygård was set to present the government's new aviation strategy, commenting: “We will create an aviation strategy, and Norwegian wage and working conditions will be important."
+            },
+            {
+              "text": "It is about getting a good overview of how this is in the industry and having good control mechanisms”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a press release on 8 December, it was announced that the government would expand the compensation scheme for train companies and commercial bus and ferry routes."
+            },
+            {
+              "text": "Nygård stated: “The pandemic has not developed as we had hoped."
+            },
+            {
+              "text": "New national measures have now been introduced to limit the spread of infection in society."
+            },
+            {
+              "text": "We therefore expect that fewer travelers will use public transport."
+            },
+            {
+              "text": "The government is therefore in favour of compensating train companies and commercial bus and boat routes for reduced ticket revenues until March 2022."
+            },
+            {
+              "text": "If the infection control measures so require, the government will consider further extension”."
+            },
+            {
+              "text": "He also stressed that if they were the make cuts in the routes too early, they would risk losing more travellers that otherwise would return."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Green Party MP Rasmus Hansson criticised Nygård regarding a rise in prices for busses, which he sent in as a question for him to ansewer in the Storting.",
+              "links": [
+                {
+                  "text": "Green Party",
+                  "type": "internal",
+                  "page": "Green Party (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Rasmus Hansson"
+                }
+              ]
+            },
+            {
+              "text": "On 13 December, Nygård told media that the prices weren't too high, saying: “Until the COVID-19 outbreak, the number of travelers has increased as public transport has steadily improved."
+            },
+            {
+              "text": "It is no wonder that an expanded offer costs something more."
+            },
+            {
+              "text": "The fact that more and more people have found their way to public transport is a sign that pricing has not been too high”."
+            },
+            {
+              "text": "He went on to say: “I know that several county municipalities are working with new ticket products now as a result of changed travel habits, and I would like to wish them luck in the work of developing public transport now in a particularly difficult period”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "After the government announced that they would be abolishing the aircraft passenger tax until 1 July 2022, as a part of new COVID-19 measures; Nygård commented: “The negative consequences for the industry may be more long-term, so that compensatory measures are needed over a longer period”."
+            },
+            {
+              "text": "He went on to say: “Without financial support, we risk unwanted and noticeable cuts in the route offers in aviation."
+            },
+            {
+              "text": "This can lead to people who perform socially critical functions not being able to get to work, or patients not being able to get to and from the hospitals”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In January 2022, he and labour minister Hadia Tajik announced that the government would take action against “workplace crime” in the transport sector.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hadia Tajik"
+                }
+              ]
+            },
+            {
+              "text": "Nygård assessed that workplace criminality can spread from one workplace to the other, and that the transport sector was one of the most vulnerable."
+            },
+            {
+              "text": "Further that if one company utilised illegal means, other companies could catch onto it as well."
+            },
+            {
+              "text": "He also assessed that it would lead to a non sensical competition in the market, and lead to eventual further downward spiral."
+            },
+            {
+              "text": "Nygård went on to stress the importance of “clearing the conditions”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Following revelations that tunnels in Western Norway had not been inspected properly, Conservative Party MP Liv Kari Eskeland asked in a written question to Nygård how road inspections should be followed up in said region.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Western Norway"
+                },
+                {
+                  "text": "Conservative Party",
+                  "type": "internal",
+                  "page": "Conservative Party (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Liv Kari Eskeland"
+                }
+              ]
+            },
+            {
+              "text": "Nygård responded that “we take tunnel safety seriously” and that “Norwegian tunnels will become safer”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nygård and the Ministry of Transport tasked the Norwegian Railway Directorate to make a concept study for the Northern Norway railway line.",
+              "links": [
+                {
+                  "text": "Ministry of Transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Communications (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Railway Directorate"
+                }
+              ]
+            },
+            {
+              "text": "In a press release on 24 February, Nygård stated: “In this connection, the Norwegian Railway Directorate must see the report in connection with the adjacent railway sections Ofotbanen and Nordlandsbanen, and it must describe consequences for other parts of the railway network on both the Norwegian and Swedish sides”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Nygård announced on 22 April that the government would seek to get rid of extra monthly pay annually for the leadership of the state owned railway company Vy.",
+              "links": [
+                {
+                  "text": "Vy",
+                  "type": "internal",
+                  "page": "Vy (transport operator)"
+                }
+              ]
+            },
+            {
+              "text": "He stated: “We want to give a clear signal that we believe it is time for moderation in all possible ways, and this also applies to our companies in the transport sector."
+            },
+            {
+              "text": "Most of our companies have discontinued bonus schemes for a long time, but not Vy”."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In early May, he expressed that the state might have to intervene when it came to payment for charging electric vehicles."
+            },
+            {
+              "text": "He added that charging electric vehicles would have to become simpler, and solution could be ready in 2023."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In a press release in June, the Ministry of Transport asked for inputs regarding the reduction of road companies in the country.",
+              "links": [
+                {
+                  "text": "Ministry of Transport",
+                  "type": "internal",
+                  "page": "Ministry of Transport and Communications (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "Nygård clarified that this would include the status of the government owned road company, Nye Veier AS."
+            },
+            {
+              "text": "He stated: “Several major changes have been made to the organization of the road area, in particular the closure of (what was previously called) Sam's road administration and the establishment of Nye Veier”."
+            },
+            {
+              "text": "He went on to say: “We are concerned with avoiding fragmented professional environments, increased costs and less coherent development."
+            },
+            {
+              "text": "The Hurdal platform says that we will investigate - that is because we actually want to assess how we can best move forward to achieve the goals for the road sector”."
+            },
+            {
+              "text": "He also noted that if the government had considered reversing Nye Veier’s status, they would have done so."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 6 July, he announced that the Ministry of Transport would be commencing a three step mapping plan for the railway industry after summer."
+            },
+            {
+              "text": "The priority for the mapping is to find challenges within the railway industry and the shares responsibilities between the Ministry, the Railway Directorate and Bane NOR.",
+              "links": [
+                {
+                  "text": "Railway Directorate",
+                  "type": "internal",
+                  "page": "Norwegian Railway Directorate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bane NOR"
+                }
+              ]
+            },
+            {
+              "text": "Nygård emphasised that the government had high ambitions for the railway sector, and a goal to increase passenger and goods services."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.nrk.no/norge/norge-har-fatt-ny-regjering-1.15689598",
+          "title": "Norge har fått ny regjering",
+          "publisher": "NRK",
+          "date": "14 October 2021",
+          "access-date": "14 October 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vg.no/nyheter/innenriks/i/8QO6dw/den-nye-samferdselsministeren-vil-gi-alt-til-vy",
+          "title": "Den nye samferdselsministeren vil gi alt til Vy",
+          "publisher": "VG",
+          "date": "26 October 2021",
+          "access-date": "26 October 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.dagsavisen.no/nyheter/politikk/2021/11/08/samferdselsministeren-avlyser-ikke-motorveiutbygging/",
+          "title": "Samferdselsministeren: Avlyser ikke motorveiutbygging",
+          "publisher": "Dagsavisen",
+          "date": "8 November 2021",
+          "access-date": "8 November 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://e24.no/naeringsliv/i/pW9egj/hadia-tajik-moette-sas-sjefen-har-spurt-om-hvorfor-de-er-i-konflikt-med-nesten-500-av-sine-ansatte",
+          "title": "Hadia Tajik møtte SAS-sjefen: – Har spurt om hvorfor de er i konflikt med nesten 500 av sine ansatte",
+          "publisher": "E24",
+          "date": "15 November 2021",
+          "access-date": "18 November 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.regjeringen.no/no/aktuelt/korona-regjeringen-vil-forlenge-kompensasjonsordning-for-togselskaper-og-kommersielle-buss-og-batruter/id2891492/",
+          "title": "Korona: Regjeringen vil forlenge kompensasjonsordning for togselskaper og kommersielle buss- og båtruter",
+          "publisher": "government.no",
+          "date": "8 December 2021",
+          "access-date": "8 December 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nrk.no/mr/samferdselsminister-nygard-matte-svare-pa-kvifor-busspris-har-auka-tre-gonger-sa-mykje-som-bensin-1.15764890",
+          "title": "MDG: – Anten forstår ikkje ministeren klimapolitikk, eller så er han berre flau",
+          "publisher": "NRK Møre og Romsdal",
+          "date": "13 December 2021",
+          "access-date": "18 December 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.tv2.no/a/14447053/",
+          "title": "Regjeringen vil oppheve flypassasjeravgiften fram til 1. juli",
+          "publisher": "TV 2",
+          "date": "21 December 2021",
+          "access-date": "22 December 2021",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nettavisen.no/okonomi/regjeringen-skal-rydde-opp-i-systematisk-arbeidslivskriminalitet-i-transportsektoren/s/12-95-3424228458",
+          "title": "Regjeringen skal rydde opp i \"systematisk arbeidslivskriminalitet\" i transportsektoren",
+          "publisher": "Nettavisen",
+          "date": "8 January 2022",
+          "access-date": "9 January 2022",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.nrk.no/vestland/vegvesenet-har-latt-vere-a-inspisere-tunnelar-1.15818152",
+          "title": "Vegvesenet har latt vere å inspisere tunnelar",
+          "publisher": "NRK Vestland",
+          "date": "19 January 2022",
+          "access-date": "20 January 2022",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abcnyheter.no/reise/reisenyheter/2022/02/24/195827991/nord-norgebanen-regjeringen-ber-om-fullverdig-konseptvalgutredning",
+          "title": "Nord-Norgebanen: Regjeringen ber om fullverdig konseptvalgutredning",
+          "publisher": "ABC Nyheter",
+          "date": "24 February 2022",
+          "accessdate": "24 February 2022",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vg.no/nyheter/innenriks/i/RreMM5/regjeringen-med-klar-beskjed-til-vy-vil-ha-lederbonuser-skrotet",
+          "title": "Regjeringen med klar beskjed til Vy: Vil ha lederbonuser skrotet",
+          "publisher": "VG",
+          "date": "22 April 2022",
+          "access-date": "23 April 2022",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vg.no/nyheter/innenriks/i/bGx7Od/samferdselsministeren-om-lade-betaling-tror-staten-maa-gripe-inn",
+          "title": "Samferdselsministeren om lade-betaling: Tror staten må gripe inn",
+          "publisher": "Verdens Gang",
+          "date": "2 May 2022",
+          "access-date": "2 May 2022",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.aftenposten.no/norge/i/ALa44A/regjeringen-lurer-paa-om-det-boer-kuttes-i-antall-veiselskaper",
+          "title": "Regjeringen lurer på om det bør kuttes i antall veiselskaper",
+          "publisher": "Aftenposten",
+          "date": "12 June 2022",
+          "access-date": "13 June 2022",
+          "language": "no",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abcnyheter.no/nyheter/norge/2022/07/06/195857107/samferdselsministeren-varsler-gjennomgang-av-jernbanesektoren",
+          "title": "Samferdselsministeren varsler gjennomgang av jernbanesektoren",
+          "publisher": "ABC Nyheter",
+          "date": "6 July 2022",
+          "access-date": "6 July 2022",
+          "language": "no",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "stortinget 2021–2025"
+        },
+        {
+          "template": "authority control"
+        }
+      ]
+    }
+  ]
+}

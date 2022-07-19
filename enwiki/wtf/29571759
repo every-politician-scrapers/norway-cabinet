@@ -1,0 +1,171 @@
+{
+  "title": "Aage Thor Falkanger",
+  "pageID": 29571759,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Judges from Oslo",
+    "Norwegian legal scholars",
+    "University of Tromsø faculty",
+    "Supreme Court of Norway justices",
+    "Parliamentary ombudspersons in Norway"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aage Thor Falkanger (born 18 February 1965) is a Norwegian judge and legal scholar.",
+              "formatting": {
+                "bold": [
+                  "Aage Thor Falkanger"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Oslo, and took the cand.jur. degree in 1990.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "He was a research fellow at the University of Tromsø from 1995 to 1999, and took the dr.juris degree in 1999.",
+              "links": [
+                {
+                  "text": "research fellow",
+                  "type": "internal",
+                  "page": "research fellow"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Tromsø"
+                },
+                {
+                  "text": "dr.juris",
+                  "type": "internal",
+                  "page": "dr.juris"
+                }
+              ]
+            },
+            {
+              "text": "He was a presiding judge in Hålogaland Court of Appeal from 1999 to 2007, professor of law at the University of Tromsø from 2007 to 2010 and an acting Supreme Court Justice in 2007 and 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hålogaland Court of Appeal"
+                },
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In May 2010 he was appointed as a Supreme Court Justice."
+            },
+            {
+              "text": "In February 2014 he was appointed by Parliament as the new Norwegian Parliamentary Ombudsman for Public Administration.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Parliamentary Ombudsman for Public Administration"
+                }
+              ]
+            },
+            {
+              "text": "In 2020 he returned to the Supreme Court."
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Aage_Thor_Falkanger.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Aage_Thor_Falkanger.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Aage_Thor_Falkanger.jpg"
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge and legal scholar",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Thor Falkanger"
+          ],
+          "template": "distinguish"
+        }
+      ],
+      "references": [
+        {
+          "title": "Aage Thor Falkanger",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Aage_Thor_Falkanger",
+          "language": "Norwegian",
+          "accessdate": "22 March 2014",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "before": "Arne Fliflet",
+          "template": "s-bef"
+        },
+        {
+          "title": "Norwegian Parliamentary Ombudsman",
+          "years": "2014–2020",
+          "template": "s-ttl"
+        },
+        {
+          "after": "Hanne Harlem",
+          "template": "s-aft"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-academic-bio-stub"
+        }
+      ]
+    }
+  ]
+}

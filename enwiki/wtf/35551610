@@ -1,0 +1,400 @@
+{
+  "title": "Wenche Elizabeth Arntzen",
+  "pageID": 35551610,
+  "categories": [
+    "1959 births",
+    "Living people",
+    "Judges from Oslo",
+    "Supreme Court of Norway justices",
+    "2011 Norway attacks",
+    "Norwegian women lawyers",
+    "Norwegian women judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wenche Elizabeth Arntzen (born 26 June 1959) is a Norwegian lawyer and judge.",
+              "links": [
+                {
+                  "text": "Norwegian",
+                  "type": "internal",
+                  "page": "Norway"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wenche Elizabeth Arntzen"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed to the Supreme Court of Norway on 20 June 2014, having previously been a judge at the Oslo District Court.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oslo District Court"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "From 16 April until 22 June 2012, she presided over the trial of Anders Behring Breivik following the 2011 Norway attacks, assisted by district court judge Arne Lyng and three lay judges.",
+              "links": [
+                {
+                  "text": "trial of Anders Behring Breivik",
+                  "type": "internal",
+                  "page": "trial of Anders Behring Breivik"
+                },
+                {
+                  "text": "2011 Norway attacks",
+                  "type": "internal",
+                  "page": "2011 Norway attacks"
+                },
+                {
+                  "type": "internal",
+                  "page": "Arne Lyng"
+                },
+                {
+                  "text": "lay judges",
+                  "type": "internal",
+                  "page": "lay judge"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian lawyer and judge",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        },
+        {
+          "year": "1959",
+          "month": "6",
+          "day": "26",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wenche Elizabeth Arntzen"
+          },
+          "birth_date": {
+            "text": "June 26, 1959"
+          },
+          "nationality": {
+            "text": "Norwegian",
+            "links": [
+              {
+                "text": "Norwegian",
+                "type": "internal",
+                "page": "Norway"
+              }
+            ]
+          },
+          "known_for": {
+            "text": "Presiding judge during the trial of Anders Behring Breivik",
+            "links": [
+              {
+                "text": "trial of Anders Behring Breivik",
+                "type": "internal",
+                "page": "trial of Anders Behring Breivik"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "jurist, judge",
+            "links": [
+              {
+                "text": "jurist",
+                "type": "internal",
+                "page": "jurist"
+              },
+              {
+                "text": "judge",
+                "type": "internal",
+                "page": "judge"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.aftenposten.no/nyheter/Wenche-Elizabeth-Arntzen-blir-ny-hoyesterettsdommer-7611844.html#.U-cP-_lv7y0",
+          "title": "Wenche Elizabeth Arntzen blir ny høyesterettsdommer",
+          "last": "Brønmo",
+          "first": "Hanne",
+          "date": "20 June 2014",
+          "publisher": "Aftenposten",
+          "language": "Norwegian",
+          "accessdate": "10 August 2014",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.dagbladet.no/2011/12/23/nyheter/innenriks/behring_breivik/19539633/",
+          "title": "Tiltalte landssvikere, forsvarte Arne Treholt",
+          "newspaper": "Dagbladet",
+          "language": "Norwegian",
+          "date": "23 December 2011",
+          "accessdate": "20 April 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.vg.no/nyheter/innenriks/oslobomben/artikkel.php?artid=10024913",
+          "title": "De deltok i landssvikoppgjøret – barnebarna skal dømme Breivik",
+          "newspaper": "Verdens Gang",
+          "language": "Norwegian",
+          "date": "23 December 2011",
+          "accessdate": "20 April 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "Background",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arntzen began her career as a consultant at the Ministry of Justice and the Police's Legal Issues section.",
+              "links": [
+                {
+                  "text": "Ministry of Justice and the Police's",
+                  "type": "internal",
+                  "page": "Ministry of Justice and the Police (Norway)"
+                }
+              ]
+            },
+            {
+              "text": "From 1989 to 2003, she was a lawyer at the Office of the Attorney General of Norway.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Office of the Attorney General of Norway"
+                }
+              ]
+            },
+            {
+              "text": "She attained to barrister, a lawyer with access to work with Supreme Court cases, in 1993.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            },
+            {
+              "text": "She then entered the law firm Kluge as a lawyer and partner."
+            },
+            {
+              "text": "Since 2007 Arntzen has been a judge at Oslo District Court."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Wenche Elizabeth Arntzen belongs to a family with many jurists."
+            },
+            {
+              "text": "Among them is her grandfather, former Director of Public Prosecutions in Norway (riksadvokat) Sven Arntzen.",
+              "links": [
+                {
+                  "text": "Director of Public Prosecutions in Norway",
+                  "type": "internal",
+                  "page": "Norwegian Prosecuting Authority"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sven Arntzen"
+                }
+              ]
+            },
+            {
+              "text": "Her father was the barrister, Andreas Arntzen.",
+              "links": [
+                {
+                  "text": "Andreas Arntzen",
+                  "type": "internal",
+                  "page": "Andreas Arntzen (barrister)"
+                }
+              ]
+            },
+            {
+              "text": "She is also married to a jurist and is a cousin of psychology professor Erik Arntzen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Erik Arntzen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Since 2009, Arntzen has been a member of the Norwegian Parliamentary Intelligence Oversight Committee.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Norwegian Parliamentary Intelligence Oversight Committee"
+                }
+              ]
+            },
+            {
+              "text": "She has also worked at the University of Oslo as commissioned lecturer in ethics.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "text": "ethics",
+                  "type": "internal",
+                  "page": "ethics"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Arntzen fikk dødsbudskap",
+          "last": "Meldalen",
+          "first": "Sindre Granly",
+          "date": "23 May 2012",
+          "work": "Dagbladet",
+          "page": "14",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "http://www.eos-utvalget.no/hXGXCTgZfKXo.35.idium",
+          "title": "Members",
+          "accessdate": "20 April 2012",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20120603182537/http://www.eos-utvalget.no/hXGXCTgZfKXo.35.idium",
+          "archivedate": "3 June 2012",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "The Breivik trial",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "During the opening of the 2012 trial against Anders Behring Breivik, Breivik claimed that judge Arntzen was a personal friend of Hanne Harlem, sister of former prime minister Gro Harlem Brundtland, whom Breivik on day four of the trial testified had been a principal target for execution during his shooting spree at Utøya island—and whom he had wanted to decapitate on video, Al Qaeda-style—but to the question from Arntzen whether this constituted a formal assertion of conflict of interest, Breivik's main defence counsel Geir Lippestad, after cursorily conferring with Breivik, replied that it was not.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Anders Behring Breivik"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hanne Harlem"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gro Harlem Brundtland"
+                },
+                {
+                  "text": "conflict of interest",
+                  "type": "internal",
+                  "page": "conflict of interest"
+                },
+                {
+                  "type": "internal",
+                  "page": "Geir Lippestad"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "title": "Accused Mass Killer Admits Actions, Pleads Not Guilty",
+          "author": "Hovland, Kjetil Malkenes",
+          "url": "https://www.wsj.com/articles/SB10001424052702304432704577347233624832946?mod=googlenews_wsj",
+          "newspaper": "Wall Street Journal",
+          "date": "17 April 2012",
+          "accessdate": "20 April 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Sparket meddommer: – Jeg følte meg litt som en popstjerne",
+          "trans-title": "Dismissed lay judge: – I felt a little bit like a pop star",
+          "author": "Andersen, Gordon: Sæther, Anne Stine; Sørbø, Krister (photographer)",
+          "url": "http://www.vg.no/nyheter/innenriks/22-juli/rettssaken/artikkel.php?artid=10065337",
+          "newspaper": "Verdens Gang",
+          "language": "Norwegian",
+          "date": "18 April 2012",
+          "accessdate": "20 April 2012",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Terror trial gets underway in Oslo",
+          "author": "Berglund, Nina",
+          "url": "http://www.newsinenglish.no/2012/04/16/terror-trial-gets-underway-in-oslo/comment-page-1/",
+          "work": "Views and News from Norway",
+          "date": "16 April 2012",
+          "accessdate": "20 April 2012",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "2011 norway attacks"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

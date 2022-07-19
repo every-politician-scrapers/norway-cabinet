@@ -1,0 +1,111 @@
+{
+  "title": "Arne Ringnes",
+  "pageID": 46901680,
+  "categories": [
+    "1955 births",
+    "Living people",
+    "Judges from Oslo",
+    "Supreme Court of Norway justices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Arne Ringnes (born 28 April 1955) is a Norwegian lawyer and judge.",
+              "formatting": {
+                "bold": [
+                  "Arne Ringnes"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Oslo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                }
+              ]
+            },
+            {
+              "text": "He was hired in the Ministry of Justice in 1983, went on to serve as a deputy judge in Indre Follo District Court, then became junior solicitor in the law firm Thommessen in 1986.",
+              "links": [
+                {
+                  "text": "Ministry of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice and the Police (Norway)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Indre Follo District Court"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thommessen"
+                }
+              ]
+            },
+            {
+              "text": "He became a partner in 1989, until he was appointed as Supreme Court Justice in 2014.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian lawyer and judge (born 1955)",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Arne Ringnes",
+          "first": "Jon",
+          "last": "Gisle",
+          "authorlink": "Jon Gisle",
+          "encyclopedia": "Store norske leksikon",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "url": "http://www.snl.no/Arne_Ringnes",
+          "language": "Norwegian",
+          "accessdate": "5 June 2015",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

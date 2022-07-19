@@ -1,0 +1,132 @@
+{
+  "title": "Ragnhild Noer",
+  "pageID": 32364839,
+  "categories": [
+    "Supreme Court of Norway justices",
+    "Living people",
+    "1959 births",
+    "Judges from Oslo",
+    "Norwegian women judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ragnhild Noer (born 28 December 1959) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Ragnhild Noer"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Oslo.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                }
+              ]
+            },
+            {
+              "text": "She worked as a presiding judge in Borgarting from 2005 to 2010, and as Supreme Court Justice from 2010.",
+              "links": [
+                {
+                  "text": "Borgarting",
+                  "type": "internal",
+                  "page": "Borgarting Court of Appeal"
+                },
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge (born 1959)",
+          "template": "short description"
+        },
+        {
+          "template": "date",
+          "data": {
+            "year": "1959",
+            "month": "12",
+            "date": "28",
+            "df": "y",
+            "template": "birth date",
+            "text": "December 28, 1959"
+          }
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ragnhild Noer"
+          },
+          "birth_date": {
+            "text": "December 28, 1959"
+          },
+          "birth_place": {
+            "text": "Oslo, Norway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oslo"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Judge"
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Ragnhild Noer",
+          "first": "Jon",
+          "last": "Gisle",
+          "authorlink": "Jon Gisle",
+          "encyclopedia": "Store norske leksikon",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "url": "http://www.snl.no/Ragnhild_Noer",
+          "language": "Norwegian",
+          "accessdate": "10 July 2011",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

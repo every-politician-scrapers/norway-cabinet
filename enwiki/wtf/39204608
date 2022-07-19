@@ -1,0 +1,163 @@
+{
+  "title": "Henrik Bull (judge)",
+  "pageID": 39204608,
+  "categories": [
+    "1957 births",
+    "Living people",
+    "Judges from Oslo",
+    "University of Oslo alumni",
+    "Norwegian civil servants",
+    "Norwegian legal scholars",
+    "Academics of the Faculty of Law, University of Oslo",
+    "Supreme Court of Norway justices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Henrik Bull (born 1957) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Henrik Bull"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Oslo, graduated with the cand.jur. degree in 1984 and took the dr.juris degree in 2002.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                },
+                {
+                  "text": "dr.juris",
+                  "type": "internal",
+                  "page": "dr.juris"
+                }
+              ]
+            },
+            {
+              "text": "He also took an undergraduate degree in Russian language in 1978.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Russian language"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a consultant in the Ministry of Justice and the Police from 1985 to 1987, then deputy judge in Nedre Romerike District Court for one year.",
+              "links": [
+                {
+                  "text": "Ministry of Justice and the Police",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Justice and the Police"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nedre Romerike District Court"
+                }
+              ]
+            },
+            {
+              "text": "He was then a legislative adviser in the Ministry of Justice and the Police from 1988 to 1996, when he was hired as a research fellow at the University of Oslo Centre for European Law.",
+              "links": [
+                {
+                  "text": "research fellow",
+                  "type": "internal",
+                  "page": "research fellow"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                }
+              ]
+            },
+            {
+              "text": "From 2002 to 2005 he headed the Centre for European Law."
+            },
+            {
+              "text": "After a period as a judge in the EFTA Court from 2006 to 2010, he became a Supreme Court Justice in January 2011.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "EFTA Court"
+                },
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge",
+          "bot": "PearBOT 5",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Henrik Bull",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://snl.no/Henrik_Bull/jurist",
+          "language": "Norwegian",
+          "accessdate": "24 April 2013",
+          "template": "citation",
+          "type": "encyclopedia"
+        },
+        {
+          "url": "http://www.domstol.no/Enkelt-domstol/-Norges-Hoyesterett/Gammelt/Henrik-Bull-hoyesterettsdommer-/",
+          "title": "Henrik Bull, Høyesterettsdommer",
+          "publisher": "Norwegian National Courts Administration",
+          "language": "Norwegian",
+          "accessdate": "24 April 2013",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20130522033128/http://www.domstol.no/Enkelt-domstol/-Norges-Hoyesterett/Gammelt/Henrik-Bull-hoyesterettsdommer-/",
+          "archivedate": "22 May 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,123 @@
+{
+  "title": "Peter Nicolay Ræder",
+  "pageID": 31077741,
+  "categories": [
+    "1943 births",
+    "Living people",
+    "Norwegian civil servants",
+    "Ambassadors of Norway to Argentina",
+    "Ambassadors of Norway to Saudi Arabia",
+    "Ambassadors of Norway to the Czech Republic"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Peter Nicolay Ræder (born 20 August 1943) is a Norwegian diplomat.",
+              "formatting": {
+                "bold": [
+                  "Peter Nicolay Ræder"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a son of the diplomat Johan Georg Alexius Ræder and Gudrun Dorothea Ræder.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Johan Georg Alexius Ræder"
+                },
+                {
+                  "type": "internal",
+                  "page": "Gudrun Dorothea Ræder"
+                }
+              ]
+            },
+            {
+              "text": "He took the cand.jur. degree and was hired by the Norwegian Ministry of Foreign Affairs in 1973.",
+              "links": [
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Foreign Affairs"
+                }
+              ]
+            },
+            {
+              "text": "He was the Norwegian ambassador to Argentina from 1994 to 1999, and an adviser in the Ministry of Foreign Affairs from 1999 to 2002, the ambassador to Saudi Arabia from 2002 to 2004 and to the Czech Republic from 2004.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Argentina"
+                },
+                {
+                  "type": "internal",
+                  "page": "Saudi Arabia"
+                },
+                {
+                  "text": "the Czech Republic",
+                  "type": "internal",
+                  "page": "the Czech Republic"
+                }
+              ]
+            },
+            {
+              "text": "In 1998, he was decorated as a Knight, First Class of the Order of St. Olav.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Order of St. Olav"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian diplomat",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "year": "2007",
+          "title": "Peter Nicolay Ræder",
+          "encyclopedia": "Store norske leksikon",
+          "editor": "Henriksen, Petter",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "url": "http://www.snl.no/Peter_Nicolay_R%C3%A6der",
+          "language": "Norwegian",
+          "accessdate": "4 March 2011",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "title": "Bergljot Webster",
+  "pageID": 25071508,
+  "categories": [
+    "1966 births",
+    "Living people",
+    "Judges from Oslo",
+    "Supreme Court of Norway justices",
+    "Norwegian women lawyers",
+    "Norwegian women judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Bergljot Cecilie Webster (born 16 February 1966) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Bergljot Cecilie Webster"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Oslo, and graduated with the cand.jur. degree in 1992.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "She worked in the Office of the Attorney General of Norway from 1993 to 2000, from 1999 with access to Supreme Court cases.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Office of the Attorney General of Norway"
+                },
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            },
+            {
+              "text": "She then worked as a lawyer in the Nordisk Defence Club from 2000 to 2004, and in the law firms Sørlie Wilhelmsen and Hjort between 2004 and 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Nordisk Defence Club"
+                },
+                {
+                  "text": "Sørlie Wilhelmsen",
+                  "type": "internal",
+                  "page": "Advokatfirmaet Sørlie Wilhelmsen"
+                },
+                {
+                  "text": "Hjort",
+                  "type": "internal",
+                  "page": "Hjort (law firm)"
+                }
+              ]
+            },
+            {
+              "text": "She became a Supreme Court Justice in 2009.",
+              "links": [
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            },
+            {
+              "text": "In 2014 she will have a one-year absence of leave."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She is married, has two daughters and resides at Billingstad.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Billingstad"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge (born 1966)",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Bergljot Webster"
+          },
+          "office": {
+            "text": "Supreme Court Justice",
+            "links": [
+              {
+                "text": "Supreme Court Justice",
+                "type": "internal",
+                "page": "Supreme Court of Norway"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "2009",
+            "number": 2009
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Millionlønn lokket ingen dommere",
+          "last": "Sætran",
+          "first": "Frode",
+          "date": "23 May 2013",
+          "work": "Aftenposten",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Åpenbar løsning",
+          "last": "Hoff Jensen",
+          "first": "Martine",
+          "date": "25 May 2013",
+          "work": "Budstikka",
+          "pages": "28–29",
+          "language": "Norwegian",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "year": "2007",
+          "title": "Bergljot Webster",
+          "encyclopedia": "Store norske leksikon",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "editor": "Henriksen, Petter",
+          "url": "http://www.snl.no/Bergljot_Webster",
+          "language": "Norwegian",
+          "accessdate": "13 November 2009",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

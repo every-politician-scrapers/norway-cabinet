@@ -1,0 +1,71 @@
+{
+  "title": "Merethe Nergaard",
+  "pageID": 63511563,
+  "categories": [
+    "Norwegian women ambassadors",
+    "Year of birth missing (living people)",
+    "Living people",
+    "Ambassadors of Norway to Mexico",
+    "Ambassadors of Norway to Morocco"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Merethe Nergaard, a Norwegian diplomat since 1984, was Deputy Director of the Ministry of Foreign Affairs (1997–1999), Ambassador to Mexico 2013–2017 and Ambassador to Rabat from 2017.",
+              "formatting": {
+                "bold": [
+                  "Merethe Nergaard"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian diplomat",
+          "template": "short description"
+        },
+        {
+          "1": "Norway",
+          "reason": "Many of the sources are in Norwegian which I don’t understand",
+          "date": "March 2020",
+          "template": "expert needed"
+        }
+      ],
+      "references": [
+        {
+          "title": "Merethe Nergaard",
+          "url": "https://snl.no/Merethe_Nergaard",
+          "website": "Store norske leksikon",
+          "accessdate": "29 March 2020",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "POLITICS 22/12/2018 16h30 Rabat : Norwegian ambassador calls for «not giving in to fear»",
+          "url": "https://en.yabiladi.com/articles/details/72518/rabat-norwegian-ambassador-calls-giving.html",
+          "accessdate": "29 March 2020",
+          "publisher": "Yabiladi",
+          "date": "December 22, 2018",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "norway-diplomat-stub"
+        }
+      ]
+    }
+  ]
+}

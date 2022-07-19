@@ -1,0 +1,154 @@
+{
+  "title": "Ole Gustav Narud",
+  "pageID": 69604955,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People from Åmot",
+    "Mayors of places in Hedmark",
+    "Centre Party (Norway) politicians",
+    "Deputy members of the Storting",
+    "Norwegian state secretaries",
+    "Twin people from Norway"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": [
+            {
+              "text": "Ole Gustav Narud (born 26 February 1958) is a Norwegian politician for the Centre Party.",
+              "links": [
+                {
+                  "text": "Centre Party",
+                  "type": "internal",
+                  "page": "Centre Party (Norway)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ole Gustav Narud"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a deputy representative to the Parliament of Norway from Hedmark during the term 2009–2013, but without meeting in parliamentary session.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Parliament of Norway"
+                },
+                {
+                  "text": "Hedmark",
+                  "type": "internal",
+                  "page": "Hedmark (constituency)"
+                }
+              ]
+            },
+            {
+              "text": "In October 2021 he was appointed to Støre's Cabinet as State Secretary in the Ministry of Local Government and Modernisation.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Støre's Cabinet"
+                },
+                {
+                  "text": "State Secretary",
+                  "type": "internal",
+                  "page": "State Secretary (Norway)"
+                },
+                {
+                  "text": "Ministry of Local Government and Modernisation",
+                  "type": "internal",
+                  "page": "Ministry of Local Government and Regional Development"
+                }
+              ]
+            },
+            {
+              "text": "He was the mayor of Åmot from 2003 to 2011 and 2015 to 2019.",
+              "links": [
+                {
+                  "text": "Åmot",
+                  "type": "internal",
+                  "page": "Åmot"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was a twin brother of political scientist Hanne Marthe Narud (1958–2012).",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hanne Marthe Narud"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Ole_Gustav_Narud_(15755043346).jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Ole_Gustav_Narud_(15755043346).jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Ole_Gustav_Narud_(15755043346).jpg",
+          "caption": "Ole Gustav Narud, 2014.",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "url": "https://www.ostlendingen.no/nyheter/vil-dra-eldre-velgere/s/2-2.2757-1.4036511",
+          "title": "Vil dra eldre velgere",
+          "last": "Hagen",
+          "first": "Rune",
+          "date": "24 May 2009",
+          "work": "Østlendingen",
+          "language": "no",
+          "access-date": "26 December 2021",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-academic-bio-stub"
+        }
+      ]
+    }
+  ]
+}

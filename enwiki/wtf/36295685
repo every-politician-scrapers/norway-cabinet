@@ -1,0 +1,128 @@
+{
+  "title": "Ingvald Falch",
+  "pageID": 36295685,
+  "categories": [
+    "1963 births",
+    "Living people",
+    "People from Bærum",
+    "University of Oslo alumni",
+    "Alumni of the University of Cambridge",
+    "Supreme Court of Norway justices",
+    "20th-century Norwegian lawyers",
+    "21st-century Norwegian judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ingvald Falch (born 1963) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Ingvald Falch"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Bærum, and graduated from the University of Oslo with the cand.jur. degree in 1989, later also a Master of Law degree from Cambridge University in 1996.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bærum"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                },
+                {
+                  "type": "internal",
+                  "page": "Cambridge University"
+                }
+              ]
+            },
+            {
+              "text": "He was a deputy judge in Vesterålen from 1990 to 1991 before starting as a lawyer, worked in the Office of the Attorney General of Norway and reached partnership in the law firm Schjødt in 1999.",
+              "links": [
+                {
+                  "text": "Vesterålen",
+                  "type": "internal",
+                  "page": "Vesterålen District Court"
+                },
+                {
+                  "type": "internal",
+                  "page": "Office of the Attorney General of Norway"
+                },
+                {
+                  "text": "Schjødt",
+                  "type": "internal",
+                  "page": "Advokatfirmaet Schjødt"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as a Supreme Court Justice in 2015.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge",
+          "template": "short description"
+        },
+        {
+          "date": "June 2022",
+          "template": "one source"
+        }
+      ],
+      "references": [
+        {
+          "title": "Ingvald Falch",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Ingvald_Falch",
+          "language": "Norwegian",
+          "accessdate": "24 October 2018",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

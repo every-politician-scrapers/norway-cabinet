@@ -1,0 +1,201 @@
+{
+  "title": "Wegard Harsvik",
+  "pageID": 13930411,
+  "categories": [
+    "1967 births",
+    "Living people",
+    "Deputy members of the Storting",
+    "Labour Party (Norway) politicians",
+    "Norwegian state secretaries",
+    "Nordland politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Wegard Harsvik (born 19 July 1967) is a Norwegian politician for the Labour Party.",
+              "links": [
+                {
+                  "text": "Labour Party",
+                  "type": "internal",
+                  "page": "Norwegian Labour Party"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Wegard Harsvik"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He served in the position of deputy representative to the Norwegian Parliament from Nordland during the term 1989–1993.",
+              "links": [
+                {
+                  "text": "Norwegian Parliament",
+                  "type": "internal",
+                  "page": "Storting"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nordland"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "During the first cabinet, Stoltenberg Harsvik worked as a political advisor in the Ministry of Church, Education, and Research.",
+              "links": [
+                {
+                  "text": "first cabinet, Stoltenberg",
+                  "type": "internal",
+                  "page": "First cabinet Stoltenberg"
+                },
+                {
+                  "text": "Ministry of Church, Education, and Research",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Education and Research"
+                }
+              ]
+            },
+            {
+              "text": "When the second cabinet Stoltenberg assumed office following the 2005 elections, Harsvik was appointed State Secretary in the Ministry of Health and Care Services.",
+              "links": [
+                {
+                  "text": "second cabinet Stoltenberg",
+                  "type": "internal",
+                  "page": "second cabinet Stoltenberg"
+                },
+                {
+                  "type": "internal",
+                  "page": "State Secretary",
+                  "anchor": "Norway"
+                },
+                {
+                  "text": "Ministry of Health and Care Services",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Health and Care Services"
+                }
+              ]
+            },
+            {
+              "text": "In late 2007 he changed to the Ministry of Culture and Church Affairs.",
+              "links": [
+                {
+                  "text": "Ministry of Culture and Church Affairs",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Culture and Church Affairs"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Outside politics he has worked in the Friends of the Earth Norway, Sosialdemokrater mot EU and the Norwegian Union of Municipal and General Employees.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Friends of the Earth Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sosialdemokrater mot EU"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Union of Municipal and General Employees"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Wegard Harsvik"
+          },
+          "birth_date": {
+            "text": "19 July 1967"
+          },
+          "occupation": {
+            "text": "Norwegian Politician"
+          }
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        }
+      ],
+      "templates": [
+        {
+          "list": [
+            "WEHA"
+          ],
+          "template": "stortingetbio"
+        },
+        {
+          "list": [
+            "no"
+          ],
+          "template": "in lang"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-politician-1960s-stub"
+        }
+      ],
+      "lists": [
+        [
+          {
+            "text": "Regjeringen.no biography",
+            "links": [
+              {
+                "text": "Regjeringen.no biography",
+                "type": "external",
+                "site": "http://www.regjeringen.no/nb/dep/kkd/dep/politisk_ledelse/statssekretar-wegard-harsvik.html?id=493021"
+              }
+            ]
+          }
+        ],
+        [
+          {
+            "text": "Regjeringen.no biography",
+            "links": [
+              {
+                "text": "Regjeringen.no biography",
+                "type": "external",
+                "site": "http://www.regjeringen.no/nb/dep/kkd/dep/politisk_ledelse/statssekretar-wegard-harsvik.html?id=493021"
+              }
+            ]
+          }
+        ]
+      ]
+    }
+  ]
+}

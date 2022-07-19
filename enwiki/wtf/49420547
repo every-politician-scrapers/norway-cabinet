@@ -1,0 +1,254 @@
+{
+  "title": "Fredrik Sejersted",
+  "pageID": 49420547,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Academics of the Faculty of Law, University of Oslo",
+    "Directors of government agencies of Norway"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Fredrik Sejersted (born 2 July 1965) is a Norwegian jurist, and the current Attorney General of Norway.",
+              "formatting": {
+                "bold": [
+                  "Fredrik Sejersted"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He is a son of Francis and Hilde Sejersted.",
+              "links": [
+                {
+                  "text": "Francis",
+                  "type": "internal",
+                  "page": "Francis Sejersted"
+                },
+                {
+                  "type": "internal",
+                  "page": "Hilde Sejersted"
+                }
+              ]
+            },
+            {
+              "text": "He has been a professor of law at the University of Oslo, and is known for chairing the Sejersted Commission (Seijersted-utvalget) from 2010 until they delivered the Norwegian Official Report 2012:2.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "type": "internal",
+                  "page": "Norwegian Official Report"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed Attorney General of Norway from 2015, taking over the position after Sven Ole Fagernæs.",
+              "links": [
+                {
+                  "text": "Attorney General of Norway",
+                  "type": "internal",
+                  "page": "Office of the Attorney General of Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Sven Ole Fagernæs"
+                }
+              ]
+            },
+            {
+              "text": "In 2019, Carl Baudenbacher harshly criticized Sejersted in an op-ed for allegedly trying to undermine the law and courts of the European Free-Trade Area.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Carl Baudenbacher"
+                }
+              ]
+            },
+            {
+              "text": "Sejersted published a rebuttal in a similarly harsh op-ed."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "year": "1965",
+          "month": "7",
+          "day": "2",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Fredrik Sejersted"
+          },
+          "image": {
+            "text": "Fredrik Sejersted på Sentralbanksjefens årstale 2018 (191508).jpg"
+          },
+          "caption": {
+            "text": "Sejersted in 2018"
+          },
+          "office": {
+            "text": "Attorney General of Norway",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Attorney General of Norway"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "17 April 2015"
+          },
+          "primeminister": {
+            "text": "Erna Solberg",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Erna Solberg"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Sven Ole Fagernæs",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sven Ole Fagernæs"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "July 2, 1965"
+          },
+          "nationality": {
+            "text": "Norwegian"
+          },
+          "parents": {
+            "text": "Francis Sejersted (father) Hilde Sejersted (mother)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Francis Sejersted"
+              },
+              {
+                "type": "internal",
+                "page": "Hilde Sejersted"
+              }
+            ]
+          },
+          "occupation": {
+            "text": "Jurist"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.advokatbladet.no/2015/01/sejerherren/",
+          "title": "Fredrik Sejersted ny regjeringsadvokat: Sejerherren",
+          "date": "29 January 2015",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Sejersted-utvalget",
+          "first": "Lars Petter",
+          "last": "Berg",
+          "encyclopedia": "Store norske leksikon",
+          "editor-last": "Godal",
+          "editor-first": "Anne Marit",
+          "editor-link": "Anne Marit Godal",
+          "publisher": "Norsk nettleksikon",
+          "location": "Oslo",
+          "url": "http://snl.no/Sejersted-utvalget",
+          "language": "Norwegian",
+          "accessdate": "13 February 2016",
+          "template": "citation",
+          "type": "encyclopedia"
+        },
+        {
+          "url": "https://www.vg.no/i/AdBJOE",
+          "title": "NAV-skandalen et resultat av 20 års motstand mot EØS, ESA og EFTA-domstolen",
+          "website": "www.vg.no",
+          "language": "nb",
+          "access-date": "2019-11-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.vg.no/i/g7xrqk",
+          "title": "Om lojalitet og etterlevelse",
+          "website": "www.vg.no",
+          "language": "nb",
+          "access-date": "2019-11-04",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Fredrik Sejersted",
+          "first": "Jon",
+          "last": "Gisle",
+          "authorlink": "Jon Gisle",
+          "encyclopedia": "Store norske leksikon",
+          "editor-last": "Godal",
+          "editor-first": "Anne Marit",
+          "editor-link": "Anne Marit Godal",
+          "publisher": "Norsk nettleksikon",
+          "location": "Oslo",
+          "url": "http://snl.no/Fredrik_Sejersted",
+          "language": "Norwegian",
+          "accessdate": "13 February 2016",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "s-start"
+        },
+        {
+          "template": "s-civ"
+        },
+        {
+          "before": "Sven Ole Fagernæs",
+          "template": "s-bef"
+        },
+        {
+          "title": "Attorney General of Norway",
+          "years": "2015–present",
+          "template": "s-ttl"
+        },
+        {
+          "template": "s-inc"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

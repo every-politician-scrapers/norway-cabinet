@@ -1,0 +1,104 @@
+{
+  "title": "Cecilie Østensen Berglund",
+  "pageID": 58865343,
+  "categories": [
+    "1971 births",
+    "Living people",
+    "Judges from Oslo",
+    "Supreme Court of Norway justices",
+    "Norwegian women judges",
+    "Civil servants from Oslo"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Cecilie Østensen Berglund (born 2 October 1971) is a Norwegian judge.",
+              "formatting": {
+                "bold": [
+                  "Cecilie Østensen Berglund"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She graduated with the cand.jur. degree in 1998.",
+              "links": [
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "Berglund worked for many years in the Supreme Court of Norway, among others as assisting director, before serving as a judge in Borgarting Court of Appeal from 2009.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Borgarting Court of Appeal"
+                }
+              ]
+            },
+            {
+              "text": "She was appointed as a Supreme Court Justice in 2017.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Cecilie Østensen Berglund",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Cecilie_Østensen_Berglund",
+          "language": "Norwegian",
+          "accessdate": "24 October 2018",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

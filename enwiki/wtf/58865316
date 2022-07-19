@@ -1,0 +1,211 @@
+{
+  "title": "Borgar Høgetveit Berg",
+  "pageID": 58865316,
+  "categories": [
+    "1970 births",
+    "Living people",
+    "Judges from Oslo",
+    "Supreme Court of Norway justices"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Borgar Høgetveit Berg (born 9 April 1970 ) is a Norwegian judge, who has served as a Justice of the Supreme Court of Norway since May 2017.",
+              "links": [
+                {
+                  "text": "Justice",
+                  "type": "internal",
+                  "page": "List of Justices in the Supreme Court of Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Borgar Høgetveit Berg"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2021",
+          "template": "expand norwegian"
+        },
+        {
+          "description": "Norwegian judge",
+          "template": "short description"
+        },
+        {
+          "year": "1970",
+          "month": "04",
+          "day": "09",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "birth_place": {
+            "text": "Ål, Buskerud, Norway",
+            "links": [
+              {
+                "text": "Ål",
+                "type": "internal",
+                "page": "Ål"
+              },
+              {
+                "type": "internal",
+                "page": "Buskerud"
+              },
+              {
+                "type": "internal",
+                "page": "Norway"
+              }
+            ]
+          },
+          "birth_date": {
+            "text": "April 9, 1970"
+          },
+          "office": {
+            "text": "Justice of the Supreme Court of Norway",
+            "links": [
+              {
+                "text": "Justice",
+                "type": "internal",
+                "page": "List of Justices in the Supreme Court of Norway"
+              },
+              {
+                "type": "internal",
+                "page": "Supreme Court of Norway"
+              }
+            ]
+          },
+          "name": {
+            "text": "Borgar Høgetveit Berg"
+          },
+          "termstart": {
+            "text": "1 May 2017"
+          },
+          "monarch": {
+            "text": "Harald V",
+            "links": [
+              {
+                "text": "Harald V",
+                "type": "internal",
+                "page": "Harald V of Norway"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "University of Oslo",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Oslo"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Borgar Høgetveit Berg",
+          "encyclopedia": "Store norske leksikon",
+          "url": "http://www.snl.no/Borgar_Høgetveit_Berg",
+          "language": "Norwegian",
+          "accessdate": "24 October 2018",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "Early life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Berg was born on 9 April 1970 to Hallgrim Berg and Maria Høgetveit Berg.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Hallgrim Berg"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Career",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "He worked in the Office of the Attorney General of Norway from 1998 to 2005, then as a partner in the law firm Thommessen.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Office of the Attorney General of Norway"
+                },
+                {
+                  "type": "internal",
+                  "page": "Thommessen"
+                }
+              ]
+            },
+            {
+              "text": "He was also acting judge in Borgarting Court of Appeal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Borgarting Court of Appeal"
+                }
+              ]
+            },
+            {
+              "text": "He was appointed as a Supreme Court Justice in 2017.",
+              "links": [
+                {
+                  "text": "Supreme Court",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

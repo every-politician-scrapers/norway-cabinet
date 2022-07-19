@@ -1,0 +1,120 @@
+{
+  "title": "Per Erik Bergsjø",
+  "pageID": 39273994,
+  "categories": [
+    "1958 births",
+    "Living people",
+    "People from Levanger",
+    "Norwegian civil servants",
+    "20th-century Norwegian judges",
+    "Supreme Court of Norway justices",
+    "21st-century Norwegian judges"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Per Erik Bergsjø (born 1958) is a Norwegian lawyer and judge.",
+              "formatting": {
+                "bold": [
+                  "Per Erik Bergsjø"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was born in Levanger and graduated with the cand.jur. degree in 1985.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Levanger"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "After three years as a consultant and adviser in the Ministry of Justice and the Police from 1986 to 1989, he served as a deputy judge in Nord-Troms District Court for one year and then a presiding judge in the same court from 1990 to 1993.",
+              "links": [
+                {
+                  "text": "Ministry of Justice and the Police",
+                  "type": "internal",
+                  "page": "Norwegian Ministry of Justice and the Police"
+                },
+                {
+                  "type": "internal",
+                  "page": "Nord-Troms District Court"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "He was then hired in the law firm Vogt & Co (later merged to form Vogt & Wiig) in 1993."
+            },
+            {
+              "text": "He was a partner there from 1995 to 2012; since 2000 as a barrister with eligibility to work with Supreme Court cases."
+            },
+            {
+              "text": "He was then appointed as a Supreme Court Justice in March 2012.",
+              "links": [
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian Supreme Court Justice",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.domstol.no/Enkelt-domstol/-Norges-Hoyesterett/Gammelt/Per-Erik-Bergsjo-hoyesterettsdommer1/",
+          "title": "Per Erik Bergsjø, Høyesterettsdommer",
+          "publisher": "Norwegian National Courts Administration",
+          "language": "Norwegian",
+          "accessdate": "1 May 2013",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-law-bio-stub"
+        }
+      ]
+    }
+  ]
+}

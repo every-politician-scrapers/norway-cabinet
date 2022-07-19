@@ -1,0 +1,164 @@
+{
+  "title": "Kristin Normann",
+  "pageID": 29571811,
+  "categories": [
+    "1954 births",
+    "Living people",
+    "Judges from Oslo",
+    "Academics of the Faculty of Law, University of Oslo",
+    "Supreme Court of Norway justices",
+    "Norwegian women academics",
+    "Norwegian women judges",
+    "Women legal scholars"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Kristin Normann (born 1 May 1954) is a Norwegian judge and legal scholar.",
+              "formatting": {
+                "bold": [
+                  "Kristin Normann"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was born in Oslo, and took the cand.jur. degree in 1982.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oslo"
+                },
+                {
+                  "text": "cand.jur.",
+                  "type": "internal",
+                  "page": "cand.jur."
+                }
+              ]
+            },
+            {
+              "text": "A 1973 graduate of South Mecklenburg High School in Charlotte, North Carolina, she was a research fellow, associate professor and professor at the University of Oslo between 1985 and 2007, and took the dr.juris degree in 1994.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "South Mecklenburg High School"
+                },
+                {
+                  "type": "internal",
+                  "page": "Charlotte"
+                },
+                {
+                  "type": "internal",
+                  "page": "North Carolina"
+                },
+                {
+                  "text": "research fellow",
+                  "type": "internal",
+                  "page": "research fellow"
+                },
+                {
+                  "type": "internal",
+                  "page": "University of Oslo"
+                },
+                {
+                  "text": "dr.juris",
+                  "type": "internal",
+                  "page": "dr.juris"
+                }
+              ]
+            },
+            {
+              "text": "In 2003 she was an acting presiding judge in Borgarting Court of Appeal.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Borgarting Court of Appeal"
+                }
+              ]
+            },
+            {
+              "text": "She was a partner in the law firm Selmer DA from 2006 to 2010, and is a Supreme Court Justice from August 2010.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Selmer DA"
+                },
+                {
+                  "text": "Supreme Court Justice",
+                  "type": "internal",
+                  "page": "Supreme Court of Norway"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Norwegian judge and legal scholar (born 1954)",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Kristin Normann"
+          },
+          "image": {
+            "text": "Kristin Normann.jpg"
+          },
+          "caption": {
+            "text": "Kristin Normann, 2010."
+          },
+          "office": {
+            "text": "Supreme Court Justice"
+          },
+          "term_start": {
+            "text": "August 2010"
+          }
+        }
+      ],
+      "references": [
+        {
+          "year": "2007",
+          "title": "Kristin Normann",
+          "encyclopedia": "Store norske leksikon",
+          "editor": "Henriksen, Petter",
+          "publisher": "Kunnskapsforlaget",
+          "location": "Oslo",
+          "url": "http://www.snl.no/Kristin_Normann",
+          "language": "Norwegian",
+          "accessdate": "12 November 2009",
+          "template": "citation",
+          "type": "encyclopedia"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "supreme court of norway"
+        },
+        {
+          "template": "authority control"
+        },
+        {
+          "template": "norway-academic-bio-stub"
+        }
+      ]
+    }
+  ]
+}
