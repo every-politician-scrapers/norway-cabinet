@@ -29,7 +29,7 @@ class MemberList
     # from the header-bar list to be left with the position.
     # Unfortunately, sometimes the names differ between the two lists!
     def name_and_position
-      noko.css('h2').text.tidy
+      noko.css('h2').text.split('(').first.tidy
     end
 
     def header_minister
