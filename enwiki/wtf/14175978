@@ -200,6 +200,13 @@
                 "page": "Labour Party (Norway)"
               }
             ]
+          },
+          "spouse": {
+            "text": "Marit Aasland"
+          },
+          "children": {
+            "text": "3",
+            "number": 3
           }
         }
       ]
@@ -493,6 +500,30 @@
           "publisher": "NRK",
           "date": "6 July 2022",
           "access-date": "10 July 2022",
+          "language": "no",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Aasland is married and has three adult children."
+            }
+          ]
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.arbeiderpartiet.no/politikere/terje-aasland/",
+          "title": "Terje Aasland - Arbeiderpartiet",
+          "publisher": "Arbeiderpartiet.no",
+          "access-date": "23 July 2022",
           "language": "no",
           "template": "citation",
           "type": "web"
