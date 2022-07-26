@@ -1,0 +1,86 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Norwegian Parliament"
+    },
+    "P580": "2005-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliament",
+        "Centre Party (Norway)"
+      ],
+      "stated_as": "Parliamentary Leader of the Centre Party"
+    },
+    "P580": "2009-10-01",
+    "P1365": {
+      "links": [
+        "Rune J. Skjælaaen"
+      ],
+      "stated_as": "Rune J. Skjælaaen"
+    },
+    "P582": "2012-06-18",
+    "P1366": {
+      "links": [
+        "Lars Peder Brekk"
+      ],
+      "stated_as": "Lars Peder Brekk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Agriculture and Food (Norway)"
+      ],
+      "stated_as": "Minister of Agriculture and Food"
+    },
+    "P580": "2012-06-18",
+    "P1365": {
+      "links": [
+        "Lars Peder Brekk"
+      ],
+      "stated_as": "Lars Peder Brekk"
+    },
+    "P582": "2013-10-16",
+    "P1366": {
+      "links": [
+        "Sylvi Listhaug"
+      ],
+      "stated_as": "Sylvi Listhaug"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Centre Party (Norway)"
+      ],
+      "stated_as": "Leader of the Centre Party"
+    },
+    "P580": "2014-04-07",
+    "P1365": {
+      "links": [
+        "Liv Signe Navarsete"
+      ],
+      "stated_as": "Liv Signe Navarsete"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Finance (Norway)"
+      ],
+      "stated_as": "Minister of Finance"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Jan Tore Sanner"
+      ],
+      "stated_as": "Jan Tore Sanner"
+    }
+  }
+]

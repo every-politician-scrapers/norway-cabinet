@@ -1,0 +1,61 @@
+[
+  {
+    "office": {
+      "links": [
+        "Politics and government of Oslo"
+      ],
+      "stated_as": "Oslo City Commissioner for Transport and the Environment"
+    },
+    "P580": "1992-01-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Merete Johnsen"
+    },
+    "P582": "1995-10-25",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Steinar Saghaug"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Labour Party (Norway)"
+      ],
+      "stated_as": "Party Secretary of the Labour Party"
+    },
+    "P580": "2009-04-18",
+    "P1365": {
+      "links": [
+        "Martin Kolberg"
+      ],
+      "stated_as": "Martin Kolberg"
+    },
+    "P582": "2015-04-18",
+    "P1366": {
+      "links": [
+        "Kjersti Stenseng"
+      ],
+      "stated_as": "Kjersti Stenseng"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Governing Mayor of Oslo"
+      ],
+      "stated_as": "7th Governing Mayor of Oslo"
+    },
+    "P580": "2015-10-21",
+    "P1365": {
+      "links": [
+        "Stian Berger Røsland"
+      ],
+      "stated_as": "Stian Berger Røsland"
+    }
+  }
+]

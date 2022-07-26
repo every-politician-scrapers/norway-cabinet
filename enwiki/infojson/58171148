@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "State Secretary (Norway)",
+        "Ministry of Local Government and Regional Development (Norway)"
+      ],
+      "stated_as": "State Secretary for the Ministry of Local Government and Regional Development"
+    },
+    "P580": "2011-02-14",
+    "P582": "2013-10-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Centre Party (Norway)"
+      ],
+      "stated_as": "Second Deputy Leader of the Centre Party"
+    },
+    "P580": "2014-04-07",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Trygve Slagsvold Vedum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of International Development (Norway)"
+      ],
+      "stated_as": "Minister of International Development"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Dag Inge Ulstein"
+      ],
+      "stated_as": "Dag Inge Ulstein"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Nordic Cooperation (Norway)"
+      ],
+      "stated_as": "Minister of Nordic Cooperation"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Jan Tore Sanner"
+      ],
+      "stated_as": "Jan Tore Sanner"
+    }
+  }
+]

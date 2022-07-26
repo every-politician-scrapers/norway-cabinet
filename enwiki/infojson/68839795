@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "Fredrikstad"
+      ],
+      "stated_as": "Mayor of Fredrikstad"
+    },
+    "P580": "2011-10-20",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Eva Kristin Andersen"
+    },
+    "P582": "2021-10-21",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Siri Martinsen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Deputy Member of the Storting"
+    },
+    "P580": "2013-10-01",
+    "P582": "2017-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2021-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Transport of Norway"
+      ],
+      "stated_as": "Minister of Transport"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Knut Arild Hareide"
+      ],
+      "stated_as": "Knut Arild Hareide"
+    }
+  }
+]

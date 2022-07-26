@@ -1,68 +1,68 @@
-pageid,title
-66069,Harald V of Norway
-2926932,Jonas Gahr Støre
-4103744,Gunn Karin Gjul
-4205078,Ola Borten Moe
-5715149,Anniken Huitfeldt
-5779481,Anette Trettebergstuen
-5779669,Trygve Slagsvold Vedum
-9190630,Rita Ottervik
-10155726,Raymond Johansen
-13930411,Wegard Harsvik
-13930466,Mette Gundersen
-14175978,Terje Aasland
-16799511,Bjørn Arild Gram
-17210242,Espen Barth Eide
-17473036,Vidar Ulriksen
-19714115,Magnus Matningsdal
-19714167,Jens Edvin A. Skoghøy
-19755402,Hilde Indreberg
-19818405,Toril Marie Øie
-21835092,Wegger Christian Strømmen
-24823216,Kjersti Toppe
-25071508,Bergljot Webster
-25557512,Marianne Borgen
-25779228,Wilhelm Matheson
-29571759,Aage Thor Falkanger
-29571811,Kristin Normann
-30313860,Tor Christian Hildan
-30970033,Fred H. Nomme
-31077741,Peter Nicolay Ræder
-32343847,Lars Erik Bartnes
-32364839,Ragnhild Noer
-35551610,Wenche Elizabeth Arntzen
-36295685,Ingvald Falch
-36430446,Masud Gharahkhani
-37813866,Kristina Torbergsen
-39041582,Lotte Grepp Knutsen
-39204608,Henrik Bull (judge)
-39273952,Knut H. Kallerud
-39273994,Per Erik Bergsjø
-40952217,Ingvild Kjerkol
-41401462,Halvard Ingebrigtsen
-42735294,Sissel Birgitte Breie
-46901680,Arne Ringnes
-49420547,Fredrik Sejersted
-53127963,Helge Skaara
-53127990,Johan Christopher Vibe
-54593922,Silje Karine Muotka
-55217404,Sandra Borch
-55227974,Emilie Enger Mehl
-55435141,Sigbjørn Gjelsvik
-58171148,Anne Beathe Tvinnereim
-58865316,Borgar Høgetveit Berg
-58865333,Espen Bergh
-58865343,Cecilie Østensen Berglund
-60199024,Erik Førner
-63511563,Merethe Nergaard
-65813420,Eirik Kristoffersen
-66634568,Erik Thyness
-66634596,Kine Elisabeth Steinsvik
-68643063,Bjørnar Skjæran
-68837668,Marte Mjøs Persen
-68839795,Jon-Ivar Nygård
-69008404,Tonje Brenna
-69017503,Jan Christian Vestre
-69070336,Lars Fause
-69604955,Ole Gustav Narud
-70384454,Ida Wolden Bache
+pageid,title,wikidata,label
+66069,Harald V of Norway,Q57287,Harald V of Norway
+2926932,Jonas Gahr Støre,Q467948,Jonas Gahr Støre
+4103744,Gunn Karin Gjul,Q5618906,Gunn Karin Gjul
+4205078,Ola Borten Moe,Q728444,Ola Borten Moe
+5715149,Anniken Huitfeldt,Q156540,Anniken Huitfeldt
+5779481,Anette Trettebergstuen,Q4761757,Anette Trettebergstuen
+5779669,Trygve Slagsvold Vedum,Q548001,Trygve Slagsvold Vedum
+9190630,Rita Ottervik,Q455871,Rita Ottervik
+10155726,Raymond Johansen,Q4588378,Raymond Johansen
+13930411,Wegard Harsvik,Q7979663,Wegard Harsvik
+13930466,Mette Gundersen,Q6825475,Mette Gundersen
+14175978,Terje Aasland,Q1772899,Terje Aasland
+16799511,Bjørn Arild Gram,Q4919832,Bjørn Arild Gram
+17210242,Espen Barth Eide,Q267320,Espen Barth Eide
+17473036,Vidar Ulriksen,Q7927715,Vidar Ulriksen
+19714115,Magnus Matningsdal,Q4584516,Magnus Matningsdal
+19714167,Jens Edvin A. Skoghøy,Q4583752,Jens Edvin A. Skoghøy
+19755402,Hilde Indreberg,Q4579361,Hilde Indreberg
+19818405,Toril Marie Øie,Q4571856,Toril Marie Øie
+21835092,Wegger Christian Strømmen,Q7979681,Wegger Christian Strømmen
+24823216,Kjersti Toppe,Q3432015,Kjersti Toppe
+25071508,Bergljot Webster,Q3438518,Bergljot Webster
+25557512,Marianne Borgen,Q4572947,Marianne Borgen
+25779228,Wilhelm Matheson,Q3438527,Wilhelm Matheson
+29571759,Aage Thor Falkanger,Q3428767,Aage Thor Falkanger
+29571811,Kristin Normann,Q3377661,Kristin Normann
+30313860,Tor Christian Hildan,Q7825242,Tor Christian Hildan
+30970033,Fred H. Nomme,Q5495334,Fred H. Nomme
+31077741,Peter Nicolay Ræder,Q7176103,Peter Nicolay Ræder
+32343847,Lars Erik Bartnes,Q4994596,Lars Erik Bartnes
+32364839,Ragnhild Noer,Q3429885,Ragnhild Noer
+35551610,Wenche Elizabeth Arntzen,Q449788,Wenche Elizabeth Arntzen
+36295685,Ingvald Falch,Q25434208,Ingvald Falch
+36430446,Masud Gharahkhani,Q5273847,Masud Gharahkhani
+37813866,Kristina Torbergsen,Q322833,Kristina Torbergsen
+39041582,Lotte Grepp Knutsen,Q4994354,Lotte Grepp Knutsen
+39204608,Henrik Bull (judge),Q10360581,Henrik Bull
+39273952,Knut H. Kallerud,Q13641759,Knut H. Kallerud
+39273994,Per Erik Bergsjø,Q13371062,Per-Erik Bergsjø
+40952217,Ingvild Kjerkol,Q11977297,Ingvild Kjerkol
+41401462,Halvard Ingebrigtsen,Q4994183,Halvard Ingebrigtsen
+42735294,Sissel Birgitte Breie,Q16864035,Sissel Birgitte Breie
+46901680,Arne Ringnes,Q19371833,Arne Ringnes
+49420547,Fredrik Sejersted,Q11970097,Fredrik Sejersted
+53127963,Helge Skaara,Q28741149,Helge Skaara
+53127990,Johan Christopher Vibe,Q17113627,Johan Christopher Vibe
+54593922,Silje Karine Muotka,Q3444846,Silje Karine Muotka
+55217404,Sandra Borch,Q13408025,Sandra Borch
+55227974,Emilie Enger Mehl,Q19974554,Emilie Enger Mehl
+55435141,Sigbjørn Gjelsvik,Q14437803,Sigbjørn Gjelsvik
+58171148,Anne Beathe Tvinnereim,Q17113191,Anne Beathe Tvinnereim
+58865316,Borgar Høgetveit Berg,Q18670560,Borgar Høgetveit Berg
+58865333,Espen Bergh,Q25434239,Espen Bergh
+58865343,Cecilie Østensen Berglund,Q57915414,Cecilie Østensen Berglund
+60199024,Erik Førner,Q62024305,Erik Førner
+63511563,Merethe Nergaard,Q84674420,Merethe Nergaard
+65813420,Eirik Kristoffersen,Q11966875,Eirik Kristoffersen
+66634568,Erik Thyness,Q61740769,Erik Thyness
+66634596,Kine Elisabeth Steinsvik,Q61740489,Kine Elisabeth Steinsvik
+68643063,Bjørnar Skjæran,Q17107377,Bjørnar Skjæran
+68837668,Marte Mjøs Persen,Q11988487,Marte Mjøs Persen
+68839795,Jon-Ivar Nygård,Q11979121,Jon-Ivar Nygård
+69008404,Tonje Brenna,Q12006785,Tonje Brenna
+69017503,Jan Christian Vestre,Q17113622,Jan Christian Vestre
+69070336,Lars Fause,Q98399126,Lars Fause
+69604955,Ole Gustav Narud,Q11993601,Ole Gustav Narud
+70384454,Ida Wolden Bache,Q110126862,Ida Wolden Bache

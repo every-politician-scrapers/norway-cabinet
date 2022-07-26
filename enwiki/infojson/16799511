@@ -1,0 +1,83 @@
+[
+  {
+    "office": {
+      "links": [
+        "Steinkjer"
+      ],
+      "stated_as": "Mayor of Steinkjer"
+    },
+    "P580": "2007-10-03",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Per Sverre Rannem"
+    },
+    "P582": "2020-03-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Anne Berit Lein"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Norwegian Association of Local and Regional Authorities"
+      ],
+      "stated_as": "Chair of the Norwegian Association of Local and Regional Authorities"
+    },
+    "P580": "2020-02-12",
+    "P1365": {
+      "links": [
+        "Gunn Marit Helgesen"
+      ],
+      "stated_as": "Gunn Marit Helgesen"
+    },
+    "P582": "2021-10-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Gunn Marit Helgesen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Local Government and Modernisation (Norway)"
+      ],
+      "stated_as": "Minister of Local Government"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Nikolai Astrup (politician)"
+      ],
+      "stated_as": "Nikolai Astrup"
+    },
+    "P582": "2022-04-12",
+    "P1366": {
+      "links": [
+        "Sigbjørn Gjelsvik"
+      ],
+      "stated_as": "Sigbjørn Gjelsvik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Norway)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2022-04-12",
+    "P1365": {
+      "links": [
+        "Odd Roger Enoksen"
+      ],
+      "stated_as": "Odd Roger Enoksen"
+    }
+  }
+]

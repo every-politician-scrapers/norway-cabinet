@@ -1,0 +1,58 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Deputy Member of the Storting"
+    },
+    "P580": "2005-10-01",
+    "P582": "2013-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "County council"
+      ],
+      "stated_as": "Leader of the Nord-Trøndelag County Council"
+    },
+    "P580": "2011-10-18",
+    "P1365": {
+      "links": [
+        "Alf Daniel Moen"
+      ],
+      "stated_as": "Alf Daniel Moen"
+    },
+    "P582": "2013-06-13",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Anne Marit Mevassvik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2013-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health and Care Services"
+      ],
+      "stated_as": "Minister of Health and Care Services"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Bent Høie"
+      ],
+      "stated_as": "Bent Høie"
+    }
+  }
+]

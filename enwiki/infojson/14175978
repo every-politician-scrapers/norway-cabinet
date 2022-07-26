@@ -1,0 +1,44 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2005-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Parliamentary leader",
+        "Labour Party (Norway)"
+      ],
+      "stated_as": "Deputy Parliamentary Leader of the Labour Party"
+    },
+    "P580": "2021-10-13",
+    "P582": "2022-03-07",
+    "P1366": {
+      "links": [
+        "Åsmund Grøver Aukrust",
+        "Lene Vågslid"
+      ],
+      "stated_as": "Åsmund Grøver Aukrust Lene Vågslid"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Petroleum and Energy"
+      ],
+      "stated_as": "Minister of Petroleum and Energy"
+    },
+    "P580": "2022-03-07",
+    "P1365": {
+      "links": [
+        "Marte Mjøs Persen"
+      ],
+      "stated_as": "Marte Mjøs Persen"
+    }
+  }
+]

@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "List of mayors of Bergen"
+      ],
+      "stated_as": "Mayor of Bergen"
+    },
+    "P580": "2015-10-28",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Trude Drevland"
+    },
+    "P582": "2021-09-22",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Rune Bakervik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2021-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Petroleum and Energy"
+      ],
+      "stated_as": "Minister of Petroleum and Energy"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Tina Bru"
+      ],
+      "stated_as": "Tina Bru"
+    },
+    "P582": "2022-03-07",
+    "P1366": {
+      "links": [
+        "Terje Aasland"
+      ],
+      "stated_as": "Terje Aasland"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Labour and Social Inclusion"
+      ],
+      "stated_as": "Minister of Labour and Social Inclusion"
+    },
+    "P580": "2022-03-07",
+    "P1365": {
+      "links": [
+        "Hadia Tajik"
+      ],
+      "stated_as": "Hadia Tajik"
+    }
+  }
+]

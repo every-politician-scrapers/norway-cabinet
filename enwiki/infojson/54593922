@@ -1,0 +1,56 @@
+[
+  {
+    "office": {
+      "links": [
+        "Sámi Parliament of Norway"
+      ],
+      "stated_as": "Member of the Sámi Parliament of Norway"
+    },
+    "P580": "2009",
+    "P582": "2013"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of the Governing Council"
+    },
+    "P580": "2013-10-16",
+    "P582": "2016-12-08"
+  },
+  {
+    "office": {
+      "links": [
+        "Sámi Parliament of Norway"
+      ],
+      "stated_as": "Member of the Sámi Parliament of Norway"
+    },
+    "P580": "2016"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Councillor for Environment, Industry, and Developmental Issues"
+    },
+    "P580": "2017-10-12",
+    "P582": "2021-10-21"
+  },
+  {
+    "office": {
+      "links": [
+        "Sámi Parliament of Norway"
+      ],
+      "stated_as": "President of the Sámi Parliament of Norway"
+    },
+    "P580": "2021-10-21",
+    "P1365": {
+      "links": [
+        "Aili Keskitalo"
+      ],
+      "stated_as": "Aili Keskitalo"
+    }
+  }
+]
