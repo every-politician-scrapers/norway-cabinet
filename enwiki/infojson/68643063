@@ -1,0 +1,63 @@
+[
+  {
+    "office": {
+      "links": [
+        "Lurøy"
+      ],
+      "stated_as": "Mayor of Lurøy"
+    },
+    "P580": "2011-10-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Carl Einar Isachsen jr."
+    },
+    "P582": "2015-10-16",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Carl Einar Isachsen jr."
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Labour Party (Norway)"
+      ],
+      "stated_as": "Deputy Leader of the Labour Party"
+    },
+    "P580": "2019-04-06",
+    "P1365": {
+      "links": [
+        "Trond Giske"
+      ],
+      "stated_as": "Trond Giske"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2021-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Fisheries (Norway)"
+      ],
+      "stated_as": "Minister of Fisheries and Ocean Policy"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Odd Emil Ingebrigtsen"
+      ],
+      "stated_as": "Odd Emil Ingebrigtsen"
+    }
+  }
+]

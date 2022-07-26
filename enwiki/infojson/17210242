@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Defence (Norway)"
+      ],
+      "stated_as": "Minister of Defence"
+    },
+    "P580": "2011-11-11",
+    "P1365": {
+      "links": [
+        "Grete Faremo"
+      ],
+      "stated_as": "Grete Faremo"
+    },
+    "P582": "2012-09-21",
+    "P1366": {
+      "links": [
+        "Anne-Grete Strøm-Erichsen"
+      ],
+      "stated_as": "Anne-Grete Strøm-Erichsen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Norway)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2012-09-21",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jonas Gahr Støre"
+    },
+    "P582": "2013-10-16",
+    "P1366": {
+      "links": [
+        "Børge Brende"
+      ],
+      "stated_as": "Børge Brende"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Norwegian Parliament"
+    },
+    "P580": "2017-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Climate and the Environment (Norway)"
+      ],
+      "stated_as": "Minister of Climate and the Environment"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Sveinung Rotevatn"
+      ],
+      "stated_as": "Sveinung Rotevatn"
+    }
+  }
+]

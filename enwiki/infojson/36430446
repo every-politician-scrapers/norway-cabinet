@@ -1,0 +1,36 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Deputy Member of the Storting"
+    },
+    "P580": "2009-10-01",
+    "P582": "2013-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2017-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "List of presidents of the Storting"
+      ],
+      "stated_as": "President of the Storting"
+    },
+    "P580": "2021-11-25",
+    "P1365": {
+      "links": [
+        "Eva Kristin Hansen"
+      ],
+      "stated_as": "Eva Kristin Hansen"
+    }
+  }
+]

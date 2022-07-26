@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2017-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Local Government and Modernisation (Norway)"
+      ],
+      "stated_as": "Minister of Local Government"
+    },
+    "P580": "2022-04-12",
+    "P1365": {
+      "links": [
+        "Bjørn Arild Gram"
+      ],
+      "stated_as": "Bjørn Arild Gram"
+    }
+  }
+]

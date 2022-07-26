@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Norwegian Parliament"
+    },
+    "P580": "2009-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Children and Families"
+      ],
+      "stated_as": "Minister of Children and Families"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Kjell Ingolf Ropstad"
+      ],
+      "stated_as": "Kjell Ingolf Ropstad"
+    }
+  }
+]

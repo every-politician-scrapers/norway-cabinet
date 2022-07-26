@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2017-10-09"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Justice and Public Security"
+      ],
+      "stated_as": "Minister of Justice"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Monica Mæland"
+      ],
+      "stated_as": "Monica Mæland"
+    }
+  }
+]

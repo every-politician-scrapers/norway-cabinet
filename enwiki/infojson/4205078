@@ -1,0 +1,73 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Norwegian Parliament"
+    },
+    "P580": "2005-10-01",
+    "P582": "2013-09-30"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Petroleum and Energy (Norway)"
+      ],
+      "stated_as": "Minister of Petroleum and Energy"
+    },
+    "P580": "2011-03-04",
+    "P1365": {
+      "links": [
+        "Terje Riis-Johansen"
+      ],
+      "stated_as": "Terje Riis-Johansen"
+    },
+    "P582": "2013-10-16",
+    "P1366": {
+      "links": [
+        "Tord Lien"
+      ],
+      "stated_as": "Tord Lien"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Centre Party (Norway)"
+      ],
+      "stated_as": "First Deputy Leader of the Centre Party"
+    },
+    "P580": "2011-03-19",
+    "P1365": {
+      "links": [
+        "Lars Peder Brekk"
+      ],
+      "stated_as": "Lars Peder Brekk"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Norwegian Parliament"
+    },
+    "P580": "2021-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Education and Research (Norway)"
+      ],
+      "stated_as": "Minister of Science and Higher Education"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Henrik Asheim"
+      ],
+      "stated_as": "Henrik Asheim"
+    }
+  }
+]

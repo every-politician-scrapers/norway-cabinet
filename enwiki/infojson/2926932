@@ -1,0 +1,108 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Norway)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2005-10-17",
+    "P1365": {
+      "links": [
+        "Jan Petersen"
+      ],
+      "stated_as": "Jan Petersen"
+    },
+    "P582": "2012-09-21",
+    "P1366": {
+      "links": [
+        "Espen Barth Eide"
+      ],
+      "stated_as": "Espen Barth Eide"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting",
+        "Oslo (Storting constituency)"
+      ],
+      "stated_as": "Member of the Storting for Oslo"
+    },
+    "P580": "2009-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Health and Care Services"
+      ],
+      "stated_as": "Minister of Health and Care Services"
+    },
+    "P580": "2012-09-21",
+    "P1365": {
+      "links": [
+        "Anne-Grete Strøm-Erichsen"
+      ],
+      "stated_as": "Anne-Grete Strøm-Erichsen"
+    },
+    "P582": "2013-10-16",
+    "P1366": {
+      "links": [
+        "Bent Høie"
+      ],
+      "stated_as": "Bent Høie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Labour Party (Norway)"
+      ],
+      "stated_as": "Leader of the Labour Party"
+    },
+    "P580": "2014-06-14",
+    "P1365": {
+      "links": [
+        "Jens Stoltenberg"
+      ],
+      "stated_as": "Jens Stoltenberg"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2014-06-14",
+    "P1365": {
+      "links": [
+        "Jens Stoltenberg"
+      ],
+      "stated_as": "Jens Stoltenberg"
+    },
+    "P582": "2021-10-14",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Erna Solberg"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Norway"
+      ],
+      "stated_as": "36th Prime Minister of Norway"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Erna Solberg"
+      ],
+      "stated_as": "Erna Solberg"
+    }
+  }
+]

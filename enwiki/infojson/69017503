@@ -1,0 +1,28 @@
+[
+  {
+    "office": {
+      "links": [
+        "Political advisor",
+        "Ministry of Trade and Industry (Norway)"
+      ],
+      "stated_as": "Political advisor for the Minister of Trade and Industry"
+    },
+    "P580": "2013-06-03",
+    "P582": "2013-10-16"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Trade and Industry (Norway)"
+      ],
+      "stated_as": "Minister of Trade and Industry"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Iselin Nybø"
+      ],
+      "stated_as": "Iselin Nybø"
+    }
+  }
+]

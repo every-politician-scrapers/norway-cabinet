@@ -1,0 +1,114 @@
+[
+  {
+    "office": {
+      "links": [
+        "Workers' Youth League (Norway)"
+      ],
+      "stated_as": "Leader of the Workers' Youth League"
+    },
+    "P580": "1996-10-27",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Trond Giske"
+    },
+    "P582": "2000-10-22",
+    "P1366": {
+      "links": [
+        "Eva Kristin Hansen"
+      ],
+      "stated_as": "Eva Kristin Hansen"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2005-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Children and Families"
+      ],
+      "stated_as": "Minister of Children and Equality"
+    },
+    "P580": "2008-02-29",
+    "P1365": {
+      "links": [
+        "Manuela Ramin-Osmundsen"
+      ],
+      "stated_as": "Manuela Ramin-Osmundsen"
+    },
+    "P582": "2009-10-20",
+    "P1366": {
+      "links": [
+        "Audun Lysbakken"
+      ],
+      "stated_as": "Audun Lysbakken"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Culture (Norway)"
+      ],
+      "stated_as": "Minister of Culture"
+    },
+    "P580": "2009-10-20",
+    "P1365": {
+      "links": [
+        "Trond Giske"
+      ],
+      "stated_as": "Trond Giske"
+    },
+    "P582": "2012-09-21",
+    "P1366": {
+      "links": [
+        "Hadia Tajik"
+      ],
+      "stated_as": "Hadia Tajik"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Labour and Social Inclusion (Norway)"
+      ],
+      "stated_as": "Minister of Labour and Social Inclusion"
+    },
+    "P580": "2012-09-21",
+    "P1365": {
+      "links": [
+        "Hanne Bjurstrøm"
+      ],
+      "stated_as": "Hanne Bjurstrøm"
+    },
+    "P582": "2013-10-16",
+    "P1366": {
+      "links": [
+        "Robert Eriksson"
+      ],
+      "stated_as": "Robert Eriksson"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Norway)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Ine Eriksen Søreide"
+      ],
+      "stated_as": "Ine Eriksen Søreide"
+    }
+  }
+]

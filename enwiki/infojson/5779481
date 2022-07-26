@@ -1,0 +1,26 @@
+[
+  {
+    "office": {
+      "links": [
+        "Storting"
+      ],
+      "stated_as": "Member of the Storting"
+    },
+    "P580": "2005-10-01"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Culture and Equality"
+      ],
+      "stated_as": "Minister of Culture and Equality"
+    },
+    "P580": "2021-10-14",
+    "P1365": {
+      "links": [
+        "Abid Raja"
+      ],
+      "stated_as": "Abid Raja"
+    }
+  }
+]

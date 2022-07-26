@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Norges Bank"
+      ],
+      "stated_as": "Deputy Governor of the central bank of Norway"
+    },
+    "P580": "2020-04-01",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Jon Nicolaisen"
+    },
+    "P582": "2022-02-28",
+    "P1366": {
+      "links": [
+
+      ],
+      "stated_as": "Øystein Børsum"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Norges Bank"
+      ],
+      "stated_as": "Governor of the central bank of Norway"
+    },
+    "P580": "2022-03-24",
+    "P1365": {
+      "links": [
+        "Øystein Olsen (economist)"
+      ],
+      "stated_as": "Øystein Olsen"
+    }
+  }
+]
