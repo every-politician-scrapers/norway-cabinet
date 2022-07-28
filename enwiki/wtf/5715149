@@ -1712,6 +1712,22 @@
               "text": "And otherwise it is a question the judicial system may have to consider”."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 24 July, she condemned a Russian attack against a grain harbour in Odesa, Ukraine; calling the situation in the country \"pitch black\" in the wake of the Russian-Ukranian corn export agreement.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Odesa"
+                }
+              ]
+            },
+            {
+              "text": "Huitfeldt stated: \"Although the situation in Ukraine is pitch black, this agreement was a sign of something that could pull things in a different direction. Then comes this attack. Of course we get restless. The attack increases distrust between the parties, and it is very serious\"."
+            }
+          ]
         }
       ],
       "images": [
@@ -1950,6 +1966,16 @@
           "publisher": "Verdens Gang",
           "date": "15 June 2022",
           "access-date": "16 June 2022",
+          "language": "no",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.abcnyheter.no/nyheter/norge/2022/07/24/195860632/huitfeldt-norge-fordommer-russisk-angrep-mot-kornhavn-i-odesa",
+          "title": "Huitfeldt: Norge fordømmer russisk angrep mot kornhavn i Odesa",
+          "publisher": "ABC Nyheter",
+          "date": "24 July 2022",
+          "access-date": "27 July 2022",
           "language": "no",
           "template": "citation",
           "type": "web"
