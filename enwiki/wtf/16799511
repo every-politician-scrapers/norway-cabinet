@@ -586,10 +586,7 @@
               "text": "In early January 2022, the government announced that small houses will still be built with chimneys, in effect meaning that they would not go in to remove the requirement for single-family homes to have a chimney in accordance with building regulations."
             },
             {
-              "text": "Gram stressed the importance of chimneys, stating: “It is important that people can keep warm if there is a natural disaster or other major event."
-            },
-            {
-              "text": "By keeping the requirement for a chimney, we make it easier for more people to burn firewood”."
+              "text": "Gram stressed the importance of chimneys, stating: \"It is important that people can keep warm if there is a natural disaster or other major event. By keeping the requirement for a chimney, we make it easier for more people to burn firewood\"."
             }
           ]
         },
@@ -609,16 +606,10 @@
         {
           "sentences": [
             {
-              "text": "In March, Gram sent a proposal for an amendment to the Inheritance Act to the Storting that would ensure that family members of recently the deceased would be able to file paperwork digitally and make said process shorter and “less bureaucratic”."
+              "text": "In March, Gram sent a proposal for an amendment to the Inheritance Act to the Storting that would ensure that family members of the recently deceased would be able to file paperwork digitally and make said process shorter and \"less bureaucratic\"."
             },
             {
-              "text": "In his statement, he said: “Today, the process after death is complicated and paper-based."
-            },
-            {
-              "text": "We are now working on a digital death estate solution that will solve some of the bureaucratic tangles."
-            },
-            {
-              "text": "But for it to be legal to share data digitally via a digital death estate solution, the Inheritance Act must be changed”."
+              "text": "In his statement, he said: \"Today, the process after death is complicated and paper-based. We are now working on a digital death estate solution that will solve some of the bureaucratic tangles. But for it to be legal to share data digitally via a digital death estate solution, the Inheritance Act must be changed\"."
             }
           ]
         },
@@ -801,7 +792,7 @@
         {
           "sentences": [
             {
-              "text": "Gram visited Pasvik in Sør-Varanger with his Nordic counterparts on 11 May to discuss their countries’ continued cooperation.",
+              "text": "Gram visited Pasvik in Sør-Varanger with his Nordic counterparts on 11 May to discuss their countries' continued cooperation.",
               "links": [
                 {
                   "type": "internal",
@@ -869,7 +860,7 @@
         {
           "sentences": [
             {
-              "text": "At a defence minister summit in Brussels on 16 June, Gram said he wouldn’t rule out that Ukrainian soldiers could be trained in Norway, despite having previously ruled it out.",
+              "text": "At a defence minister summit in Brussels on 16 June, Gram said he wouldn't rule out that Ukrainian soldiers could be trained in Norway, despite having previously ruled it out.",
               "links": [
                 {
                   "type": "internal",
@@ -885,10 +876,10 @@
               "text": "After Sweden and Finland signed an agreement with Turkey, thereby clearing their way to join NATO, Russia made threats against the former."
             },
             {
-              "text": "Gram asserted that there would be no heighten risks with the two’s accession into NATO."
+              "text": "Gram asserted that there would be no heighten risks with the two's accession into NATO."
             },
             {
-              "text": "He noted that the countries would bring new defence capabilities and that the Nordics weren’t a threat against anyone and blamed Vladimir Putin’s actions as the cause for their accession.",
+              "text": "He noted that the countries would bring new defence capabilities and that the Nordics weren't a threat against anyone and blamed Vladimir Putin's actions as the cause for their accession.",
               "links": [
                 {
                   "type": "internal",
@@ -923,6 +914,25 @@
             },
             {
               "text": "He also said that he looked forward to working with veteran interest organisations."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "On 29 July, Gram announced that Norway would be donating 14 Iveco LMV armored patrol vehicles.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Iveco LMV"
+                }
+              ]
+            },
+            {
+              "text": "The vehicles would be donated in addition to artillery weapons, portable air defence and armor servers."
+            },
+            {
+              "text": "He stated: \"Norway continues to contribute to the Ukrainians' fight for freedom. The government is constantly assessing how Norway can provide further support to Ukraine in the country's defence against Russia's invasion\"."
             }
           ]
         }
@@ -1004,6 +1014,16 @@
           "publisher": "government.no",
           "date": "7 July 2022",
           "access-date": "10 July 2022",
+          "language": "no",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "url": "https://www.regjeringen.no/no/aktuelt/norge-donerer-pansrede-patruljekjoretoy-til-ukraina/id2923198/",
+          "title": "Norge donerer pansrede patruljekjøretøy til Ukraina",
+          "publisher": "government.no",
+          "date": "29 July 2022",
+          "access-date": "29 July 2022",
           "language": "no",
           "template": "citation",
           "type": "web"
